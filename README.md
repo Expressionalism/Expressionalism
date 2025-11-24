@@ -26,7 +26,7 @@ expressionalism_toolkit.py: Python implementation—run analyses on inputs (e.g.
 Upload more files via GitHub's "Add file" button as needed.
 Getting Started
 
-Clone the Repo:textgit clone [https://github.com/yourusername/expressionalism.git](https://github.com/Expressionalism/Expressionalism.git)
+Clone the Repo:textgit clone https://github.com/Expressionalism/Expressionalism.git
 cd expressionalism
 Run the Python Script: Requires Python 3.12+ with libraries like NumPy, SciPy, Pandas (install via pip install -r requirements.txt if added). Example:textpython scripts/expressionalism_toolkit.py --input "The sky is blue due to Rayleigh scattering"
 Customize with toggles: --toggles Density_Probe=On.
