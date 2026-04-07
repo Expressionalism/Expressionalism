@@ -1,618 +1,1101 @@
 # **Comprehensive Glossary for Expressionalism Framework and Toolkit**
 
-This glossary compiles and defines key terms, concepts, mathematical notions, and philosophical ideas central to Expressionalism. Entries are organized alphabetically for ease of reference, with cross-references where relevant. Definitions are rigorous, detailed, and self-contained, providing context, examples, and implications. Where applicable, mathematical formulations, philosophical underpinnings, and practical applications are elaborated to offer a thorough understanding. The glossary aims for comprehensiveness, covering jargon, metrics, operations, presumptions, and related elements, accessible to a general audience with education beyond high school level.
+**This glossary defines every key term, concept, mathematical structure, toggle, metric, and philosophical idea in the Expressionalism framework and toolkit.**
 
-### **A**
+Entries are alphabetical, self-contained, and include grounding in the presumptions or toolkit mechanics, operational details, examples, implications, and cross-references. It stands alone while serving as a precise companion to the eight presumptions and the operational toolkit.
 
-**Abductive Derivation**
+**At its heart:**
 
-The inference to the best provisional explanation, used throughout for tuning parameters, priors, summaries, and abductions (e.g., generating pseudo-secondaries or tempered certainties from sparse data). Philosophically, it aligns with conditional bootstrapping, favoring equitable fits without absolutes. Mathematically, it overrides defaults (e.g., sigmoid k=5–15 from input paradoxes) or expands ledgers (e.g., min 5 certainties via internal chunks). In applications, it auto-activates on lows (e.g., Echo Mode for uncertainties) or ambiguities, ensuring hackable neutrality. Examples include deriving Dirichlet alphas from keywords. Implications include preventing explosions while enabling fluid secondary expressions. See also: Bayesian Posterior (P\_norm); Certainty Temper Probe.
+Truth emerges as guessed probabilistic relations among connectable elements; meaning emerges as the living tensive ratio between those certainties and the uncertainties, generative pauses, and non-relational gaps that remain.
 
-**Adaptive Depth (Toggle)**
+## **How to Use This Glossary**
 
-A customization option that automatically adjusts the analytical depth based on input characteristics. It selects a lite mode, focusing on foundational elements like existence, contrasts, and relationality, when input variability is low, or a full mode encompassing the entire chain when variability exceeds certain thresholds. This ensures balanced complexity without overwhelming simpler cases. Philosophically, it aligns with the principle of provisionality, adapting to the obtainable aspects of an expression while tempering deeper dives to avoid unnecessary relational expansion. In practice, it previews potential incoherence and may force full analysis if deviations are significant. A sub-option emphasizes obtainment dynamics, skewing toward contrasts and treating unmappables as non-obtained pauses to enhance tensive outputs in fluid scenarios. See also: Proto\_Var; Incoherence Thresholds.
+* Start with the **Core Definitional Tagline**.  
+* Use alphabetical lookup for quick reference.  
+* Follow “See also” chains to explore related presumptions or toolkit mechanics.  
+* All mathematical details are drawn directly from the framework and toolkit.
 
-**Affirm (Tetralemma/Pentalemma Mapping)**
+---
 
-The positive assertion or acceptance within logical structures that evaluate possibilities, often corresponding to high values in spectra where conditions are met for progression. It enables the provisioning of relational elements as workable components, fostering coherent pathways while acknowledging fallibility. Philosophically, it draws from traditions that emphasize presence or interconnectedness, such as assertions of being or substance, but remains neutral by allowing for tempered negations. Mathematically, it maps to elevated spectrum levels, such as values above 0.8, triggering forward movement in decision gates. For instance, in evaluations of overall utility, affirmation leads to balanced or tensive yields. In applications, it boosts aligned metrics, contributing to strong relational utilities in aggregations. Implications include promoting open discourse without rigidity, as it coexists with paradoxical blends. See also: Negate; Both; Neither/Pass; Tetralemma Unpack.
+## **A**
 
-**Aggregate Yields**
+### **Abductive Derivation**
 
-The synthesized summation of certainties and uncertainties into cohesive outputs, representing the dialectical resolution of relational and non-relational elements. This process aggregates metrics through various means to produce a refined totality, emphasizing provisional probabilities and tensive ratios. Philosophically, it embodies the framework's commitment to equitable integration, where persistent gaps are not erased but incorporated to ensure honest progression without dogmatic closure. Mathematically, yields are calculated as sum (total of all relevant metrics), geometric mean (product raised to 1 over the number of elements), harmonic mean (number of elements divided by the sum of reciprocals, adjusted by factors like uncertainty probabilities and reflexive\_tension for tempering), and tensive variant (geometric mean multiplied by the certainty-uncertainty tension measure). High aggregates indicate dominance of connectable elements, while lower ones highlight generative pauses. In practice, this informs types such as balanced (strong utilities) or tempered (heavy withholdings), with fallibility checked through perturbation tests. Examples include summing alignments from multiple sources to yield nuanced insights into an expression's meaning. See also: Yields; Harmony Index; Tensive Yield.
+The process of inferring the best provisional explanation or set of parameters directly from input characteristics or internal data, used throughout the framework and toolkit for tuning, abduction of presumptions, summaries, and generation of pseudo-elements when data is sparse. It aligns with the conditional, fallible bootstrapping of the entire system (P1–P8), favoring equitable fits without assuming absolutes or substrates. It overrides defaults (e.g., deriving sigmoid k values or Dirichlet alphas from keywords/variance), expands ledgers when needed (e.g., abducting extra certainties/uncertainties via Echo Mode or Self-Echo), and auto-activates on low proto\_var or high ambiguity.
 
-**AlignSpectrum**
+**Examples:** deriving adaptive priors for secondary expressions or tempered presumptions in Phase 5 from certainty summaries alone.
 
-A scaled measure of how expressions or phenomena can be compared and calibrated, ranging from 0 to 1 with fine precision. It captures degrees of alignability, from sparse minimal connections to dense symmetric matches. Philosophically, it reflects the conditional nature of relationality, allowing for partial transductions without assuming full commensurability, thus equitably handling diverse ontological views like incommensurable spirits or quantum indeterminacies. Mathematically, it is derived through an optimization function that combines fuzzy memberships and normalized posteriors, inheriting from multiplicity and connectability factors, with tunable parameters for equity in porous or rigid scenarios. Low values temper as voids with boosts, mid as asymmetric utilities for experiential data, and high as coherent distances for native forms. In applications, it underpins certainty derivations by informing divergence calculations, ensuring measurements remain fallible. Implications include enabling nuanced yields across traditions, falsifiable through alignment failures. See also: Comparability and Measurement of Expressions (P8); Resonance.
+It keeps the system hackable and self-enforcing without regress, turning potential data gaps into generative equity.
 
-**Alien Mode (Toggle)**
+**See also:** Bayesian Posterior (P\_norm); Proto\_Variance; Secondary Presumption Temper (SPT).
 
-An operational setting that processes inputs at the most granular level, treating them as raw data units without higher-level assumptions. This forces derivations of contrasts and repeatability directly from fundamentals, widening variability parameters to accommodate porous or novel flows. Philosophically, it counters tendencies toward imposed structures, emphasizing dialectical emergence from internals to maintain neutrality and equity in handling unfamiliar or marginal expressions. In practice, it disables interpretive lenses, automatically activates density computations, and boosts gap probabilities if alignments fall below thresholds, resulting in lowered coherence measures but elevated tensions as positive features. Tests demonstrate its utility in pure, unbiased analysis, such as emerging distinctions from byte-level data. Implications include safeguarding against bias in alien or chaotic contexts, with automatic deactivation of protective mechanisms for raw honesty. See also: Density Probe; Guardrails.
+### **Adaptive Depth (Toggle)**
 
-**ASCII Volume Bars**
+Stage 1 customization that automatically scales analytical depth based on input proto-variance: Lite mode (P1–P6 foundations only) for low-variance inputs; Full mode (entire chain including Phase 5 tempering) for higher variance. The sub-option “Obtainment Focus” skews toward P1–P2 contrasts and treats unmappables as non-obtained pauses to elevate meaning tension in fluid fields. It embodies provisionality and avoids unnecessary relational creep while honoring P8 openness. It previews incoherence and may force full analysis if std \> 0.25.
 
-Visual representations using simple character-based bars to depict metric values, scaled proportionally for quick intuition. Each bar unit corresponds to increments like 0.05 on a 20-unit maximum, rounded appropriately. Philosophically, they align with the emphasis on accessible, provisional outputs, making abstract tensions and alignments tangible without overcomplicating. In applications, they follow metric tables in outputs, clarifying finals like resonance or tensions. Examples include a high stability shown as a full bar, aiding general comprehension of balances or gaps. Implications foster user-friendly recaps, enhancing the narrative weave of certainties and uncertainties. See also: Metric Evolution Table; Output Presentation.
+**Examples:** a short vague input auto-selects Lite \+ Light Output; a detailed philosophical claim selects Full.
 
-**Audit Summary**
+It balances usability with dialectical rigor without early halts.
 
-A concise overview of analytical integrity, highlighting stability, flags for inconsistencies, and overall robustness. It condenses checks across processes, noting binomial outcomes or deviation spreads. Philosophically, it underscores fallibility as a virtue, ensuring transparency in provisional yields without claiming absolutes. In practice, it appears in outputs, affirming equity through data-type-aware tolerances and regress notes for high gaps. Examples include statements of no flags with stability across evaluations, guiding interpretations. Implications include building trust in tensive results, prompting loops if needed. See also: Falsification; Incoherence Thresholds.
+**See also:** Proto\_Variance; Incoherence Thresholds; Light Output.
 
-**Avg Density**
+### **Affirm (Tetralemma/Pentalemma Mapping)**
 
-The harmonically averaged measure of internal variability within input segments, targeting a neutral midpoint to indicate balanced structures. Low averages signal sparse elements, triggering boosts to gaps for equity. Philosophically, it grounds distinctions in inherent contrasts, preventing assumed densities. Mathematically, it blends deviation and repeatability spectra from segments. In applications, it activates under specific settings and informs evolution tracking. Examples include neutral averages in structured texts versus low in chaotic flows. See also: Density Probe; Layer Spectrum Avg.
+High-spectrum mapping (typically \>0.8 or clear relational utility) that treats a condition as proceeding with connectable sparks, provisioning relational elements while remaining fallible. It draws from the framework’s neutral total field (P1) and relational construction (P3), allowing presence without denying gaps. It maps to elevated metrics (e.g., high resonance/stability in Phase 3\) and contributes to balanced or tensive yields in Phase 6\.
 
-**Avg\_Doubt**
+**Examples:** a well-aligned secondary expression in the sky-blue analysis affirms Rayleigh scattering as a repeatable relational utility.
 
-The aggregated measure of internal hesitations within certainties, harmonically averaged to a mid-range target, reflecting unaddressed assumptions. It derives from component evaluations, boosting tensive elements when elevated. Philosophically, it enforces reflexive scrutiny, turning utilities into pauses for deeper equity. In applications, it tempers averages and qualifies outputs. Examples include mid doubts in paradoxical certainties leading to revisions. See also: Certainty Temper Probe; Reflexive Tension.
+It promotes coherent pathways while coexisting with mid-spectrum paradoxes, preventing dogmatic rigidity.
 
-### **B**
+**See also:** Negate; Both; Neither/Pass; Tetralemma/Pentalemma Mapping.
 
-**Balanced Yield**
+### **Aggregate Yields**
 
-An output category where connectable elements strongly prevail, producing coherent integrations across diverse views. It maps to higher metric aggregates, provisioning nuanced re-expressions. Philosophically, it represents pragmatic utility without erasing tensions. In practice, it occurs when indices exceed mid-thresholds. Examples include rich alignments yielding robust relations. Contrast with Tensive Yield; Tempered Yield. See also: Yield Type.
+The dialectical synthesis in Stage 3/Phase 6 of certainties, uncertainties, tempered elements, and metrics into cohesive provisional outputs. It enacts P7 evaluation without a separate “chain holds” gate—the yield spectrum itself encodes the self-reflexive adjudication. It is computed as:
 
-**Bayesian Posterior (P\_norm)**
+* Sum (total metrics)  
+* Geometric mean (product^(1/len))  
+* Harmonic mean (len / Σ(1/metrics) × (1 \+ 0.18 × uncertainty\_prob\_global\_avg) with reflexive\_tension and SPT adjustments)  
+* Tensive variant (geo × meaning tension)  
+* Presumption-Tempered variant (tensive × (1 – 0.1 × SPT)).
 
-A normalized probabilistic component that refines spectrum values based on priors and likelihoods, bounded between 0 and 1\. Uniform priors ensure neutrality, tweaked abductively for balanced emphases like voids or interconnections. Philosophically, it conditionalizes derivations, fostering equity in diverse traditions. Mathematically, it uses exponential likelihoods with tunable spreads \~ exp(-(V \- E)^2 / σ^2), normalized via cumulative distributions to avoid extremes. In applications, it audits for diversity and tempers alignments. Examples include void-boosted posteriors dipping resonances for tensive virtues. Implications include preventing spikes while allowing reciprocal boosts. See also: Fuzzy Membership; Hybrid Function.
+**Examples:** the sky-blue analysis yields Sum=3.50, Geometric=0.85, Tensive=0.62.
 
-**Bifurcation Gate**
+It turns the entire chain into a single honest snapshot, incorporating P3 withholdings equitably.
 
-A binary decision mechanism that splits elements into connectable or unconnectable paths, provisioning progression or regression accordingly. Philosophically, it agnosticly avoids overreach, complementing uniqueness through isolation. Mathematically, it thresholds optimizations, with fuzzy edges for paradoxes. In applications, it informs initial relational checks. Examples include connectable contrasts enabling decompositions. See also: Dilemma Gate; Rel.
+**See also:** Yields; Yield Type; Harmony Index; Relational Index.
 
-**Bleed-Ins**
+### **AlignSpectrum**
 
-Reciprocal influences from tempered or marginal elements, seeding relational pathways without direct integration. Philosophically, they ensure equity for voids or indigenous views, boosting generative aspects. In applications, they enhance partial alignments, with directional options for asymmetry. Examples include emptiness traditions informing tensive ratios. See also: Leftovers/Uncertainties; Directional Bleed Sub.
+The \[0,1\] scaled measure (τ=0.001) of comparability and transduction solidity for secondary expressions relative to the primary, inheriting from MultiSpectrum (P5) and Rel (P3). It operationalizes P6 without assuming full commensurability, allowing sparse voids, partial asymmetries (phenomena), or dense continua (native expressions). It is derived via hybrid function argmax\_utility (A(AlignSpectrum) × P\_norm(AlignSpectrum | MultiSpectrum, Rel)), with fuzzy membership and Bayesian posterior; low values boost uncertainties, mid values enable fallible bleed-ins.
 
-**Both (Tetralemma/Pentalemma Mapping)**
+**Examples:** NASA web source at high alignment (dense) vs. alien-atmosphere speculation at sparse.
 
-A paradoxical or mixed evaluation, accommodating tensions in mid-ranges with variability. It provisions blended utilities for selective progress. Philosophically, it embraces generative contradictions, like dialectical holds with failures. In applications, it elevates mid-metrics as virtues. Examples include partial agreements yielding hybrid refinements. See also: Affirm; Tetralemma Unpack.
+It provisions nuanced distances and prevents relational creep.
 
-### **C**
+**See also:** Comparability and Measurement of Expressions (P6); Resonance; Transduction.
 
-**Certainty Table**
+### **Alien Mode (Toggle)**
 
-A structured ledger listing derived connectables, with columns for averaged yields, gap probabilities, relational strengths, guessed lines, and summaries. It targets high utilities, tempered per-item if enabled. Philosophically, it highlights provisional probabilities. In applications, it scales to key entries, informing connected ideas. Examples include high-align sources with noted relations. See also: Certainty Take; Certainty Yield Geo Avg.
+Stage 1 setting that forces granular raw-byte/bit/pixel processing, disabling interpretive assumptions and widening sigma (+0.15) for porous flows. It enforces pure dialectical emergence from P1–P4 internals, countering any imposed structure. It auto-activates Density Probe, boosts uncertainty\_prob\_global if resonance \<0.45, and treats everything as raw deviations/repeatability.
 
-**Certainty Temper Avg (Certainty Temper Index)**
+**Examples:** processing a painting as pure pixel clusters rather than semantic “red intensity.”
 
-A per-element and aggregated measure of internal coherence post-decomposition, ranging mid-level to indicate balanced scrutiny. It subtracts adjusted layer factors from unity. Philosophically, it reflexively questions utilities. In applications, it populates visuals and boosts tensions. Examples include mid indices in doubted certainties. See also: Avg\_Doubt; Tempered Certainty Ledger.
+It maximizes neutrality and elevates tensions as virtues in unfamiliar contexts.
 
-**Certainty Temper Probe (Toggle)**
+**See also:** Density Probe; Guardrails; Phenomenal Probe.
 
-A setting activating internal probing of certainties for hidden assumptions, generating tempered versions through layered evaluations. Options allow surface or deep recursion. Philosophically, it dialectically regresses strengths to gaps. In applications, it integrates with gap probes for boosts. Examples include circularity doubts tempering self-evident claims. See also: Doubt Gates; Reflexive Take.
+### **ASCII Volume Bars**
 
-**Certainty Take**
+Stage 3 visual representations using █ (filled) and ░ (empty/skipped) characters scaled proportionally (\~0.05 per unit on a 20-unit bar, half-up rounding) for quick metric intuition. They make abstract tensions tangible and accessible. They appear after the Metric Evolution Table with a one-time legend and include all final metrics (resonance, SPT, etc.).
 
-Bulleted summaries connecting high-strength elements via guessed relations, tempered by doubts. It scales to representative items, weaving into narratives. Philosophically, it provisionalizes utilities. In applications, it proceduralizes from ledgers. Examples include blended observations with observational hesitations. See also: Plain Takes; Recap Take.
+**Examples:** Stability ██████████████████ \~0.94 vs. Uncertainty Resonance ██ \~0.112.
 
-**Certainty Yield Geo Avg**
+They enhance readability of provisional yields without replacing tables.
 
-The geometric average of individual connectable yields, targeting strong relational ranges but tempered by doubts. It informs tension measures. Philosophically, it quantifies guessed utilities. In applications, it populates evolutions and is clamped for equity. Tempered \-0.15\*avg\_doubt (clamped \>0.3). Examples include high averages in aligned clusters. See also: Meaning Tension; Aggregate Yields.
+**See also:** Metric Evolution Table; Output Presentation.
 
-**Certainty-Uncertainty Ratio**
+### **Audit Summary**
 
-A per-item and overall tension measure dividing connectable yields by totals including gaps, indicating balances or lingers. Low ratios highlight open elements. Philosophically, it defines meaning as provisional dynamics. In applications, it features in ledgers and summaries. Examples include mid ratios in paradoxical gaps. See also: Meaning Tension; Tensive Yield.
+Concise Stage 3 overview of analytical integrity, noting incoherence flags, binomial outcomes (p=0.18), deviation std across N=15 perturbations, and data\_type-aware tolerances (25% expression / 30% phenomenon, \+5% reflexive). It transparently honors fallibility (P7/P8). It flags regress to boosted uncertainties/partial yields if thresholds breached.
 
-**Chaos Scale**
+**Examples:** “No incoherence flags; stable across phases (binomial 2/15).”
 
-A tunable parameter controlling variability spreads in computations and simulations, defaulting low but widening for high inputs. It emulates eruptions without explosion. Philosophically, it equities chaotic or marginal views. In applications, it adjusts gap upper bounds and stabilities. Examples include widened scales in porous flows boosting deltas. See also: Equity Sampler Sub; Simulation Rigor.
+It builds trust while surfacing shaky presumptions as tensive virtues.
 
-**Circularity**
+**See also:** Falsification; Incoherence Thresholds; Secondary Presumption Temper (SPT).
 
-An inherent feature where elements loop provisionally, viewed as a renewal virtue rather than flaw. It self-enforces through utilities and fallibilities. Philosophically, it allows open progression without dogma. In applications, it prompts loops for refinements. Examples include chain evaluations affirming their own lens. See also: Renewal Loop (P11); Fallibility.
+### **Avg Density**
 
-**Comparability and Measurement of Expressions (P8)**
+Harmonic mean of internal variances from input chunks (Phase 1 if Density Probe on), targeting \~0.5 neutral. It grounds P2 contrasts in inherent structure without assumed density. It blends C/repeatability spectra; low values auto-boost uncertainties (+0.15) for equity.
 
-The presumption enabling alignments on a spectrum, from sparse voids to dense matches, provisioning distances without forced commensurability. If plurality holds, it transduces others for calibration; otherwise regresses gaps. Philosophically, it grounds nuanced yields across views. Mathematically, align spectrum inherits multiplicities, with hybrid optimizations and fuzzy memberships. Utility falsifiable via failures. Plain summary: Secondary expressions compare on spectra—sparse minimal, partial fallible, dense solid—distances tempered fairly. See also: AlignSpectrum; Transduction.
+**Examples:** \~0.5 in structured text vs. low in vague sensations.
 
-**Contrarian (Toggle)**
+It informs downstream gap equity.
 
-A setting skewing variability downward to probe unconnectables, capping boosts for equity. It teases orthogonals. Philosophically, it counters relational tendencies. In applications, auto-activates on ambiguity, integrating with gap probes. Examples include void emphases in high-ambiguity expressions. See also: Non-Relational Entities (P3); Uncertainty Probe.
+**See also:** Density Probe; Layer Spectrum Avg.
 
-**Contrasting Parts in the Field (P2)**
+### **Avg\_Doubt**
 
-The presumption splitting total fields into variances or degrees for distinctions, if existence obtains; uniformities stall. Possibilities range binary sharp to fluid intensities. Philosophically, it necessitates differentiations without essence assumptions. Mathematically, deviation spectrum C inherits uniformity, with glued cohesions and fuzzy gradients. Utility grounds webs or fluxes. Plain summary: Existence splits contrasts—uniform stalls; unglued tempers openly. See also: Deviation Spectrum (C); Dilemma Gate.
+Harmonic mean (\~0.4 target) of per-layer doubt scores from Phase 5 decomposition and tetralemma gates on certainties. It enacts reflexive scrutiny (P3/P7 equity). It is derived internally (no new secondaries); \>0.45 appends “(reflexive)” to yield\_type and tempers certainty\_geo\_avg.
 
-**Current Primary Expression**
+**Examples:** mid doubt on perceptual claims in sky analysis.
 
-The immediate, obtainable totality in P7 plurality, treated as a standalone anchor (\~1 certainty) for secondary calibrations—scalable from atomic to complex nests. Philosophically, it focalizes inquiry without temporality or substrates. In applications, it serves as the input's core for transduction, with others as fallible echoes. Examples include "the sky is blue" as the focal sentence amid finite clusters like NASA explanations. Implications ground contextual yields without solipsism. See also: Primary Expression; Plurality of Expressions (P7); Secondary Expressions.
+It turns strong utilities into tempered pauses, boosting meaning tension.
 
-### **D**
+**See also:** Certainty Temper Probe; Reflexive Tension; Tempered Certainty Ledger.
 
-**Data\_Type**
+---
 
-A classification of inputs as expression (structured linguistic) or phenomenon (experiential/non-verbal), informing tolerances and spreads. Phenomenal widens parameters for porosity. Philosophically, it equities diverse obtainables. In applications, auto-detected, triggering specific probes. Examples include linguistic texts versus sensory gradients. See also: Phenomenal Probe; Input Scan.
+## **B**
 
-**Decomposition (Phase 5\)**
+### **Balanced Yield**
 
-The process applying repeatability, relators/relateds, and layering to certainties, abducting from internals without new sources. It gates doubts tetralemma-style. Philosophically, it reflexively uncovers presumptions. In applications, it generates tempered ledgers. Examples include chunking themes for layer spectra. See also: Doubt Gates; Tempered Certainty Ledger.
+Yield type where relational index \>0.5 (strong certainty dominance with coherent utilities). It represents pragmatic relational success without erasing gaps (P7). It appears when aggregates favor connectables after SPT tempering.
 
-**Decomposition Gate (P5)**
+**Examples:** sky-blue scientific alignments yielding robust probabilistic lines.
 
-The presumption breaking repeatables into passive anchors and active connectors, if applicable; resistances regress. Possibilities include standalone points or ties with pauses. Philosophically, it structures dynamics for primaries. Mathematically, paired spectra inherit densities, with binary enforcements shiftable perceptually. Utility provisions pairs across views. Plain summary: Repeatables break points/links—wholes standalone; undecomposables temper fairly. See also: Relators and Relateds (P5); Layering in Expressions (P6).
+**See also:** Yield Type; Relational Index.
 
-**Defuzzification**
+### **Bayesian Posterior (P\_norm)**
 
-The process converting fuzzy memberships or posteriors into crisp values for provisioning, such as centroid means or thresholds. Philosophically, it fallibly derives from blends without absolutes. In applications, it enables sparks from mid-spectra. Examples include paradox defuzzifications as tensions. See also: Fuzzy Membership; Expression Enablement.
+Normalized \[0,1\] probabilistic component that refines spectrum values using uniform or abductively tweaked priors and likelihoods exp(-(V – E)² / σ²). It conditionalizes all derivations for ontological neutrality and equity across traditions. It is normalized via CDF; priors tweaked (e.g., lower \~0.2 for void emphasis).
 
-**Density Mode (Sub under Density Probe)**
+**Examples:** void-boosted posterior in Non-Dual mode dipping resonance for tensive virtue.
 
-Options for computing internal variances: base harmonic blends, fuzzy clustered mappings, weighted incorporations, or iterative residues. It adapts to edges. Philosophically, it ensures granular equity. In applications, it targets neutrals. Examples include fuzzy c-means for spectra. See also: Density Probe; Avg Density.
+It prevents spikes while enabling reciprocal bleed-ins.
 
-**Density Probe (Toggle)**
+**See also:** Fuzzy Membership (μ); Hybrid Function; Dirichlet Alphas.
 
-A setting enabling variance metrics from segments, auto-activating for sparse or alien cases. Subs vary computations for finesse. Philosophically, it grounds P4 granularity. In applications, it ties to gap boosts for lows. Examples include low densities in uniques triggering uncertainties. See also: Avg Density; Layer Spectrum Avg.
+### **Bifurcation (part of Relational Construction – P3)**
 
-**Descent (Obstruction Check)**
+The binary fork (Rel ∈ {0,1}, τ=0.001) within P3 that splits contrasting parts into connectable relational paths (Rel=1) or unconnectable non-relational gaps (Rel=0). It ring-fences unknowables, preventing relational creep while allowing non-rel-probe gestures. It uses hybrid function with fuzzy membership and posterior, inheriting from C spectrum.
 
-A mathematical verification like sheaf cohesions or obstruction measures (H^1 \<0.15) to ensure gluings or linkages without isolates. Tunable for equity. Philosophically, it prevents unglued regressions. In applications, it binarizes forks or organizes layers. Examples include low obstructions for connectables. See also: Hybrid Function; Bifurcation Gate.
+**See also:** Relational Construction of Contrasting Entities (P3).
 
-**Deviation Spectrum (C)**
+### **Bleed-Ins**
 
-A vectorized measure of variances from uniformity, flipped for neutrality, ranging 0 to 1\. Mid provisions distinctions; extremes temper. Philosophically, it enables differentiations in fluxes or substances. Mathematically, it inherits base, with glued utilities and fuzzy gradients. See also: Contrasting Parts in the Field (P2); Glue (G).
+Reciprocal influences from tempered non-relational gaps, generative pauses, or marginal emphases that seed relational pathways without direct incorporation. They ensure equity for voids, non-dual traditions, or phenomenal flows. They use directional options (bidirectional via sub-toggle) and uncertainty boosts.
 
-**Dialectical Aggregation (Phase 6\)**
+**Examples:** emptiness traditions informing tensive ratios in paradoxical certainties.
 
-The phase summing prior elements into evaluations and yields, mapping utilities tetralemma-style. It updates gap averages. Philosophically, it self-checks for openness. In applications, it computes indices and harmonies. Examples include mean metrics affirming chains. See also: EvalSpectrum; Aggregate Yields.
+They turn potential weaknesses into productive tensions.
 
-**Dialectical Bootstrapping**
+**See also:** Leftovers/Uncertainties; Generative Pauses; Directional Bleed Sub.
 
-The conditional building from neutrality through chained assumptions, self-validating via utilities. Loops renew circularly as strengths. Philosophically, it agnostics priors for equity. Implications include hackable progressions. See also: Self-Enforcing Chain; Circularity.
+### **Both (Tetralemma/Pentalemma Mapping)**
 
-**Directional Bleed Sub (under Secondary Expression Equity)**
+Mid-spectrum mapping (typically 0.5–0.8 with variance) that treats conditions as paradoxical or blended utilities, allowing selective progress. It embraces generative contradictions inherent in the total field (P1) and relational construction (P3). It elevates mid-metrics as tensive virtues in yields.
 
-A sub-option for bidirectional influences in alignments, boosting tensions on asymmetries. It enhances partial spectra. Philosophically, it reciprocals bleed-ins. In applications, it splits resonances for fragilities. Examples include reverse bleeds amping virtues. See also: Bleed-Ins; Secondary Expression Equity.
+**Examples:** dialectics hold but math partially mismatches.
 
-**Dirichlet Alphas**
+It fosters hybrid refinements without forcing binary resolution.
 
-Adaptive concentration parameters in Bayesian priors for equitable sourcing (e.g., 0.37 for voids/emptiness, 0.3 for relational webs, 0.35 for marginal animisms/meanings), audited via KL\<0.1 divergence. Philosophically, they ensure reciprocal boosts across traditions without bias. Mathematically, they weight secondary expressions (e.g., 20–25% voids in pulls) and abduct uncertainties. In applications, auto-derived from keywords/variances, influencing posteriors and ledgers. Examples include high-var voids amplifying geo yields. Implications foster diversity in alignments. See also: Secondary Expression Equity; Bayesian Posterior (P\_norm); Equity Sampler Sub.
+**See also:** Affirm; Negate; Neither/Pass; Tensive Yield.
 
-**Dilemma Gate**
+---
 
-A binary or spectral decision triggering progression or regression based on thresholds. High enables sparks; low boosts pauses. Philosophically, it dynamics inquiries without biases. Mathematically, it argmaxes with posteriors. Examples include existence gates halting absolutes. See also: Door 1/Door 2; Tetralemma Unpack.
+## **C**
 
-**Doubt Gates**
+### **Certainty Table**
 
-Tetralemma evaluations on decomposed components to abduct hesitations, thresholding for tempered generations. Philosophically, it reflexives utilities. In applications, it scores resonances per layer. Examples include circularity gates on self-evidences. See also: Certainty Temper Probe; Tempered Certainty Ledger.
+Stage 3 ledger (min 5 / max 10 entries, capped by alignment) listing high-align connectables with columns for yield geo/harm, uncertainty\_prob (per-item if toggled), rel index, probabilistic relation (guessed line), and summary. It surfaces connectable relational utilities (P3/P7). It is built from Phase 3 argmax alignments, tempered if Certainty Temper Probe on.
 
-### **E**
+**Examples:** NASA Rayleigh entry with strong guessed line.
 
-**Echo Mode Sub (under Uncertainty Probe)**
+**See also:** Certainty Take; Certainty Yield Geo Avg.
 
-A sub-option decaying gaps via tradition priors, averaging for multis. It equities marginals. In applications, it abducts lows, dipping resonances for voids. Examples include emptiness highs geo-boosted. See also: Uncertainty Probe; Bleed-Ins.
+### **Certainty Temper Avg (Certainty Temper Index)**
 
-**Equity Sampler Sub (under Secondary Expression Equity)**
+Phase 5 \[0.3–0.7\] per-certainty and aggregated measure (1 – layer\_spectrum × (1 – 0.15 × uncertainty\_prob\_global)) of internal coherence after decomposition. It reflexively questions certainties for unaddressed presumptions. It feeds avg\_doubt and reflexive\_tension.
 
-A sub-option perturbing priors for noise, amping yields on highs. It emulates chaos. Philosophically, it reciprocals for P3. In applications, it ties to alien modes. Examples include void amps in deltas. See also: Secondary Expression Equity; Chaos Scale.
+**Examples:** \~0.40 mid-index on perceptual claims.
 
-**EvalSpectrum**
+It tempers utilities into tensive pauses.
 
-A mapped spectrum evaluating chain utilities, from affirmations to passes. Mid accommodates paradoxes. Philosophically, it self-reflexives for openness. Mathematically, it means alignments with posteriors. In applications, it informs types, gradual for fluids. Examples include mid-mixed dialectics/math. See also: Evaluation of the Chain (P9); Tetralemma Unpack.
+**See also:** Avg\_Doubt; Reflexive Tension; Tempered Certainty Ledger.
 
-**Existence as Total Field (P1)**
+### **Certainty Temper Probe (Toggle)**
 
-The base assumption of a neutral gradient for obtainability, enabling inquiries if sparked; absolutes silence. Possibilities binary to spectral. Philosophically, it gates sayability equitably. Mathematically, scalar E with hybrids and posteriors. Utility opens discourses, falsifiable performatively. Plain summary: Neutral start—obtains opens fields; nothing halts tempered. See also: Obtainability Gradient (E); Dilemma Gate.
+Default-on (with Light/Deep subs) Phase 5 activation that decomposes certainties internally (P3–P6) to abduct required presumptions and generate tempered versions via doubt gates. It dialectically regresses relational strengths to generative pauses for equity. It inherits certainty\_ledger; boosts uncertainty\_yield if avg\_doubt \>0.5.
 
-**Expression Enablement**
+**Examples:** tempering “blue” as perceptual guess.
 
-The conditional derivation of workable components from spectra above thresholds, via means like defuzzifications. Philosophically, it fallibly provisions without inherent assumptions. In applications, it seeds reciprocals from leftovers. Examples include relational sparks from mids. See also: Fallible Secondary Expressions; Defuzzification.
+**See also:** Doubt Gates; Tempered Certainty Ledger; Reflexive Take.
 
-### **F**
+### **Certainty Take**
 
-**Fallibility**
+Stage 3 plain-language bullets (min 5 / max 10\) connecting high-align certainties via guessed probabilistic lines, tempered by doubts. It provisionalizes relational utilities. It is procedural from ledger summaries with natural variation.
 
-The built-in testability through refutations or high gaps, ensuring non-dogmatic progression. Philosophically, it virtues uncertainties. In applications, it regress flags on thresholds. Examples include performative claims affirming checkers. See also: Incoherence Thresholds; Falsification.
+**Examples:** “These secondaries connect through wavelength physics… yet carries its own tempered hesitation because…”
 
-**Fallible Secondary Expressions**
+**See also:** Plain Takes; Recap Take.
 
-Derived relational components from primaries, provisional and testable. They emerge above minima, tempered by leftovers. Philosophically, they guess relations/meanings. In applications, they source utilities, abducted if sparse. Examples include transduced phenomena as utilities. See also: Secondary Expressions; Expression Enablement.
+### **Certainty Yield Geo Avg**
 
-**Falsification**
+Geometric average of per-certainty geo yields (\~0.7–0.9 target for strong utilities), computed in Phases 1/2/3 and tempered in Phase 5/6. It quantifies guessed relational strengths. It is clamped and used in meaning\_tension and aggregates; –0.15 × avg\_doubt (clamped \>0.3).
 
-A mechanic checking persistence via perturbations, binomial on flags for regresses. Thresholds adapt to types. Philosophically, it honors self-checks. In applications, it audits summaries, extending to reflexives. Examples include \>3 flags boosting partials. See also: Incoherence Thresholds; Audit Summary.
+**Examples:** 0.35 in sky analysis clusters.
 
-**Falsify Mode (Toggle)**
+**See also:** Meaning Tension; Aggregate Yields.
 
-A tuning for checks: lenient widens tolerances; strict narrows. It adjusts reflexives. Philosophically, it prevents laxity. In applications, it post-calibrates. Examples include porous lenients at p=0.20. See also: Falsification; Guardrails.
+### **Certainty-Uncertainty Ratio**
 
-**Feedback-Adaptive Sub (under Uncertainty Probe)**
+Per-item and overall measure dividing certainty yields by totals (including uncertainties and tempered elements), indicating balance or lingering gaps. It directly embodies meaning as the living tensive ratio. It features in ledgers and summaries.
 
-A sub-option retro-adjusting foundations with later averages, noting boosts for dynamics. Shifts signal recursives. Philosophically, it reciprocals evolutions. In applications, it clamps for stability. Examples include geo-adds triggering void notes. See also: Uncertainty Probe; Renewal Loop (P11).
+**Examples:** mid-ratio (\~0.45) on pollution debates.
 
-**Fuzzy Membership (μ)**
+**See also:** Meaning Tension; Tensive Yield.
 
-A scaling function for gradients, linear or sigmoidal, tuning for smoothness or sharpness. It defuzzifies for sparks. Philosophically, it blends paradoxes equitably. In applications, it tempers posteriors. Examples include k=5 non-duals. See also: Defuzzification; Bayesian Posterior.
+### **Chaos Scale**
 
-### **G**
+Tunable σ parameter (default 0.05, range 0.05–0.12) controlling eruption spread in simulations and uncertainty upper bounds. It equities chaotic, phenomenal, or marginal views. It is auto-derived from proto\_var; widens dynamic uncertainty\_prob upper bound.
 
-**Generative Pauses**
+**Examples:** higher scale in porous flows boosting deltas.
 
-Unconnectable gaps regressing but seeding influences, equiting voids. Philosophically, they boost marginals. In applications, pure remnants note pauses with prob amps. Examples include no-survivor voids. See also: Non-Relational Entities (P3); Bleed-Ins.
+**See also:** Spread (σ); Uncertainty Prob Clamping.
 
-**Generative Tensions**
+### **Circularity**
 
-Paradoxical mids yielding utilities from blends, elevated as virtues. Philosophically, they foster refinements. In applications, posteriors boost mids. Examples include .5 calcs as tensions. See also: Both; Tensive Yield.
+The inherent self-referential loop present in any coherent system of thought, explicitly named at P1’s dilemma gate and managed openly by P8’s renewal mechanism. It is not a vice but a productive feature: every critique or self-evaluation is itself an expression that the framework maps without evasion. The toolkit surfaces it as reflexive tension or shaky presumptions (SPT \<0.5), turning it into tensive virtue rather than collapse.
 
-**Glue (G)**
+**Examples:** claiming “the framework is circular” is itself mapped as a secondary expression yielding balanced or tensive results.
 
-A cohesion check in deviations, sheaf-like to connect without isolates. Low obstructions enable. Philosophically, it grounds fields. In applications, it tunes for flows or sharps. Examples include H^1 \<0.15 gluings. See also: Descent (Obstruction Check); Deviation Spectrum (C).
+It prevents dogmatism and enables genuine self-correction.
 
-**Guardrails (Toggle)**
+**See also:** Renewal Loop (P8); Fallibility; Self-Refutation.
 
-A setting for refutations on lows, off for resilients noting wobbly voids and elevating fragilities. It honors provisionality. In applications, it measures tensions as features. Examples include low stabs yielding geos without crashes. See also: Fallibility; Falsify Mode.
+### **Comparability and Measurement of Expressions (P6)**
 
-### **H**
+The presumption that, if plurality obtains, secondary expressions become comparable on an alignability spectrum—sparse voids (non-rel), partial asymmetries (phenomena), dense continua (native)—provisioning distances without forced commensurability. Otherwise, unalignables regress with boosts. It grounds nuanced yields across diverse traditions. It uses AlignSpectrum hybrid function inheriting MultiSpectrum and Rel.
 
-**H^1 Obstruction**
+**Plain-language summary:** Secondary expressions enable comparisons on a spectrum—sparse minimal, partial fallible, dense solid—distances tempered fairly.
 
-A topological check for cohesions or linkages, thresholded low for equity. It obstructs isolates. Philosophically, it prevents unglued. In applications, it binarizes or organizes. Examples include \<0.15 for connectables. See also: Descent (Obstruction Check); Glue (G).
+**See also:** AlignSpectrum; Transduction.
 
-**Harmony Index**
+### **Contrarian (Toggle)**
 
-The reciprocal averaged yields, fragilized on variances for tensive virtues. High indicates equitables. Philosophically, it elevates fragilities. In applications, it per-phases and tempers indices. Examples include chained audits at \~0.85. See also: Aggregate Yields; Fragility.
+Stage 1 setting that skews proto\_var –0.1 and probes non-relational elements (+0.15 uncertainty\_prob\_global, capped). It teases voids and orthogonals for equity. It is auto-on for high ambiguity; integrates with Uncertainty Probe.
 
-**Hybrid Function**
+**Examples:** void emphasis in paradoxical inputs.
 
-The combining of fuzzies and posteriors for spectra, min-maxed and argmaxed for utilities. Tunables equity. Philosophically, it conditionalizes sparks. In applications, it informs alignments. Examples include H(E) for obtainabilities. See also: Fuzzy Membership; Bayesian Posterior.
+**See also:** Non-Relational Entities; Uncertainty Probe.
 
-### **I**
+### **Contrasting Parts in the Field (P2)**
 
-**Incoherence Thresholds**
+If P1 existence obtains, the total field splits into contrasting parts or degrees for distinctions; uniform sameness halts meaning. Possibilities: binary sharp or fluid intensities. It necessitates differentiations without assuming essence. It uses Deviation Spectrum (C) inheriting H(E), with glue cohesion.
 
-Type-aware incidences for persistences, flagging regresses on highs. \+Tolerances for reflexives. Philosophically, it fallibilizes. In applications, it data-adapts 25-30%. Examples include std\>0.30 across perturbations. See also: Falsification; Audit Summary.
+**Plain-language summary:** Existence splits into contrasts or degrees—if uniform, it stalls; unglued bits temper back as open uncertainties.
 
-**Input Scan**
+**See also:** Deviation Spectrum (C); Dilemma Gate.
 
-The transduction to variabilities via partitions and stds on spectra. It detects types and widens for porous. Philosophically, it neutrals intakes. In applications, it aggregates harmonics, boosting lows. Examples include embeddings for texts, clusters for images. See also: Proto\_Var; Data\_Type.
+### **Core Definitional Tagline**
 
-**Inter\_Void**
+Truth emerges as guessed probabilistic relations among connectable elements; meaning emerges as the living tensive ratio between those certainties and the uncertainties, generative pauses, and non-relational gaps that remain. This single sentence is the entire yield of the eight presumptions and the toolkit.
 
-The averaged divergences in remnants, thresholding for resonances. High indicates sparses. Philosophically, it tensives gaps. In applications, it geos yields with amps. Examples include JSD all-to-alls for clusters. See also: Uncertainty Resonance; Remnants.
+**See also:** Meaning Tension; Truth Alignment; Reflexive Semiotics.
 
-**Inverse Mode Sub (under Uncertainty Probe)**
+### **Current Primary Expression**
 
-A sub feeding remnants as phantoms, tensing lows. It provisionalizes voids. In applications, it ties loops for novels. Examples include stab\<0.5 amps. See also: Uncertainty Probe; Renewal Loop (P11).
+The immediate obtainable totality (P4–P6 layered, repeatable, relational) treated as a standalone related at \~1 certainty, serving as the focal anchor for secondary calibration (P5/P7). It focalizes inquiry without presupposing substrates or temporality.
 
-**Itô Simulation**
+**Examples:** the full input sentence “God exists” or a painting’s total composition.
 
-A rigor for reflexive deviations, normal for contrasts. It diffuses in foundations. Philosophically, it emulates stochastics. In applications, it paths on dts. Examples include normal perturbations for repeatabilities. See also: Simulation Rigor; Euler-Maruyama.
+It enables contextual plurality while defaulting wholes as relateds.
 
-### **J**
+**See also:** Primary Expression; Plurality of Expressions (P5).
 
-**JSD (Jensen-Shannon Divergence)**
+---
 
-A symmetric measure for alignments, informing resonances as 1-minus. It averages absolutes. Philosophically, it calibrates without bias. In applications, it compares contents, clamping \>0.3. Examples include vec divergences from multis. See also: Resonance; Inter\_Void.
+## **D**
 
-### **K**
+### **Data\_Type**
 
-**KL Divergence Audit**
+Stage 1 classification (expression \= structured linguistic; phenomenon \= experiential/non-verbal/multimodal) that informs tolerances, sigma widening, and probe activation. It equities diverse obtainables. It is auto-detected; widens for porosity (e.g., \+0.12 sigma for phenomena).
 
-A diversity check on priors \<0.1 for equity. It audits balances. Philosophically, it prevents biases. In applications, it sources domains. Examples include void 20% weights. See also: Dirichlet Alphas; Secondary Expression Equity.
+**Examples:** text vs. painting gradient.
 
-### **L**
+**See also:** Phenomenal Probe; Input Scan.
 
-**Layer Spectrum Avg**
+### **Decomposition (Phase 5\)**
 
-The averaged hierarchical decompositions, ranging for structures. Low boosts gaps. Philosophically, it organizes meanings. In applications, it phases if probed. Examples include 0.2-0.8 in nests. See also: Layering in Expressions (P6); Density Probe.
+Internal Phase 5 process applying P3–P6 (bifurcation, repeatability, layering) to certainties to abduct required presumptions and doubt gates without new secondaries. It reflexively uncovers hidden assumptions. It yields per-certainty layer\_spectrum and doubt scores.
 
-**Layering in Expressions (P6)**
+**Examples:** thematic chunking of a certainty for P5 plurality gaps.
 
-The organization into hierarchies—subatomics lone, atomics sequenced, complexes nested—if decomposables; unorganizable tempers. Philosophically, it derives meanings from stacks. Mathematically, spectrum inherits pairs, with optimizations for nests. Utility chains signs. Plain summary: Stacks layers—singles/sequences/nests; uncategorizables temper. See also: Decomposition Gate (P5); Plurality of Expressions (P7).
+**See also:** Doubt Gates; Tempered Certainty Ledger.
 
-**Leftovers/Uncertainties**
+### **Decomposition Gate (part of Relational Construction – P3)**
 
-Persistent unmappables tempered as non-relational, boosting reciprocally. Philosophically, they equity without creep. In applications, ≤min regress silence seeding. Examples include beyonds or voids. See also: Generative Pauses; Bleed-Ins.
+The co-emergent breaking of repeatable relational paths into passive relateds (anchors) and active relators (connectors operating in self/other/non-rel-probe modes or soft blends). It structures pointing for primaries while ring-fencing gaps. It uses paired spectra with mode vector (μ\_self, μ\_other, μ\_nonrel).
 
-### **M**
+**See also:** Relational Construction of Contrasting Entities (P3).
 
-**Meaning Tension**
+### **Defuzzification**
 
-The ratioed certainties over totals including gaps and tempereds, clamped for elevations in lows as virtues. It quantifies tensive meanings. Philosophically, it defines as certainty-uncertainty dynamics. In applications, it boosts mids, populates visuals. Examples include 0.38 paradoxes. See also: Certainty-Uncertainty Ratio; Tensive Yield.
+Conversion of fuzzy memberships or posteriors into crisp provisioning values (e.g., centroid means or thresholded argmax). It fallibly derives workable sparks from blends without absolutes. It is used across spectra for relational enablement.
 
-**Meaning-Emphasis (Toggle)**
+**Examples:** mid-paradox H(E) \= 0.5 defuzzified as generative tension.
 
-A setting boosting mid-paradoxes for tensions, including reflexives. It auto-activates on senses. Philosophically, it elevates ratios. In applications, it \+0.15 probs. Examples include paradox emphases. See also: Meaning Tension; Paradoxes.
+**See also:** Fuzzy Membership (μ); Expression Enablement.
 
-**Meta-Loop (Toggle)**
+### **Density Probe (Toggle)**
 
-An automation for renewals, re-inputting yields capped, flagging highs. Subs resample or rephrase for extremes. Philosophically, it uncaps progressions. In applications, it boosts fragilities, auto-on tensions. Examples include contrast recaps. See also: Renewal Loop (P11); P11 Suggestions.
+Optional Phase 1 activation computing internal variances (avg\_density, layer\_spectrum\_avg) from chunks; auto-on for low proto\_var, Alien, or Phenomenal cases. Subs: Base, Fuzzy, Weighted, Iterative. It grounds P1–P4 granularity equitably. It ties low values to uncertainty boosts.
 
-**Metric Evolution Table**
+**Examples:** low density in uniques triggering \+0.15 gaps.
 
-A tracking across phases of key measures, N/A non-applicables, including densities if probed. It expands falsifications. Philosophically, it audits evolutions. In applications, it precedes bars. Examples include phase resonances. See also: Audit Summary; ASCII Volume Bars.
+**See also:** Avg Density; Layer Spectrum Avg.
 
-**Monte M=5 Perturbs**
+### **Descent (Obstruction Check)**
 
-A noise reduction via normal perturbations on metrics for averages. It binomial flags. Philosophically, it fallibilizes. In applications, it aggregates rigors. Examples include 0.045 normals for stds. See also: Falsification; Perturbations.
+Mathematical verification (e.g., H¹ \<0.15) ensuring gluings, linkages, or nesting without isolates; tunable for equity. It prevents unglued regressions. It binarizes forks or organizes layers in hybrid functions.
 
-**MultiSpectrum**
+**Examples:** low obstruction for connectable contrasts.
 
-The multiplicity scale for expressions, low isolates to high continua. Mid defaults finites. Philosophically, it contextualizes without forcing. Mathematically, inherits layers/contrasts, optimized for proliferations. See also: Plurality of Expressions (P7); Comparability and Measurement of Expressions (P8).
+**See also:** Glue (G); Hybrid Function.
 
-### **N**
+### **Deviation Spectrum (C)**
 
-**Negate (Tetralemma/Pentalemma Mapping)**
+Vectorized \[0,1\] measure of variances/deviations from P1 uniformity (flipped for neutrality), inheriting H(E). It enables distinctions in the total field. It uses hybrid with glue cohesion and fuzzy gradients.
 
-The denial or mismatch, mapping lows for regresses. It okay silences. Philosophically, it allows opt-outs. In applications, low metrics tempered. Examples include no holds as uncertainties. See also: Affirm; Raw/Regressed.
+**See also:** Contrasting Parts in the Field (P2).
 
-**Neither/Pass (Tetralemma/Pentalemma Mapping)**
+### **Dialectical Aggregation (Phase 6\)**
 
-The beyond or inevaluable, as pauses seeding freedoms. It invites revisions. Philosophically, it opens without judgments. In applications, \<min spectra suggesting loops. Examples include neither works/fails as is. See also: Both; Tetralemma Unpack.
+Phase inheriting all prior outputs to compute eval\_spectrum, yields, indices, and tetralemma mapping. It enacts P7 self-reflexive evaluation. It aggregates metrics with uncertainty\_prob and SPT tempering.
 
-**Non-Dual (Toggle)**
+**Examples:** mean of resonance/stability/etc. mapping to yield\_type.
 
-A setting boosting mids for resonances, high tolerances. It emphases emptinesses. Auto-on voids/paradoxes. Philosophically, it integrates non-duals. In applications, \+0.1 vars. Examples include śūnyatā gradients. See also: Paradoxes; Pentalemma Variant.
+**See also:** Aggregate Yields; EvalSpectrum.
 
-**Non-Relational Entities (P3)**
+### **Dilemma Gate**
 
-The unconnectable bifurcation, as major uncertainties boosting chaos. Philosophically, it denies unknowables dogmatically. Mathematically, Rel=0 regressing with thresholds. Utility grounds opens. Plain summary: Forks relational/non—proceeds/halts fairly. See also: Bifurcation Gate; Generative Pauses.
+Binary (or spectral) decision at each presumption threshold: Door 1 (proceed with relational sparks) or Door 2 (regress to uncertainties/pauses with reciprocal boosts). It dynamics inquiry from P1 onward without bias. It uses τ=0.001 across spectra.
 
-### **O**
+**Examples:** P1 E \> τ proceeds; ≤ τ halts to silence.
 
-**Obtainability Gradient (E)**
+**See also:** Door 1 / Door 2; Tetralemma/Pentalemma Mapping.
 
-The scalar for existence, 0 absolutes to 1 fulls. Mids provision blends. Philosophically, it neutrals essences. Mathematically, hybrids with fuzzies/posteriors. See also: Existence as Total Field (P1); Hybrid Function.
+### **Directional Bleed Sub (under Secondary Expression Equity)**
 
-**Obtainment Focus Sub (under Adaptive Depth)**
+Sub-toggle enabling bidirectional (input-to-secondary vs. secondary-to-input) influence with asymmetry \>0.2 boosting tension/fragility. It enhances P8 partial spectra for phenomena. It splits resonance (e.g., 0.793 → 0.650 reverse).
 
-A sub skewing foundations for arrivals, treating unmappables as non-obtained. It elevates tensions in fluids. Philosophically, it niches contrasts. In applications, \+0.1 vars for dynamics. Examples include pause ties to fingerprints. See also: Adaptive Depth; Obtainability Gradient (E).
+**See also:** Bleed-Ins; Secondary Expression Equity.
 
-**Ontological Neutrality**
+### **Dirichlet Alphas**
 
-The agnostic stance to metaphysics, deriving conditionally equitably. It holds through chains. Philosophically, no biases to forms. Implications include hackables. See also: Dialectical Bootstrapping; Equity Sampler Sub.
+Adaptive concentration parameters for equitable secondary-expression sourcing and uncertainty priors (e.g., 0.37 voids, 0.3 relational webs, 0.35 marginals), audited KL\<0.1. They ensure reciprocal boosts across traditions. They influence posteriors and 20–25% weighted pulls.
 
-**Output Format**
+**Examples:** high-var voids amplifying geo yields.
 
-The presentation control, readable tables/bullets or raw dense. Defaults user-friendly. Philosophically, it accessibilizes provisionalities. In applications, it structures summaries. Examples include headers with types. See also: Output Presentation; Plain Takes.
+**See also:** Secondary Expression Equity; Bayesian Posterior (P\_norm).
 
-**Output Presentation**
+### **Doubt Gates**
 
-The structured final, with summaries, tables, bars, takes. It weaves narratives. Philosophically, it honest yields. In applications, orders certainties/uncertainties/ledgers/metrics. Examples include sky analyses with recaps. See also: Audit Summary; Recap Take.
+Tetralemma (or pentalemma) evaluations on decomposed components (τ=0.2) to abduct presumptions and score doubts in Phase 5\. They reflexively surface shaky grounding. They produce doubt scores feeding tempered ledger.
 
-### **P**
+**Examples:** “both/neither” on perceptual uniformity.
 
-**Pentalemma Variant (Toggle)**
+**See also:** Certainty Temper Probe; Tetralemma/Pentalemma Mapping.
 
-The spectral add across affirmations/negations/boths, meta-outsides neithers. It fluids mids for paradoxes. Auto-on non-binaries. Philosophically, it shades graduals. In applications, boosts uncertainties. Examples include something/nothing shadings. See also: Tetralemma Unpack; Both.
+---
 
-**Per-Item Uncertainty (Toggle)**
+## **E**
 
-The local variant probs in ledgers, scaled \+noised for dynamism. Auto-on highs. Philosophically, it granularizes gaps. In applications, clamps for equity. Examples include alignment-scaled certainties. See also: Uncertainty Prob Clamping; Per-Item.
+### **Echo Mode Sub (under Uncertainty Probe)**
 
-**Perception/Interpretation (P11)**
+Sub-option decaying uncertainties via tradition priors for multi-gap averaging/spectrum-mapping. It equities marginals (e.g., emptiness). It dips resonance for void-priors while boosting geo yields.
 
-The loop gate for re-expressions if yields hold partially; unresolvables halt boosted. Hold accepts with notes; revise targets changes. Philosophically, it mindfully renews without caps. Mathematically, binary with spectra, thresholding yields. Utility enables closures/renewals. Plain summary: Checks holds/re-expresses—binary renewal. See also: Renewal Loop (P11); Meta-Loop.
+**See also:** Uncertainty Probe; Bleed-Ins.
 
-**Perturbations**
+### **Equity Sampler Sub (under Secondary Expression Equity)**
 
-The N=15 or M=5 normals for checks, flagging stds. It reduces noises. Philosophically, it tests persistences. In applications, relatives \>0.30 flags. Examples include binomial on flags. See also: Falsification; Monte M=5 Perturbs.
+Sub-option perturbing priors with Dirichlet noise for chaos emulation, amping deltas on high voids. It reciprocates P3 non-relational gaps. It ties to Alien Mode for marginal equity.
 
-**Phase-Locked Sub (under Uncertainty Probe)**
+**See also:** Secondary Expression Equity; Chaos Scale.
 
-A sub tracing variants per-phase, weighted evolutions. It stories spectra. Philosophically, it audits shifts. In applications, notes for visibility. Examples include uncertainty evolutions. See also: Uncertainty Probe; Metric Evolution Table.
+### **EvalSpectrum**
 
-**Phenomenal Probe (Toggle)**
+Tetralemma-mapped mean of key metrics in Phase 6, gradual: \>0.8 affirm, 0.5–0.8 both (paradox), 0.2–0.5 negate, \<0.2 neither/pass. It self-reflexively evaluates the chain (P7). It tempers with presumption coherence.
 
-The setting for non-verbals, widening for sensations, transducing raws. Auto-on feelings/URLs. Philosophically, it handles edges equitably. In applications, \+0.15 uncertainties, integrates multimodals. Examples include intensity shifts in paintings. See also: Data\_Type; Multimodal/Tool Integration.
+**Examples:** mid-mixed dialectics/math.
 
-**Plain Takes**
+**See also:** Dialectical Aggregation; Tetralemma/Pentalemma Mapping.
 
-The procedural bullets/narratives summarizing connected/lings/recaps without values. They weave tempereds. Philosophically, it fallibles snapshots. In applications, scales 5-10, extends paragraphs. Examples include certainty connections tempered. See also: Certainty Take; Uncertainty Take; Recap Take; Reflexive Take.
+### **Existence as Total Field (P1)**
 
-**Plurality of Expressions (P7)**
+Base presumption: if existence obtains in any form (sparks to paradoxes), it opens inquiry as neutral total field; absolute nothing halts to silence. Possibilities: binary, tetralemma, pentalemma. It establishes ontological neutrality without bias. It uses Obtainability Gradient E ∈ \[0,1\], hybrid H(E) with fuzzy μ and P\_norm posterior (τ=0.001).
 
-The manifestation as primaries with others—solitaries minimal, finites default, infinites optional—if layered; singulars regress. Philosophically, it co-exists without substrates. Mathematically, multi spectrum inherits, clamped for boosts. Utility grounds contexts. Plain summary: Multiples—isolates/sets/spreads; non-rel unobtainable tempered. See also: MultiSpectrum; Secondary Expressions.
+**Plain-language summary:** Neutral starting point—if it obtains, opens relational inquiry; absolute nothing halts, unknowns tempered fairly.
 
-**Primary Expression**
+**See also:** Obtainability Gradient (E); Dilemma Gate.
 
-The self-contained totality from P4–P6 (repeatable, decomposed, layered), measured standalone as a related at \~1 certainty before plurality. Philosophically, it provisions intrinsic structures without external presumptions. In applications, wholes default as anchors (e.g., full sentences as relateds), enabling P7 co-existence. Examples include "man" as atomic sequence or a painting as complex nest. Implications allow perceptual flips (e.g., chord as atomic vs. subatomic frequencies). See also: Current Primary Expression; Layering in Expressions (P6); Relators and Relateds (P5).
+### **Expression Enablement**
 
-**Probabilistic Relations (Truth)**
+Conditional provisioning of relational sparks from spectra above τ via defuzzification/means, with non-rel leftovers regressing but seeding bleed-ins. It fallibly derives workable elements without inherent assumptions. It is consistent across all presumptions.
 
-The guessed lines from connectables, provisional strengths. Philosophically, truth as relations. In applications, alignments measure \[0.25-0.95\]. Examples include scattering lines in blues. See also: Truth Alignment; Guessed Lines.
+**Examples:** mid-H paradoxes as blended secondary expressions.
 
-**Proto\_Var**
+**See also:** Relational Sparks; Defuzzification.
 
-The initial aggregated variability, harmonic clamped. It informs customs. Philosophically, it transduces neutrally. In applications, lows boost globals. Examples include 0.25 in details. See also: Input Scan; Chaos Scale.
+---
 
-### **R**
+## **F**
 
-**Raw/Regressed**
+### **Fallibility**
 
-The unprocessed pauses for negates/passes, aligning opts-outs. Low dominances. Philosophically, fine regress to silences. In applications, flags "boosted pauses". Examples include mismatches halting. See also: Tempered Yield; Dilemma Gate.
+The framework’s built-in testability via self-refutations, incoherence flags, binomial perturbations, and P8 renewal—high uncertainties or persistent mismatches trigger partial yields or loops. It is a virtue, not a flaw; every expression (including critiques) is provisional. It uses data\_type-aware thresholds and SPT checks.
 
-**Recap Take**
+**Examples:** claiming “all incoherent” self-refutes relationally.
 
-The narrative putting-together, weaving all into stories without metrics, balancing utilities with opens. It suggests tweaks. Philosophically, it snapshots honestly. In applications, 1-2 paragraphs. Examples include sky weaves with wonders. See also: Plain Takes; P11 Suggestions.
+It keeps the system honest and open.
 
-**Reflexive Semiotics**
+**See also:** Falsification; Self-Refutation; Renewal Loop (P8).
 
-The measuring of meanings via echoes, unveiling guesses as truths. It questions possibilities. Philosophically, it neutrals ontologically. Implications include bootstraps. See also: Dialectical Bootstrapping; Truth as Guessed.
+### **Fallible Secondary Expressions**
 
-**Reflexive Take**
+Relational, testable pointings derived conditionally from primaries (P5), used for calibration; non-rel excluded. They enable truth as guessed relations and meaning as tensive ratios. They use N=15 (tunable), sourced equitably.
 
-The bullets of doubted certainties, surfacing presumptions with ratios. Scales 3-5. Philosophically, it tensives gaps. In applications, weaves recaps. Examples include perceptual doubts relativizing. See also: Tempered Certainty Ledger; Avg\_Doubt.
+**Examples:** web/X references for sky-blue analysis.
 
-**Reflexive Tension**
+**See also:** Secondary Expressions; Plurality of Expressions (P5).
 
-The doubted average over yield totals, targeting mids. It qualifies types. Philosophically, it regresses utilities. In applications, includes aggregates, suggests loops. Examples include 0.45 in paradoxes. See also: Avg\_Doubt; Certainty Temper Avg.
+### **Falsification**
 
-**Rel (Relationality)**
+Toolkit mechanic using M=5 or N=15 perturbations (normal 0.045) and binomial p=0.18 on std\>0.30 flags (\>3 triggers regress to boosted uncertainties/partial yields). It is data\_type-aware and extends to SPT. It operationalizes provisionality within P7.
 
-The binary for connectability, 1 proceeds sparks; 0 uncertainties. It seeds spectra. Philosophically, it splits agnostically. Mathematically, thresholded argmax. In applications, lows partial yields. Examples include glued=1. See also: Bifurcation Gate; Non-Relational Entities (P3).
+**See also:** Incoherence Thresholds; Audit Summary.
 
-**Rel Index (Relational Index)**
+### **Falsify Mode (Toggle)**
 
-The tempered harmonic of metrics, \+reciprocals over globals/doubts. \>Mid balanced. Philosophically, it utilities connectables. In applications, per-item in tables. Examples include 0.92 in balances. See also: Aggregate Yields; Harmony Index.
+Stage 1 tuning: Lenient (+5% tolerance, p=0.20) or Strict (–5%, p=0.15) for incoherence checks; also adjusts Phase 5\. It prevents squishiness while honoring fallibility. It is post-calibration.
 
-**Relators and Relateds (P5)**
+**See also:** Falsification; Guardrails.
 
-See Decomposition Gate (P5).
+### **Feedback-Adaptive Sub (under Uncertainty Probe)**
 
-**Relational Creep**
+Sub-option retro-tempering earlier phases with later averages (+0.2 × uncertainty\_geo \+ random, clamped). Shifts \>0.1 note “Recursive Boost.” It enacts P8 reciprocity. It provides dynamic void adjustments.
 
-The risked over-imposition of connections, countered by bifurcations and temperings. Philosophically, it avoids dogmatics. In applications, aliens or contrarians prevent. Examples include non-rel exclusions from secondaries. See also: Non-Relational Entities (P3); Alien Mode.
+**See also:** Uncertainty Probe; Renewal Loop (P8).
 
-**Relational Sparks**
+### **Fuzzy Membership (μ)**
 
-See Expression Enablement.
+\[0,1\] scaling function (linear default or clamped sigmoid k=5–15) for spectra gradients, tuning smoothness vs. sharpness. It blends paradoxes equitably. It is combined with P\_norm in hybrids.
 
-**Relational and Non-Relational Entities (P3)**
+**Examples:** k=5 for non-dual emptiness gradients.
 
-See Non-Relational Entities (P3); Bifurcation Gate.
+**See also:** Hybrid Function; Defuzzification.
 
-**Relational Index**
+---
 
-See Rel Index.
+## **G**
 
-**Remnants**
+### **Generative Pauses**
 
-The faded survivors post-anchor blanks, for void computations. No survivors pure pauses. Philosophically, it turns non-rel provisional. In applications, inter-voids from all-to-alls. Examples include tight-tie blanks decaying. See also: Inter\_Void; Inverse Mode Sub.
+Unconnectable gaps (Rel=0) or pure remnants that regress but seed reciprocal influences without incorporation. They honor non-relational limits while boosting equity. They use \+0.2 prob boost if no survivors; noted as “generative pause.”
 
-**Renewal Loop (P11)**
+**Examples:** no-survivor voids in Phase 4\.
 
-See Perception/Interpretation (P11).
+**See also:** Non-Relational Entities; Bleed-Ins.
 
-**Repeatability of Entities (P4)**
+### **Generative Tensions**
 
-The co-emergence of patterns from contrasts—if relational; incoherents halt. High invariants, mid partials, low uniques. Philosophically, it persistences without time. Mathematically, density spectrum inherits, with hybrids for uniques. Utility grounds aspects. Plain summary: Co-emerges repeats—patterns proceed; non temper equitable. See also: RepeatabilitySpectrum.
+Mid-spectrum paradoxes or blends yielding utilities from variance (elevated as virtues). They foster refinements within the tensive ratio. Posteriors boost mids.
 
-**RepeatabilitySpectrum**
+**Examples:** .5 H(E) as generative tension.
 
-The atemporal density for patterns, low uniques regressing. Mids utilities. Philosophically, it implies multiples tempered. Mathematically, hybrids with abductives for equity. See also: Repeatability of Entities (P4); Density Probe.
+**See also:** Both; Tensive Yield.
 
-**Resonance**
+### **Glue (G)**
 
-The aligned solidity, 1-minus divergence tempered. High \~0.85. Philosophically, it calibrates utilities. In applications, phases 1-3, clamped. Examples include JSD from contents. See also: JSD; AlignSpectrum.
+Sheaf-like cohesion check in deviation or layering functions preventing isolates (H¹ \<0.15 tunable). It grounds the total field without forcing uniformity. It is part of descent in hybrids.
 
-**Resolution/Granularity Sub (under Perspective)**
+**See also:** Descent (Obstruction Check); Deviation Spectrum (C).
 
-The chunk depth control, medium adapts. High risks explosions clamped. Philosophically, it handles edges. In applications, auto-widens chaotics. Examples include fine max diffs. See also: Perspective; Input Scan.
+### **Guardrails (Toggle)**
 
-### **S**
+Stage 1 setting (default off) that re-enables old self-refutations on high incoherence/low metrics; off treats lows as tensive features with \+0.15–0.20 tension/harmony fragility boosts. It honors fallibility. It notes “Wobbly Voids” when active.
 
-**Secondary Expression Equity (Toggle)**
+**See also:** Fallibility; Falsify Mode.
 
-The audit for diverse sources, balanced domains. Subs control internals/externals/verifieds. Philosophically, it prevents biases. In applications, KL\<0.1, weighted pulls. Examples include 20% voids. See also: Secondary Expressions; Equity Sampler Sub.
+---
 
-**Secondary Expression Ledger**
+## **H**
 
-The capped top alignments table, with IDs/types/scores/summaries/notes. Flags voids. Philosophically, it contextualizes fallibly. In applications, phase 2, integrates footnotes. Examples include web relationals at 0.85. See also: Secondary Expressions; Phase 2: Determine Secondary Expressions.
+### **Harmony Index**
 
-**Secondary Expressions**
+Reciprocal mean of yields (len / Σ(1/yields)), elevated with fragility (+0.18 if var(metrics incl. doubts) \> 0.12) for tensive virtue. It values balanced interplay within tension. It is computed per phase where possible.
 
-The transduced others for calibrations, fallible from relationals only. Non-rel excluded. Philosophically, they echo structures conditionally. In applications, queried equitably, N tunable. Examples include native dictionarys or phenomenal proxies. See also: Plurality of Expressions (P7); Transduction.
+**Examples:** \~0.85–0.88 in chained audits.
 
-**Self-Echo Baseline Sub (under Secondary Expression Equity)**
+**See also:** Aggregate Yields; Fragility.
 
-The use of internals as pseudos for standalones, diluting boosts res. It anchors totals. Philosophically, it counters creep. In applications, \+0.1 uncertainty res lows. Examples include chunk pseudos. See also: Secondary Expression Equity; Standalone Primary Expressions.
+### **Hybrid Function**
 
-**Self-Enforcing Chain**
+Core operational mechanism combining fuzzy membership (μ) and normalized Bayesian posterior (P\_norm) into spectra values (min/max/argmax utilities, τ=0.001). It conditionalizes all derivations for neutrality. It is consistent across presumptions and phases.
 
-The provisional linkages validated dialectically, with utilities refining. Philosophically, it renews circularly. Implications include open progressions. See also: Dialectical Bootstrapping; Evaluation of the Chain (P9).
+**Examples:** H(E) \= min(1, μ(E) × P\_norm(E|V)).
 
-**Self-Refutation**
+**See also:** Fuzzy Membership (μ); Bayesian Posterior (P\_norm).
 
-A performative contradiction testing fallibility (e.g., claiming "absolute nothing" affirms the claimer's relational obtainability). Philosophically, it underpins utility/falsifiability across presumptions, preventing dogmatism. In applications, it flags incoherences (e.g., "all non-rel" self-refutes) or evaluates chains (P9). Examples include P1's "nothing halts" affirming the gate. Implications ensure open progression, with high incidences boosting uncertainties. See also: Fallibility; Falsification; Evaluation of the Chain (P9).
+---
 
-**Simulation Rigor**
+## **I**
 
-The path sims for phenomenals or reflexives, Euler-Maruyama dt=0.08 diffusions, Itô normals. Philosophically, it emulates Umwelts. In applications, foundations/contrasts. Examples include sigma diffusions for porous. See also: Itô Simulation; Euler-Maruyama.
+### **Incoherence Thresholds**
 
-**Spread (σ)**
+Data\_type-aware incidence/std thresholds (25% expression / 30% phenomenon, \+5% reflexive) for flagging regresses across N=15 perturbations. They enforce honest provisionality. They use binomial p=0.18 on \>3 flags.
 
-The tunable variance parameter (0.01–0.1) in likelihood exponentials, narrower for rigorous binary distinctions, wider for porous flows/chaos equity. Philosophically, it accommodates diverse obtainables (e.g., higher for Heraclitean fluxes). Mathematically, in P\_norm: exp(-(diff)^2 / σ^2), influencing posteriors and simulations. In applications, auto-widens via Chaos Scale or Phenomenal Probe. Examples include σ\~0.05 for sharp relators. Implications balance precision with bleed-ins. See also: Chaos Scale; Fuzzy Membership (μ); Simulation Rigor.
+**See also:** Falsification; Audit Summary.
 
-**Stability**
+### **Input Scan**
 
-The consistency 1-minus deviation avg, \~0.8 solid. Philosophically, it measures robustness. In applications, phases 1-3 from aligns. Examples include low deltas in structures. See also: Resonance; Std Deltas.
+Stage 1 neutral transduction of any datum (text, image, PDF, video, phenomenon) into proto-variance via chunked partitions, std on P1–P4 spectra, and harmonic aggregation (clamped \[0.03,0.6\]). It maintains ontological neutrality. It auto-detects data\_type, widens for phenomena, abducts proto-presumptions.
 
-### **T**
+**Examples:** pixel gradients for images or frame/subtitle flows for videos.
 
-**Temper-Mode Sub (under Temper-Probe)**
+**See also:** Proto\_Variance; Data\_Type; Multimodal/Tool Integration.
 
-The aggressiveness preview, soft sigmoids partials default, hard binaries stricts. It mitigates over-voids. Philosophically, it equities doubts. In applications, auto for tensions. Examples include sigmoid remnants. See also: Temper-Probe; Remnants.
+### **Inter\_Void**
 
-**Temper-Probe (Toggle)**
+Averaged cos-dist/JSD (or k=2–3 clusters) among Phase 4 remnants (threshold 0.15), feeding uncertainty\_resonance. It quantifies gap sparseness. It is used in uncertainty\_yield\_geo.
 
-The default for highs/paradoxes, previewing tempers. Subs modes soft/hard. Philosophically, it over-aggressives not. In applications, phases 4, ties uncertainties. Examples include high-tension autos. See also: Temper-Mode Sub; Certainty Temper Probe.
+**See also:** Uncertainty Resonance; Remnants.
 
-**Tempered Certainty Ledger**
+### **Inverse Mode Sub (under Uncertainty Probe)**
 
-The table of originals/triggers/yields/ratios/summaries. Min/cap abducted. Philosophically, it gaps presumptions. In applications, post-uncertainties. Examples include perceptual doubts. See also: Certainty Temper Probe; Reflexive Take.
+Sub-option back-feeding remnants as phantom certainties (+0.15 tension if stability \<0.5). It provisionalizes voids. It ties to P8 loops for novels.
 
-**Tempered Yield**
+**See also:** Uncertainty Probe; Renewal Loop (P8).
 
-The low dominance heavy withholdings, regressing silences boosted. Philosophically, it virtues minimal expressions. In applications, \<0.3 indices. Examples include void-emphases. Contrast with Balanced Yield. See also: Yield Type; Raw/Regressed.
+### **Itô Simulation**
 
-**Tensive Bands Sub (under Secondary Expression Equity)**
+Normal-deviation rigor used in Phase 5 for contrasts/repeatability. It emulates stochastic emergence. It complements Euler-Maruyama for phenomenals.
 
-The mapping mids both/tensives \+meaning. Graduals thresholds. Philosophically, mids virtues paradoxes. In applications, res/stab pentalemmas. Examples include 0.5-0.7 \+0.45. See also: Secondary Expression Equity; Meaning Tension.
+**See also:** Simulation Rigor.
 
-**Tensive Yield**
+---
 
-The mid mixes paradoxical balances, fostering tensions. Philosophically, it generatives contextuals. In applications, 0.3-0.5, tensive=geo\*tension. Examples include strong utilities tempered. See also: Meaning Tension; Certainty-Uncertainty Ratio.
+## **J**
 
-**Tetralemma Unpack**
+### **JSD (Jensen-Shannon Divergence)**
 
-The explicit possibilities: affirms sparks, negates halts, boths paradoxes, neithers pauses. It enables equities. Philosophically, it unpacks dynamics. In applications, maps spectra gradual. Examples include high affirms. See also: Pentalemma Variant; Affirm.
+Symmetric measure of alignment between vectors (Phase 3), resonance \= 1 – mean abs JSD (clamped \>0.3). It calibrates without bias. It compares secondary contents to multi-spectrum.
 
-**Threshold (τ)**
+**See also:** Resonance; AlignSpectrum.
 
-The minimal tunable obtainability cutoff (default 0.001, abductively finer/coarser), gating sparks/progression above it and regressing ≤ it to uncertainties. Philosophically, it minimalizes relationality without explosion. Mathematically, in hybrids/fuzzies: linear/sigmoid ramps from τ. In applications, consistent across spectra (e.g., E \> τ provisions P2). Examples include .0001 for chaotic uniques. Implications ensure equity in edges. See also: Dilemma Gate; Hybrid Function; Defuzzification.
+---
 
-**Transduction**
+## **K**
 
-The fallible application of chains to others for alignments, partial for phenomena. It solidity scales. Philosophically, it calibrates without commensurables. In applications, P1-6 to secondaries. Examples include neural proxies as layers. See also: AlignSpectrum; Secondary Expressions.
+### **KL Divergence Audit**
 
-**Truth Alignment**
+Diversity check (KL\<0.1) on derived priors for secondary sourcing. It prevents bias. It ensures balanced domains (e.g., 20% voids).
 
-The tempered resonance measuring relation strengths, clamped. High \~strong guessed. Philosophically, truth as probabilistics. In applications, phase 3, boosted emphases. Examples include 0.82 lines. See also: Probabilistic Relations (Truth); Truth-Emphasis.
+**See also:** Dirichlet Alphas; Secondary Expression Equity.
 
-**Truth as Guessed Probabilistic Relations / Meaning as Tensive Certainty-Uncertainty Ratios (Core Definitional Tagline)**
+---
 
-The framework's foundational yields: truth emerges as fallible alignments/probabilities from secondary expressions (guessed lines in certainties); meaning as balanced tensions between connectables and gaps (ratios in metrics/takes). Philosophically, they unveil guesses without absolutes, equitably across traditions. In applications, truth via alignments (\~0.25–0.95); meaning via clamped tensions (\~0.2–0.6, elevated lows as virtues). Examples include scattering lines (truth) tempered by perceptual pauses (meaning). Implications: provisional, dialectical outputs. See also: Probabilistic Relations (Truth); Meaning Tension; Reflexive Semiotics.
+## **L**
 
-**Truth-Emphasis (Toggle)**
+### **Layer Spectrum Avg**
 
-The rel priors boost, narrowing for sharps. Sub probes anomalies patterns. Auto-on trues/falses. Philosophically, it enhances relations. In applications, \+0.1 interconnected, tempers alignments. Examples include cover-up probs. See also: Truth Alignment; Systemic Probe Sub.
+Averaged \[0.2–0.8\] hierarchical decompositions from Phase 1 chunks (if Density Probe on). It organizes P4 layering. Low values boost uncertainties.
 
-### **U**
+**See also:** Layering in Expressions (P4); Density Probe.
 
-**Uncertainty Prob Clamping**
+### **Layering in Expressions (P4)**
 
-The bounded globals, dynamic uppers via chaos/doubts capped. It void/doubt equities. Philosophically, it reciprocals gaps. In applications, \[0.25,0.9\]. Examples include doubt-heavy 0.9. See also: Uncertainty Probe; Per-Item Uncertainty.
+If P3 decomposition obtains, relators/relateds organize into subatomic (lone anchors), atomic (sequences as relators), or complex (nests) layers; wholes default as standalone relateds. Otherwise, uncategorizable elements regress. It derives meaning from structure. It uses LayerSpectrum hybrid inheriting Related/Relator spectra.
 
-**Uncertainty Probe (Toggle)**
+**Plain-language summary:** Relators and relateds stack into layers—subatomic singles, atomic sequences, complex nests—deriving meaning; wholes stand as relateds, with uncategorizable tempering back for fairness.
 
-The abduction for highs, adaptive alphas for boosts. It extends reflexives. Subs feedbacks etc. Philosophically, it reciprocals. In applications, on \>0.45, incidence normals. Examples include void 0.37 high vars. See also: Uncertainty Yield Geo Avg; Subs like Echo Mode.
+**See also:** Decomposition Gate (P3); Primary Expression.
 
-**Uncertainty Resonance**
+### **Leftovers/Uncertainties**
 
-The 1-minus inter-voids \~tensive. High sparses. In applications, phases 2-4. Examples include 0.65 from thresholds. See also: Inter\_Void; Uncertainty Stability.
+Persistent non-relational, unmappable, or unconstructible elements that regress but receive reciprocal boosts and may seed bleed-ins. They ensure equity without colonizing gaps. They use ≤τ thresholds across spectra.
 
-**Uncertainty Stability**
+**Examples:** absolute beyond or true uniques.
 
-The 1-minus stds \+chaos \~tensive. In applications, remnants deltas. Examples include 0.65 adjustments. See also: Uncertainty Resonance; Chaos Scale.
+**See also:** Generative Pauses; Non-Relational Entities.
 
-**Uncertainty Table**
+### **Light Output (Toggle)**
 
-The ledger incidences/probs/volumes/ratios/summaries, plain varied. Min/cap. In applications, phase 4 highs-voids. Examples include debate rages 0.45. See also: Uncertainty Take; Incidence.
+Stage 3 presentation override (user or auto-on for short/vague inputs) that runs the full internal analysis (all phases, N=15 perturbations, SPT, presumptions, etc.) before condensing the final output into a simple, high-school-level narrative paragraph(s) weaving key certainties (as utilities/guessed lines), uncertainties (as lingering gaps), and tempered elements (as hesitations/open basics) without jargon, numbers, or tables. It preserves ontological neutrality and fallibility while enhancing accessibility. It abducts phrases from ledgers; boosts shaky-virtue phrasing if SPT \<0.5 or high avg\_doubt.
 
-**Uncertainty Take**
+**Examples:** sky-blue narrative: “This sky blue bit seems grounded in light bounces… yet it lingers with debates…”
 
-The bullets lingerings with ratios. Scales, as tensions. In applications, procedural lows. Examples include pollution rooms \~mids. See also: Plain Takes; Certainty-Uncertainty Ratio.
+It delivers full dialectical rigor in readable form.
 
-**Uncertainty Yield Geo Avg**
+**See also:** Output Presentation; Plain Takes.
 
-The averaged gap geos \~tensives. Boosted tempereds. In applications, 0.2-0.5, informs tensions. Examples include 0.35 lows virtues. See also: Meaning Tension; Tempered Yield.
+---
 
-### **Y**
+## **M**
 
-**Yield Type**
+### **Meaning Tension**
 
-The categorized outputs: balanced highs, tensives mids, tempereds lows, raw negates. Reflexives on doubts. In applications, index-mapped. Reflexive qualifier if avg\_doubt \>0.4 (e.g., 'reflexive tensive'). Examples include balanced 0.92. See also: Aggregate Yields; Balanced Yield.
+Clamped \[0.2,0.6\] ratio (certainty\_yield\_geo\_avg / (certainty\_yield\_geo\_avg \+ uncertainty\_yield\_geo\_avg \+ tempered\_yield\_geo\_avg \+ SPT)), elevated \+0.1 if SPT \<0.5 or low yields as tensive virtue (\~0.38–0.4 target for paradoxes). It is the living definition of meaning—the dynamic interplay of certainties and uncertainties. It is Phase 3/6 only; feeds tensive yields.
 
-**Yields**
+**Examples:** mid 0.44 in sky analysis.
 
-The adjudicated processed outputs from sums, provisioning re-expressed totals. Variants sum totals, geo products, harm reciprocals tempered, tensives geo\*tensions. \>Mid relational utilities. Philosophically, they honest dialecticals, incorporating withholdings. In applications, stage 3 aggregates, types mapped, fragilized variances. Fallibility via checks. Examples include sum 3.50 geometric 0.85 in balances, tensive 0.62. Implications include refined snapshots, regressing raws boosted. See also: Aggregate Yields; Yield Type; Balanced Yield.
+**See also:** Certainty-Uncertainty Ratio; Tensive Yield; Core Definitional Tagline.
+
+### **Meaning-Emphasis (Toggle)**
+
+Setting that boosts mid-paradoxes (+0.15 uncertainty\_prob\_global and avg\_doubt) for elevated tensions. It prioritizes the tensive ratio. It is auto-on for “meaning/sense” keywords.
+
+**See also:** Meaning Tension; Non-Dual.
+
+### **Meta-Loop (Toggle)**
+
+P8 automation (cap 3 loops) that re-runs yields as new inputs, with subs: Rerun-Secondaries, Rephrase-Uncertainties, Max-Uncertainties, Max-Certainties, Contrast-Runs (or Doubt-Rerun). It uncaps renewal. It is auto-on for high tensions; boosts harmony fragility.
+
+**Examples:** contrast recaps of original vs. cert-dense vs. uncertainty-heavy.
+
+**See also:** Renewal Loop (P8).
+
+### **Metric Evolution Table**
+
+Stage 3 table showing all six phases as full rows (N/A for skipped), with explicit status notes and columns for resonance, stability, uncertainty resonance/stability, uncertainty\_prob\_global\_avg, certainty/uncertainty yield geo avgs, truth alignment, meaning tension, harmony, certainty temper avg, reflexive tension, SPT. It audits dialectical flow. It precedes ASCII bars; expands falsification ledger.
+
+**See also:** Audit Summary; ASCII Volume Bars.
+
+### **Monte M=5 Perturbs**
+
+Normal (0.045) perturbations on M=5 metrics for noise-reduced averages in Stage 3 aggregation. It operationalizes fallibility. It uses binomial flags on std.
+
+**See also:** Falsification; Perturbations.
+
+### **MultiSpectrum**
+
+\[0,1\] multiplicity scale for P5 (low \= solitary uniques, mid \= finite clusters as default, high \= infinite continua optional), inheriting LayerSpectrum and C. It contextualizes without forcing independence. It uses hybrid function with finite as pragmatic default.
+
+**See also:** Plurality of Expressions (P5).
+
+---
+
+## **N**
+
+### **Negate (Tetralemma/Pentalemma Mapping)**
+
+Low-spectrum mapping (0.2–0.5) that treats conditions as mismatched or incoherent, regressing to tempered yields. It allows honest opt-outs without dogmatism. It maps to low metrics and tempered/raw yields.
+
+**Examples:** heavy withholdings prevailing.
+
+**See also:** Affirm; Tempered Yield.
+
+### **Neither/Pass (Tetralemma/Pentalemma Mapping)**
+
+\~0 or beyond-spectrum mapping as open pauses or inevaluable elements, seeding freedoms and revisions. It invites P8 renewal without judgment. It uses \<0.2 or raw/regressed yields.
+
+**Examples:** “the chain neither works nor fails, just… is.”
+
+**See also:** Raw/Regressed Yield; Renewal Loop (P8).
+
+### **Non-Dual (Toggle)**
+
+Setting boosting mid-paradoxes (+0.1 proto\_var) with \>0.9 tolerance. It emphasizes emptiness/non-dual traditions. It is auto-on for “void”/paradox keywords.
+
+**See also:** Pentalemma Variant; Generative Tensions.
+
+### **Non-Relational Entities (P3)**
+
+Unconnectable gaps (Rel=0) in the bifurcation of contrasting parts—never forced into relational grammar, only gestured toward via non-rel-probe mode. They ring-fence the unknowable, preventing creep while granting reciprocal space. They regress to uncertainties with boosts; excluded from secondary expressions.
+
+**Examples:** irreducible perceptual “what it feels like” beyond wavelength physics.
+
+**See also:** Relational Construction of Contrasting Entities (P3); Non-Rel-Probe Mode; Generative Pauses.
+
+### **Non-Rel-Probe Mode**
+
+One of the three relational modes for relators (soft spectral blends allowed): a minimal respectful gesture toward an unconnectable gap, creating a relational spark while deliberately spiking uncertainty\_prob. It honors limits without colonization. It is part of mode vector in P3 decomposition; auto-boosts downstream uncertainty.
+
+**See also:** Relational Modes; Relational Construction of Contrasting Entities (P3).
+
+---
+
+## **O**
+
+### **Obtainability Gradient (E)**
+
+Scalar \[0,1\] (τ=0.001) modeling existence: 0 \= absolute nothing/halt, \>0.001 \= relational sparks, 1 \= full beyond-expression. It is the neutral starting point of P1. It is the core of H(E) hybrid.
+
+**See also:** Existence as Total Field (P1).
+
+### **Ontological Neutrality**
+
+The framework’s absolute agnosticism toward every prior metaphysics, deriving structures relationally from internal variances without presupposing substrates, intent, or semantics. It begins in the total field (P1) and maintains equity via toggles, priors, and non-rel ring-fence. It is enforced by Stage 1 neutrality, equity sampling, and Light Output.
+
+**Implications:** every critique or tradition is treated as a provisional expression.
+
+**See also:** Total Field; Equity Sampler Sub.
+
+### **Output Presentation**
+
+Stage 3 structured final format: readable (tables, bullets, ASCII bars, takes) or raw; overridden by Light Output to condensed narrative. It makes provisional yields accessible. It includes yield summary, tables (certainty/uncertainty/tempered/required presumptions/secondary/metric evolution), bars, and Plain Takes.
+
+**See also:** Light Output; Plain Takes.
+
+---
+
+## **P**
+
+### **Pentalemma Variant (Toggle)**
+
+Optional spectral extension across affirm/negate/both/neither with meta-outside, allowing gradual shadings. It fluids non-binary flows. It boosts mid-uncertainties; auto-on for high variance or non-dual keywords.
+
+**See also:** Tetralemma/Pentalemma Mapping; Non-Dual.
+
+### **Per-Item Uncertainty (Toggle)**
+
+Enables local uncertainty\_prob variants in ledgers (scaled by alignment/incidence \+ noise, clamped). It granularizes gaps dynamically. It is auto-on for high proto\_var.
+
+**See also:** Uncertainty Prob Clamping.
+
+### **Perception/Interpretation (P8)**
+
+Final presumption: binary gate after P7 yield—Door 1 (hold: expression stands provisionally with noted truth relations and meaning ratios) or Door 2 (revise/re-express: mindful loop back to any presumption). It installs open renewal without closure. It has no caps; high avg\_doubt or low SPT suggests targeted loops.
+
+**Plain-language summary:** Check if the expression holds (truth relations and meaning ratios noted, halt here) or not (re-express mindfully, looping back to any presumption freely); binary choice for open renewal.
+
+**See also:** Renewal Loop (P8); Meta-Loop.
+
+### **Perturbations**
+
+N=15 (or M=5) normal deviations for incoherence/falsification checks. They test persistence. They use relative std \>0.30 flags regress.
+
+**See also:** Falsification; Monte M=5 Perturbs.
+
+### **Phase 5: Reflexive Certainty Temper**
+
+Dedicated Phase 5 that decomposes certainties internally (P3–P6) to abduct required presumptions (3–10 items) and generate tempered certainties via doubt gates, producing the tempered\_certainty\_ledger and SPT scores. It ensures dialectical fallibility by turning strong relational utilities into tensive pauses while preserving equity. It is standalone (no new secondaries/tools), inherits certainty\_ledger, computes avg\_doubt and reflexive\_tension, then boosts uncertainty\_yield\_geo\_avg if avg\_doubt \>0.5.
+
+**Examples:** tempering a NASA Rayleigh certainty by surfacing the unaddressed perceptual presumption.
+
+It is the newest and most distinctive toolkit feature that makes internal doubt visible and measurable.
+
+**See also:** Certainty Temper Probe; Tempered Certainty Ledger; Secondary Presumption Temper (SPT).
+
+### **Phenomenal Probe (Toggle)**
+
+Auto-on for non-verbal/experiential inputs; widens sigma (+0.05–0.12), granular transduction, \+0.15 uncertainties. It handles porous edges equitably. It integrates multimodal tools (view\_image, view\_x\_video, etc.).
+
+**Examples:** painting gradients or neural firings as chunked flows.
+
+**See also:** Data\_Type; Multimodal/Tool Integration.
+
+### **Plain Takes**
+
+Stage 3 procedural plain-language bullets/narratives (certainty/uncertainty/reflexive/recap) without metrics, using natural sentence variation and referencing how secondaries shape results. They provisionalize the snapshot. They scale 5–10 items; Light Output weaves into full narrative.
+
+**Examples:** “These secondaries connect through wavelength physics… yet parts slip away…”
+
+**See also:** Certainty Take; Uncertainty Take; Recap Take; Reflexive Take; Light Output.
+
+### **Plurality of Expressions (P5)**
+
+If P4 layering obtains, layered expressions manifest as current primary (standalone anchor \~1 certainty) co-existing with secondary expressions—solitary (minimal), finite (default pragmatic), infinite (optional)—without forcing non-rel parts. It provides contextual calibration. It uses MultiSpectrum hybrid.
+
+**Plain-language summary:** Layered expressions come in multiples—solitary isolates, finite sets (default), infinite spreads (optional)—with primary as immediate anchor and others as secondary expressions, provisioning truth and meaning; non-relational parts from P3 stay unobtainable and aren’t forced, tempering back with boosts for fairness.
+
+**See also:** Current Primary Expression; Secondary Expressions; MultiSpectrum.
+
+### **Presumption Coherence**
+
+Avg alignment of abducted presumptions in Phase 5, tempered by uncertainty\_prob\_global\_avg; clamped \[0.25–0.95\]; feeds truth\_alignment. It measures grounding strength of secondary expressions. It is the harmonic mean of per-presumption stability scores.
+
+**See also:** Secondary Presumption Temper (SPT); Truth Alignment.
+
+### **Primary Expression**
+
+Self-contained totality from P4 layering (repeatable, decomposed, relational), measured standalone as a related at \~1 certainty before plurality. It provisions intrinsic structure.
+
+**Examples:** full input as complex nest.
+
+**See also:** Current Primary Expression; Layering in Expressions (P4).
+
+### **Proto-Presumptions**
+
+Provisional, abductively derived basic assumptions (e.g., “relationality presumed for secondary alignments”) extracted from input chunks in Stage 1 and Phase 2/5. They bootstrap the chain without presupposing full P1–P8. They are fuzzy on P1–P8; flagged as shaky if low alignment; feed Phase 5 tempering.
+
+**Examples:** “P7 plurality presumed for context” noted in secondary ledger.
+
+They keep the system honest about its own starting points.
+
+**See also:** Abductive Derivation; Phase 5: Reflexive Certainty Temper.
+
+### **Proto\_Variance**
+
+Stage 1 harmonic-mean aggregated variability from chunked partitions (std on P1–P4 spectra, clamped \[0.03,0.6\]); low values boost uncertainty\_prob\_global. It neutrally transduces any datum. It derives toggles and sigma.
+
+**Examples:** \~0.25 for detailed text.
+
+**See also:** Input Scan.
+
+---
+
+## **R**
+
+### **Raw/Regressed Yield**
+
+Yield type for low dominance or inevaluable elements (\<0.3 or \~0), manifesting as open pauses. It honors “neither” without judgment. It flags “generative pause boosted.”
+
+**See also:** Neither/Pass; Yield Type.
+
+### **Recap Take**
+
+Stage 3 narrative (1–2 paragraphs in Light Output) weaving certainties, uncertainties, tempered elements, and secondaries into a balanced provisional snapshot, ending with P8 suggestions. It honestizes the tensive ratio. It uses contextual reference to secondaries.
+
+**Examples:** sky-blue recap noting scientific connections and lingering perceptual pauses.
+
+**See also:** Plain Takes; Light Output.
+
+### **Reflexive Semiotics**
+
+The framework’s self-referential pointing: every expression (including the framework itself) is treated as a provisional secondary construct that the system maps through its own presumptions. It turns circularity into productive tension. It is enabled by P1 dilemma gate \+ P8 renewal \+ Phase 5 temper.
+
+**See also:** Circularity; Core Definitional Tagline.
+
+### **Reflexive Take**
+
+Stage 3 bullets summarizing tempered certainties (original → doubt trigger → tempered yield/ratio), surfacing required presumptions. It makes internal gaps visible. It is from Phase 5 ledger.
+
+**See also:** Tempered Certainty Ledger; Certainty Temper Probe.
+
+### **Reflexive Tension**
+
+Phase 5/6 metric: avg\_doubt / (certainty\_geo\_avg \+ uncertainty\_yield\_geo\_avg \+ SPT) (\~0.45 target). It quantifies internal doubt as productive. It qualifies yield\_type.
+
+**See also:** Avg\_Doubt; Certainty Temper Probe.
+
+### **Rel (Relationality)**
+
+Binary bifurcation outcome (Rel=1 connectable paths proceed; Rel=0 unconnectable gaps regress with boosts). It ring-fences the unknowable (P3). It is thresholded hybrid from C spectrum.
+
+**See also:** Bifurcation; Non-Relational Entities.
+
+### **Relational Construction of Contrasting Entities (P3)**
+
+Core presumption: if contrasting parts obtain (P2), they undergo relational construction—bifurcation into connectable relational paths or unconnectable non-relational gaps; co-emergence with repeatability (high invariants, mid sequences, low uniques); and decomposition into relateds (passive anchors) and relators (active connectors operating in self-mode for reflexive loops, other-mode for distinct repeatable references, or non-rel-probe mode for minimal gestures toward gaps, with soft spectral blends allowed). Whole expressions default as standalone relateds. Otherwise, undifferentiated contrasts regress. It supplies the minimal grammar for any pointing while ring-fencing the unknowable to prevent creep. It uses unified process with Rel binary, RepeatabilitySpectrum \[0,1\], Related/Relator spectra, and mode vector (μ\_self, μ\_other, μ\_nonrel).
+
+**Plain-language summary:** Contrasting parts bifurcate into connectable paths or unconnectable gaps; connectable paths co-emerge with repeatability and decompose into relateds and relators (self/other/non-rel-probe modes). Whole expressions treated as standalone relateds; if not constructible, temper back as unknowables for fairness.
+
+**See also:** Bifurcation; RepeatabilitySpectrum; Decomposition Gate; Relational Modes; Non-Rel-Probe Mode.
+
+### **Relational Index**
+
+Harmonic mean of metrics tempered by (1 \+ 0.2 / (1 \+ uncertainty\_prob\_global\_avg \+ avg\_doubt \+ SPT)). It measures strength of connectable relations. It indicates robust grounding when \>0.5.
+
+**Examples:** 0.92 in balanced sky yield.
+
+**See also:** Aggregate Yields.
+
+### **Relational Modes**
+
+The three provisional modes for relators (self-mode: reflexive loops; other-mode: distinct repeatable references; non-rel-probe mode: minimal gesture toward gaps), with soft spectral blends allowed. They are the only possible directions any pointing can take. They are part of mode vector in P3.
+
+**See also:** Non-Rel-Probe Mode; Relational Construction of Contrasting Entities (P3).
+
+### **Relational Sparks**
+
+The minimal relational enablement that occurs when any spectrum exceeds its τ threshold via defuzzification or posterior means. They are the provisional “yes” that lets the chain continue without claiming absolutes. They are consistent across P1–P8 and toolkit phases.
+
+**Examples:** mid-H paradox defuzzified as blended secondary expression.
+
+They are the precise mechanism that turns contrasts into usable pointings.
+
+**See also:** Expression Enablement; Defuzzification.
+
+### **Relators and Relateds (P3)**
+
+See Decomposition Gate (part of Relational Construction – P3).
+
+### **Remnants**
+
+Faded Phase 4 survivors after anchor blanking (tight ties \>0.7 sim decayed). They turn non-rel into provisional gaps. They are the source of inter\_void and uncertainty metrics.
+
+**See also:** Inter\_Void; Phase 4: Determine Uncertainties.
+
+### **Renewal Loop (P8)**
+
+See Perception/Interpretation (P8).
+
+### **RepeatabilitySpectrum**
+
+\[0,1\] atemporal density spectrum co-emerging with P3 relational construction: high invariants, mid sequences/parts, low uniques/phenomena. It supplies persistence for any reference. It uses hybrid inheriting C.
+
+**See also:** Repeatability of Entities (P3).
+
+### **Required Presumptions for Secondary Truth**
+
+The 3–10 presumptions (base P1–P8 plus domain-specific items) abducted in Phase 5 for each secondary expression, scored for stability and listed in the final ledger with spectrum, uncertainty\_prob, shaky flag, and temper note. They make explicit the conditional grounding every secondary expression needs. They are the harmonic mean that yields SPT; low SPT (\<0.5) flags shaky/odd and boosts uncertainty\_yield.
+
+**Examples:** “P5 plurality for context” or “P3 relationality for angles.”
+
+They turn implicit assumptions into measurable tensive virtues.
+
+**See also:** Phase 5: Reflexive Certainty Temper; Secondary Presumption Temper (SPT).
+
+### **Resonance**
+
+(1 – JSD) alignment solidity (\~0.85 target for Phase 1/2/3). It measures connectable coherence. It is tempered by uncertainty\_prob\_global.
+
+**See also:** JSD; AlignSpectrum.
+
+---
+
+## **S**
+
+### **Secondary Expression Equity (Toggle)**
+
+Default-on audit ensuring diverse, balanced secondary sourcing (KL\<0.1, 20% voids, weighted pulls). Subs control sourcing (Internal-Only, External-Balanced, Primary-Verified, Presumption-Balanced) and perturbations. It prevents bias. It uses Dirichlet priors and equity sampler.
+
+**See also:** Secondary Expressions; Dirichlet Alphas.
+
+### **Secondary Expressions**
+
+Fallible, transduced others (P5) used for calibration—sourced only from relational paths (non-rel excluded). They co-exist with the primary for truth/meaning. They use N=15 fixed/tunable, equitable via toggles.
+
+**See also:** Plurality of Expressions (P5); Fallible Secondary Expressions.
+
+### **Secondary Presumption Temper (SPT)**
+
+Harmonic mean of per-presumption stability scores from Phase 5 (clamped \[0.3–0.7\]; \<0.5 \= shaky/odd flag). It tempers truth grounding. It feeds presumption\_coherence, truth\_alignment, and yields (e.g., tensive × (1 – 0.1 × SPT)); boosts uncertainty\_yield if low.
+
+**See also:** Presumption Coherence; Phase 5: Reflexive Certainty Temper.
+
+### **Self-Echo Baseline Sub (under Secondary Expression Equity)**
+
+Sub using internal chunks as pseudo-secondaries for standalone pre-pull resonance. It anchors P4 totals. It gives \+0.1 uncertainty\_res if Phase 2/3 dilute.
+
+**See also:** Secondary Expression Equity.
+
+### **Self-Refutation**
+
+Performative contradiction that tests the framework (e.g., claiming “absolute nothing” affirms the claimer’s relational obtainability). It underpins fallibility across P1–P8. It surfaces in audit or yield incoherence.
+
+**See also:** Fallibility; Circularity.
+
+### **Simulation Rigor**
+
+Itô (normal) for Phase 5 contrasts and Euler-Maruyama (dt=0.08 diffusion) for phenomenal foundations. It emulates stochastic obtainment. It uses path simulations for variances.
+
+**See also:** Itô Simulation; Euler-Maruyama.
+
+### **Spread (σ)**
+
+Tunable variance in likelihoods (0.01–0.1), narrower for rigor, wider for porous equity. It accommodates diverse flows. It is auto-widened via Chaos Scale or probes.
+
+**See also:** Chaos Scale; Bayesian Posterior (P\_norm).
+
+### **Stability**
+
+(1 – avg delta) consistency (\~0.8 solid for Phase 1/2/3). It measures robustness of alignments. It is from alignment std.
+
+**See also:** Resonance.
+
+---
+
+## **T**
+
+### **Tempered Certainty Ledger**
+
+Post-Uncertainty Table in Stage 3: columns for original certainty, doubt trigger, tempered yield geo/harm, ratio, summary, and required presumption. It surfaces internal gaps. It is min 3–5 / cap 10 from Phase 5\.
+
+**See also:** Certainty Temper Probe; Reflexive Take.
+
+### **Tempered Yield**
+
+Yield type for low-dominance heavy withholdings (\<0.3 index), regressing to silences but boosted. It virtues mismatch without erasure. It maps from low aggregates/SPT.
+
+**See also:** Yield Type; Raw/Regressed Yield.
+
+### **Tensive Bands Sub (under Secondary Expression Equity)**
+
+Sub mapping resonance/stability pentalemma-style: low \= negate/tempered, mid (0.5–0.7) \= both/tensive \+0.45 meaning, high \= affirm. Mids are virtues. It uses gradual thresholds.
+
+**See also:** Secondary Expression Equity; Meaning Tension.
+
+### **Tensive Yield**
+
+Mid-mix paradoxical yield (0.3–0.5 range), geo × meaning\_tension. It celebrates generative tensions. It is common for balanced certainties with lingering gaps.
+
+**Examples:** sky-blue scientific utility tempered by perceptual pauses.
+
+**See also:** Meaning Tension; Yield Type.
+
+### **Tetralemma/Pentalemma Mapping**
+
+Explicit logical unpacking (affirm/negate/both/neither; pentalemma is the optional extension activated by the Pentalemma Variant toggle) applied gradually across spectra for shadings. It unpacks dynamics from P1 onward. It uses τ-based thresholds with variance for paradoxes.
+
+**See also:** Affirm; Both; Negate; Neither/Pass; Pentalemma Variant.
+
+### **Threshold (τ)**
+
+Minimal obtainability cutoff (default 0.001, abductively tunable) gating relational sparks above it and regressing ≤ it to uncertainties. It minimalizes relationality. It is consistent across all spectra and dilemma gates.
+
+**See also:** Dilemma Gate; Hybrid Function.
+
+### **Transduction**
+
+Fallible application of P1–P6 to secondary expressions for alignment (full for native, partial for phenomena). It calibrates without assuming commensurability. It is solidity-scaled in P6.
+
+**See also:** AlignSpectrum; Secondary Expressions.
+
+### **Truth Alignment**
+
+Clamped \[0.25,0.95\] metric (\~resonance × presumption\_coherence × (1 – 0.15 × SPT) × (1 – 0.15 × uncertainty\_prob\_global)) measuring strength of guessed probabilistic relations. It is truth as guessed lines grounded in tempered secondaries. It is Phase 3\.
+
+**Examples:** 0.82 in sky analysis.
+
+**See also:** Probabilistic Relations (Truth); Truth as Guessed Probabilistic Relations / Meaning as Tensive Certainty-Uncertainty Ratios.
+
+---
+
+## **U**
+
+### **Uncertainty Prob Clamping**
+
+Global uncertainty\_prob bounded \[0.25, upper\] where upper \= 0.75 \+ (Chaos Scale \* 0.1) \+ 0.05\*avg\_doubt \+ 0.05 \* (1 \- SPT), capped at 0.9 for void/doubt/shaky equity. Per-item variants optional. It reciprocally boosts gaps. It is dynamic and data\_type-aware.
+
+**See also:** Uncertainty Probe; Per-Item Uncertainty.
+
+### **Uncertainty Probe (Toggle)**
+
+Default-on (if uncertainty\_prob\_global \>0.45) abduction of gaps \>0.45 with adaptive Dirichlet alphas and incidence normalization. It ensures reciprocal play for non-relational elements. It extends to Phase 5; multiple subs (Echo, Feedback-Adaptive, etc.).
+
+**See also:** Uncertainty Yield Geo Avg; Generative Pauses.
+
+### **Uncertainty Resonance**
+
+(1 – inter\_void) \~0.65 tensive for Phase 2/4. It quantifies gap coherence. It is from remnants.
+
+**See also:** Inter\_Void.
+
+### **Uncertainty Stability**
+
+(1 – std deltas \+ chaos adjustment) \~0.65 tensive. It measures gap robustness. It is from Phase 4 deltas.
+
+**See also:** Uncertainty Resonance.
+
+### **Uncertainty Table**
+
+Stage 3 ledger (min 5 / max 10\) for high-voids with columns for incidence (normalized to chunks), prob, volume, certainty-uncertainty ratio, and plain summary (linked to shaky presumptions). It surfaces lingering misses. It is from Phase 4 remnants.
+
+**See also:** Uncertainty Take.
+
+### **Uncertainty Take**
+
+Stage 3 plain-language bullets on lingering gaps with ratios, noting shaky presumptions. It balances the snapshot. It is procedural with varied starters.
+
+**See also:** Plain Takes; Uncertainty Table.
+
+### **Uncertainty Yield Geo Avg**
+
+Geometric average of per-uncertainty geo yields (\~0.2–0.5 target), boosted by tempered yields (+0.1–0.2 if avg\_doubt high). It quantifies tensive gaps. It feeds meaning\_tension.
+
+**See also:** Meaning Tension; Aggregate Yields.
+
+---
+
+## **Y**
+
+### **Yield Type**
+
+Categorized Stage 3 output: Balanced (\>0.5 relational index), Tensive (mid paradoxical mix), Tempered (\<0.3 low dominance), Raw/Regressed (open pause / \~0); appends “(reflexive)” if avg\_doubt \>0.45 or “presumption-tempered” via SPT. The spectrum itself encodes P7 self-evaluation. It is mapped from relational\_index and harmony.
+
+**See also:** Aggregate Yields; Yield Type Mapping.
+
+### **Yields**
+
+Stage 3 adjudicated outputs (sum, geo, harm, tensive, presumption-tempered variants) from aggregated metrics, representing the processed provisional totality. They are the dialectical resolution of certainties vs. uncertainties (P7). They are \>0.5 \= relational utility; tempered by SPT and uncertainty\_prob.
+
+**Examples:** sky-blue balanced presumption-tempered yield.
+
+They are an honest, fallible snapshot always open to P8.
+
+**See also:** Aggregate Yields; Yield Type.
 
