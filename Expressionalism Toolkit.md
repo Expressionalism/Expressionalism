@@ -1,27 +1,25 @@
 # **Expressionalism Toolkit: A Dialectical Provisional Yield Analyzer**
 
-## **Overview**
+**Overview**
 
-The toolkit derives certainties from fallible secondary expressions supporting the primary (provisionally obtainable per P1). Uncertainties emerge from gaps, with meaning as certainty-uncertainty tensions. Truth is measured as guessed probabilistic relations among connectable elements. Meaning emerges as the tensive ratio—the dynamic interplay—between those certainties and the uncertainties that remain.
+The Expressionalism Toolkit is an operational analyzer that applies the eight presumptions of the framework to any expression treated as a provisional pointing. An expression consists of any phenomenon that obtains and points: a linguistic statement, a scientific claim, a work of art, a personal experience, a memory, a neuron firing, a bird call, a song, a movie, a political document, a logical paradox, a visual scene, or a moment of silence. The toolkit also processes raw phenomenal or multimodal data once transduced into the relational schema. It treats every input as an undifferentiated datum and subjects it to the same neutral process, deriving connectable certainties from fallible secondary expressions, identifying non-relational uncertainties, and measuring meaning as the tensive ratio between those certainties and the uncertainties that remain.
 
-These are now explicitly grounded in required presumptions for secondaries—abducted fallibly from the chain (P1-P8 base \+ specifics), tempered by uncertainties of certainties (Phase 5\) for shakiness/stability. This ensures dialectical depth, with shaky presumptions flagged as tensive virtues or odd pauses.
+The toolkit operationalizes the framework’s presumptions through staged computation. It produces spectra, metrics, and yields that quantify relational utilities, uncertainty probabilities, and the resulting dialectical tension. Outputs include certainty and uncertainty ledgers, tempered certainties from reflexive audits, secondary-expression tables, metric evolution tables, and provisional yields (balanced, tensive, tempered, or raw). All results remain provisional and fallible by design. The toolkit subjects its own outputs to the same grammar, preserving ontological neutrality and granting equitable space to every input type, from crisp logical expressions to porous phenomenal or non-linguistic data.
 
-This analyzer operationalizes the Expressionalism framework (P1-P8) and produces connectable certainties and non-relational uncertainties from any input, treated as undifferentiated datum. The toolkit features **Phase 5: Reflexive Certainty Temper**, which derives tempered certainties from internal presumptions in connectable certainties, enhancing provisional tensions without external inputs. It also includes an optional **Light Output** toggle for condensed narrative presentations, enhancing accessibility while preserving full internal rigor.
+The toolkit accepts the following as input:
 
-## **Inputs**
+* Linguistic expressions (for example, statements, arguments, poems, or documents).  
+* Phenomenal descriptions (for example, sensory experiences, emotional states, or raw perceptual events).  
+* Visual or multimodal data (for example, images, videos, or combined text-and-image inputs), once transduced via gradient analysis or keyword density.  
+* Any other datum that can be treated as a pointing, including attempts to reference pure non-being or absolute voids.
 
-* Linguistic expressions (e.g., "God exists")  
-* Phenomenal descriptions (e.g., "red intensity gradient in a painting")  
-* Experiential phenomena (e.g., "neural firings during emotion")  
-* Multimodal data transduced into natural language for processing
+Inputs may be supplied in natural language, file attachments, or URLs. The toolkit maintains full neutrality toward every domain and does not presuppose intent, semantics, or substrate. It proceeds through the presumptions regardless of input type, widening sigma and boosting reciprocal uncertainties where porous or non-linguistic data require it.
 
-The toolkit maintains ontological neutrality, dialectically mining structures from internal variances without presupposing substrates, intent, or semantics. It cascades through tetralemma/pentalemma forks (affirm/negate/both/neither/spectrum) to provision yields, self-enforcing through loops and falsifiable on persistent incoherence (\>25% across N=15 perturbations, with data\_type-aware tolerance: 25% for 'expression', 30% for 'phenomenon' to accommodate porous flows) or high uncertainties (\>60% incidence).
-
-Outputs prioritize certainties and uncertainties, with metrics (resonance, stability, uncertainty resonance, uncertainty stability, truth alignment, meaning tension) in tables/ledgers/visuals for adjudication. Yields emphasize provisionality: Presumptions enable expressions as conditional fallible secondary expressions, tempered by unmappables—circular as dialectical virtue, not vice. Truth emerges as guessed probabilistic relations; meaning as certainty-uncertainty tensions—provisional, not absolute. Harmony index elevates fragility (\~0.85 in chained audits).
+This section is followed by a summary of the eight presumptions for reference, then by the core mechanics and staged analysis that execute the framework computationally. The entire toolkit remains explicitly provisional, self-correcting, and open to reconfiguration through the renewal mechanism described in the framework.
 
 ## **Presumption Measurement**
 
-**Required presumptions for secondary truth** are provisionally abducted sets (3-10 items from P1–P8), scored via uncertainties of certainties—quantifying shakiness (low stability) as tensive gaps, complementing probabilistic alignments without regress.
+The toolkit provisionally abducts relevant subsets of 3–10 presumptions drawn from P1–P8. These subsets represent the presumptions required to ground the truth relations that secondary expressions supply to the current primary expression. Each subset is scored by quantifying the uncertainties present in its certainties. Lower stability registers as tensive gaps that complement the probabilistic alignments rather than cause regression.
 
 ### **Summary of Core Presumptions**
 
