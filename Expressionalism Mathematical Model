@@ -1,0 +1,147 @@
+**Expressionalism: A Unified Formal Model of Relational Obtainability, Secondary Synthesis, and the Tension of Certainty**
+
+This appendix supplies the complete, unified mathematical articulation of the Expressionalism framework. It functions as the primary technical reference for all formal modeling, metrics, and operational procedures employed across Presumptions 1–8. The framework takes expression — understood as any provisional stabilization of secondary synthesis — as its fundamental primitive. Pointing is the directed, representational, or reflexive aspect of an expression: its capacity to stabilize toward itself, toward distinct repeatable entities, or toward what resists connection. The present formalization models every quantity as a continuous spectrum or gradient valued in the closed unit interval \[0,1\], reported to a precision of 0.001. This choice enacts the framework’s commitment to graded, non-binary distinctions while preserving computational tractability and auditability.
+
+The distinctions articulated in this mathematical model emerge within the activity of analyzing an expression that has already obtained. They do not function as ontological prerequisites that must obtain before any expression can occur. The framework therefore maintains ontological neutrality with respect to substantive metaphysical commitments. Like every other component of the schema, this mathematical model remains fully provisional and subject to revision, extension, or replacement under Presumption 8\.
+
+This formal model supplies the general mathematical machinery — hybrid functions, fuzzy membership families, normalized Bayesian posteriors, dilemma gates, and inheritance rules — from which the concrete metrics, phases, and ledgers of the Expressionalism Toolkit are derived as operational specializations. Every specific implementation choice in the toolkit (including the precise weighting of the Secondary Coherence Score, the log-odds formulation of the Inferred Relator Mode Distribution, uncertainty clamping rules, and binomial falsification thresholds) remains fully consistent with the general principles articulated here and is subject to the same renewal logic under Presumption 8\.
+
+## **1\. General Modeling Principles**
+
+The framework treats all core quantities as continuous spectra or gradients defined on the closed interval \[0,1\]. Every primary modeling step employs a hybrid function of the general form
+
+H(x)=min⁡(1,μ(x)×Pnorm(x∣V))∈\[0,1\]H(x) \= \\min\\left(1, \\mu(x) \\times P\_{\\rm norm}(x \\mid V)\\right) \\in \[0,1\]H(x)=min(1,μ(x)×Pnorm​(x∣V))∈\[0,1\]
+
+where:
+
+* μ(x) \\mu(x) μ(x) denotes a fuzzy membership function,  
+* Pnorm(x∣V) P\_{\\rm norm}(x \\mid V) Pnorm​(x∣V) denotes a normalized Bayesian posterior,  
+* V V V stands for input variance, contrast, repeatability, or other conditioning information available within the current analysis,  
+* the minimum operator with upper bound 1 enforces saturation at full obtainability.
+
+A tunable threshold τ=0.001  \\tau \= 0.001  τ=0.001 (adjustable within the interval \[0.0001, 0.01\] for sensitivity analysis) governs the dilemma gate that separates relational from non-relational regimes:
+
+* If H(x)\>τ H(x) \> \\tau H(x)\>τ, the analysis proceeds through Door 1 and continues relational construction.  
+* If H(x)≤τ H(x) \\leq \\tau H(x)≤τ, the analysis registers generative uncertainty or halts at Door 2, with reciprocal boosting of downstream uncertainty metrics where appropriate to preserve equity.
+
+The hybrid function, fuzzy membership families, Bayesian normalization procedure, dilemma gate, and tetralemma mapping defined in this appendix constitute the base model. Every subsequent presumption inherits this base and specifies only those parameters, spectra, priors, or boosting rules that differ from the general formulation.
+
+## **2\. Fuzzy Membership Functions**
+
+The framework employs two families of membership functions.
+
+### **Linear (default) membership function**
+
+For most operational contexts the framework adopts the linear ramp
+
+μ(x)={0if x≤τ,max⁡(0,min⁡(1,x−τ1−τ))if τ\<x\<1,1if x=1.\\mu(x) \= \\begin{cases} 0 & \\text{if } x \\leq \\tau, \\\\ \\max\\left(0, \\min\\left(1, \\frac{x \- \\tau}{1 \- \\tau}\\right)\\right) & \\text{if } \\tau \< x \< 1, \\\\ 1 & \\text{if } x \= 1\. \\end{cases}μ(x)=⎩⎨⎧​0max(0,min(1,1−τx−τ​))1​if x≤τ,if τ\<x\<1,if x=1.​
+
+### **Clamped sigmoid membership function**
+
+When the input exhibits mid-spectrum paradoxes, fluid contrasts, non-dual phenomena, or high generative tension, the framework substitutes the clamped logistic sigmoid
+
+μ(x)={0if x≤τ,11+exp⁡(−k(x−c))if τ\<x\<1,\\mu(x) \= \\begin{cases} 0 & \\text{if } x \\leq \\tau, \\\\ \\frac{1}{1 \+ \\exp(-k(x \- c))} & \\text{if } \\tau \< x \< 1, \\end{cases}μ(x)={01+exp(−k(x−c))1​​if x≤τ,if τ\<x\<1,​
+
+where the gain parameter k∈\[5,15\]  k \\in \[5,15\]  k∈\[5,15\] and center c∈\[0.5,0.6\]  c \\in \[0.5,0.6\]  c∈\[0.5,0.6\] are chosen abductively according to the character of the input. Lower values of k  k  k produce smoother gradients suited to non-dual or paradoxical phenomena; higher values produce sharper, more binary-like distinctions. The sigmoid is clamped at the boundaries to guarantee that μ(x)∈\[0,1\]  \\mu(x) \\in \[0,1\]  μ(x)∈\[0,1\] for all x  x  x.
+
+## **3\. Normalized Bayesian Posterior**
+
+The normalized posterior takes the general form
+
+Pnorm(x∣V)=P(x)⋅L(V∣x)Z,P\_{\\rm norm}(x \\mid V) \= \\frac{P(x) \\cdot L(V \\mid x)}{Z},Pnorm​(x∣V)=ZP(x)⋅L(V∣x)​,
+
+where P(x)  P(x)  P(x) is the prior, L(V∣x)  L(V \\mid x)  L(V∣x) is the likelihood, and Z  Z  Z is the normalizing constant that maps the result into \[0,1\].
+
+**Default prior.** The framework adopts a uniform prior P(x)∼U\[0,1\]  P(x) \\sim U\[0,1\]  P(x)∼U\[0,1\] (or U\[τ,1\]  U\[\\tau,1\]  U\[τ,1\] when low-end values are structurally excluded by the presumption under consideration). Analysts may adjust the prior abductively for equity:
+
+* Lower prior mass (≈0.2) when the analysis emphasizes voids, uniqueness, low-repeatability entities, or non-relational phenomena.  
+* Higher prior mass (≈0.8) when the analysis emphasizes dense relational structure or high invariance.
+
+**Likelihood.** The framework typically employs a Gaussian likelihood of the form
+
+L(V∣x)∝exp⁡(−(V−x)2σ2),L(V \\mid x) \\propto \\exp\\left( \-\\frac{(V \- x)^2}{\\sigma^2} \\right),L(V∣x)∝exp(−σ2(V−x)2​),
+
+with bandwidth σ∈\[0.01,0.1\]  \\sigma \\in \[0.01,0.1\]  σ∈\[0.01,0.1\]. Narrower bandwidth enforces stricter matching between model and data; wider bandwidth permits greater porosity and bleed-in from marginal cases. Normalization proceeds either by supremum division or by cumulative distribution function (CDF) mapping to guarantee that Pnorm(x∣V)∈\[0,1\]  P\_{\\rm norm}(x \\mid V) \\in \[0,1\]  Pnorm​(x∣V)∈\[0,1\].
+
+## **4\. Dilemma Gate and Decision Logic**
+
+The dilemma gate operates uniformly across all presumptions:
+
+Decision={Door 1 (proceed with relational construction)if H(x)\>τ,Door 2 (register generative uncertainty or halt)if H(x)≤τ.\\text{Decision} \= \\begin{cases} \\text{Door 1 (proceed with relational construction)} & \\text{if } H(x) \> \\tau, \\\\ \\text{Door 2 (register generative uncertainty or halt)} & \\text{if } H(x) \\leq \\tau. \\end{cases}Decision={Door 1 (proceed with relational construction)Door 2 (register generative uncertainty or halt)​if H(x)\>τ,if H(x)≤τ.​
+
+Persistent activation of Door 2 increments uncertainty probability and may propagate downstream, especially through non-rel-probe mode. Persistent Door 2 outcomes also trigger reciprocal boosting of uncertainty metrics to maintain equity between relational and non-relational regimes.
+
+## **5\. Tetralemma and Pentalemma Mapping**
+
+For paradox-tolerant or multi-valued analysis the framework maps the hybrid output H(x)  H(x)  H(x) according to the following table:
+
+| H(x) range | Tetralemma interpretation | Pentalemma extension |
+| ----- | ----- | ----- |
+| High (\>0.75) | Affirm | Strong affirm |
+| Mid-high | Both | Partial / gradient affirm |
+| Mid (≈0.4–0.6) | Both (generative tension) | Spectrum / fluid both |
+| Low-positive (\<τ) | Neither | Open pause / generative neither |
+| Zero | Negate | Strong negate |
+
+High variance in the normalized posterior increases the probability of “both” or fluid mappings, thereby registering generative tension rather than forcing binary resolution.
+
+## **6\. Three-Dimensional Relational Density (Presumption 3\)**
+
+Presumption 3 models relational construction as the joint operation of three co-emergent dimensions:
+
+1. Connectability gradient Rel∈\[0,1\] \\text{Rel} \\in \[0,1\] Rel∈\[0,1\],  
+2. Repeatability spectrum RepeatabilitySpectrum∈\[0,1\] \\text{RepeatabilitySpectrum} \\in \[0,1\] RepeatabilitySpectrum∈\[0,1\],  
+3. Relational mode vector (μself,μother,μnon-rel-probe)∈\[0,1\]3 (\\mu\_{\\text{self}}, \\mu\_{\\text{other}}, \\mu\_{\\text{non-rel-probe}}) \\in \[0,1\]^3 (μself​,μother​,μnon-rel-probe​)∈\[0,1\]3.
+
+Relateds and relators are functional roles revealed in analysis rather than intrinsic properties of the entities or expressions involved. During analysis the current primary expression is treated primarily as a related whose pointing-aspect is under examination. Secondary expressions function as relators. These roles are context- and scale-dependent and remain subject to perceptual shifts under Presumption 8\. The framework therefore preserves full capacity for Functional Role Shift at every stage of formal modeling.
+
+The three provisional relational modes are modeled as a vector (μself,μother,μnon-rel-probe)∈\[0,1\]3  (\\mu\_{\\text{self}}, \\mu\_{\\text{other}}, \\mu\_{\\text{non-rel-probe}}) \\in \[0,1\]^3  (μself​,μother​,μnon-rel-probe​)∈\[0,1\]3. In the operational implementation of the toolkit these mode participations are derived via log-odds formulation followed by softmax normalization, which produces probabilities that sum exactly to 1.0. The formal model permits soft, overlapping blends among the modes consistent with the framework’s treatment of them as provisional directions that the pointing-aspect of an expression may take.
+
+The composite relational density is obtained by combining the three dimensions through a weighted hybrid function. Non-rel-probe mode registers a minimal relational gesture toward what may remain unconnectable. In the operational toolkit this mode increases downstream uncertainty probability in a manner consistent with the derived Inferred Relator Mode Distribution and the general uncertainty propagation rules. The framework treats non-relational gaps strictly as remainders of expressions where secondary synthesis fails or is refused; they are never installed as positive entities within the model.
+
+Non-relational gaps are treated as strict limit concepts and remainders of expressions where secondary synthesis fails or is refused. This treatment enacts the framework’s operational protection of what resists relational construction without installing a standing ontological commitment.
+
+## **7\. Hierarchical and Multiplicity Spectra (Presumptions 4–5)**
+
+LayerSpectrum∈\[0,1\]  \\text{LayerSpectrum} \\in \[0,1\]  LayerSpectrum∈\[0,1\] inherits from the relational density of Presumption 3\. It models subatomic organization at low values, atomic organization at mid values, and complex nested organization at high values. Primary expressions emerge relationally for LayerSpectrum\>τ  \\text{LayerSpectrum} \> \\tau  LayerSpectrum\>τ, with uncategorizable elements registering as non-relational gaps.
+
+MultiSpectrum∈\[0,1\]  \\text{MultiSpectrum} \\in \[0,1\]  MultiSpectrum∈\[0,1\] inherits from LayerSpectrum  \\text{LayerSpectrum}  LayerSpectrum and from the contrasts of Presumption 2\. Low values correspond to solitary expressions, mid values to finite clusters (the default pragmatic yield), and high values to optional infinite proliferation. Both spectra employ the general hybrid function family with presumption-specific thresholds and priors.
+
+## **8\. Alignability and Yield Spectra (Presumptions 6–7)**
+
+AlignSpectrum∈\[0,1\]  \\text{AlignSpectrum} \\in \[0,1\]  AlignSpectrum∈\[0,1\] models the spectrum of transduction and comparison (sparse, partial, or dense) between secondary expressions and the primary expression. It inherits from MultiSpectrum  \\text{MultiSpectrum}  MultiSpectrum and from the relational density of Presumption 3\.
+
+YieldSpectrum∈\[0,1\]  \\text{YieldSpectrum} \\in \[0,1\]  YieldSpectrum∈\[0,1\] is computed through dialectical aggregation of certainty-weighted alignments and uncertainty probability. The operational toolkit implements this aggregation through multiple yield variants (Sum, Geometric, Harmonic, Tensive, and Presumption-Tempered), with the Presumption-Tempered variant incorporating an adjustment by Secondary Presumption Temper (SPT). These differentiated yield calculations constitute a concrete specialization of the general dialectical aggregation principle articulated in this formal model. The toolkit further employs the Secondary Coherence Score as the central interpretive lens under standard operating conditions.
+
+The Secondary Coherence Score serves as the primary diagnostic metric when a Secondary Synthesis Audit is active. It is calculated as:
+
+Secondary Coherence Score=0.40×Alignment to Primary‾+0.35×Inter-Secondary Coherence‾+0.25×Traction Provided‾\\text{Secondary Coherence Score} \= 0.40 \\times \\overline{\\text{Alignment to Primary}} \+ 0.35 \\times \\overline{\\text{Inter-Secondary Coherence}} \+ 0.25 \\times \\overline{\\text{Traction Provided}}Secondary Coherence Score=0.40×Alignment to Primary​+0.35×Inter-Secondary Coherence​+0.25×Traction Provided
+
+(clamped to \[0,1\]). In the current operational toolkit the score is interpreted according to the following target ranges: values in the interval 0.52–0.78 indicate balanced or strong synthesis; values greater than 0.78 indicate strong synthesis; values in the interval 0.25–0.50 indicate tempered or low-traction yields.
+
+## **9\. Perception Gate (Presumption 8\)**
+
+The final perception gate is modeled as a thresholded binary decision on YieldSpectrum, with spectrum options for provisional acceptance versus open re-expression. P8 functions as the living renewal mechanism of the schema. Functional Role Shift remains fully available under Presumption 8\. An expression treated as a related during one analysis may be re-expressed as enacting relator activity in another context. Any such shift is recorded as metadata and itself constitutes a new expression subject to the same formal model.
+
+The gate itself remains fully open under P8; any decision to accept, refine, restructure, modularly incorporate, or discard the current yield constitutes a new pointing subject to the same schema.
+
+## **10\. Inheritance and Specialization Rule**
+
+Every presumption inherits the general hybrid function, fuzzy membership families, Bayesian normalization procedure, dilemma gate, and tetralemma mapping defined in this appendix. Specialization occurs only through:
+
+* the specific spectrum being modeled,  
+* abductively chosen parameters (k k k, σ \\sigma σ, prior mass, τ \\tau τ),  
+* additional constraints or boosting rules particular to that presumption.
+
+All mathematical operations remain fully auditable and revisable under Presumption 8\.
+
+## **11\. Status and Revisability**
+
+This mathematical model articulates one coherent formalization of the functional distinctions developed across Presumptions 1–8. It supplies operational precision and computational tractability for secondary synthesis audits, metric derivation, and toolkit implementation. Secondary synthesis remains the operative engine through which primary expressions obtain their standing.
+
+It does not claim to describe what existence must be like independent of analysis, nor does it privilege relational connectivity as more fundamental than what resists it. Non-relational gaps are treated as strict limit concepts and remainders of expressions where secondary synthesis fails or is refused. The model registers only the points at which resistance appears as a loss of traction and maintains consistent operational restraint in further interpretive gestures.
+
+Because every engagement with this mathematical model — including the decision to adopt, revise, extend, replace, or set it aside — itself constitutes an expression, the entire formal apparatus remains subject to the renewal logic of Presumption 8\. Analysts may strengthen, weaken, replace, or bypass any component of this model as part of a new primary expression. The framework therefore carries its own mechanism of self-correction from the outset and makes no claim to final or canonical status.
+
+The Open Field stays open. The renewal loop remains open.
+
