@@ -1,84 +1,101 @@
-# **Expressionalism: Measuring Meaning**
+# Expressionalism
 
-[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)  
-[MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+> A provisional, ontologically neutral framework for understanding how meaning arises through expression and pointing — while honestly protecting what resists full relational construction.
 
-[Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue)
+Expressionalism provides a minimal yet rigorous schema for analyzing any expression (thought, language, experience, art, or computation). It centers on the **pointing-aspect** of expression and treats meaning as a **tensive ratio** between what can be relationally synthesized and what necessarily remains as non-relational remainder or gap.
 
-Expressionalism is a provisional, dialectical framework for measuring meaning through expressions. It bootstraps from ontological neutrality to relational truths and tensive ratios, deriving meaning as tensions between certainties (connectable contrasts, alignments, utilities) and uncertainties (gaps, pauses, unknowables).  
-Agnostic to metaphysics and equitable across traditions (analytic, Eastern non-duals, indigenous), it includes 11 self-enforcing presumptions with baked-in fallibility. Use it to unpack ideas, refine claims, or analyze expressions in philosophy, AI, or semiotics.
+The framework is deliberately open and self-renewing. It does not claim to be a final ontology or a prescriptive method. Instead, it offers clear distinctions, operational tools, and a formal computational substrate that can be examined, used, refined, or set aside.
 
-For more, visit [expressionalism.com](https://expressionalism.com). Open for hacks, refinements, and contributions\!
+---
 
-## **What is Expressionalism?**
+## What Expressionalism Offers
 
-Expressionalism is a simple way to think about anything we notice or say in life.
+- A set of eight foundational presumptions (P1–P8) that prioritize ontological neutrality, relational construction, and the protection of non-relational remainders.
+- An operational **Toolkit** with concrete workflows, metrics (including the Secondary Coherence Score), spectra, and toggles for practical analysis.
+- A **Computational Substrate** with a formal mathematical model (hybrid function H(x), dilemma gate, relational density spectrum) and full parameter justification.
+- Rigorous, multi-stage **validation** of the model and metrics, including edge cases and isolation behavior.
+- A comprehensive **Glossary** that bridges plain-language accessibility with technical precision.
 
-Picture this: Every idea, feeling, or thing you experience—like a random thought popping into your head, a picture you see, a quiet moment, or something said out loud—is an "expression" here. It's your way of grabbing onto something and trying to connect it to other stuff, while spotting the parts that don't quite fit or stay mysterious.
+Together these elements form a coherent system for reflective inquiry into meaning, while remaining provisional by design.
 
-You can start from either end:
+---
 
-* Go forward from zero assumptions—no big claims about God, the universe, or whether anything's "real" at all—and build up step by step to figure out what holds together in that expression: Look for patterns that link up reliably, like guessing how one idea relates to another, and call those "certainties." At the same time, respect the gaps or unknowns that can't connect, labeling them "uncertainties." Truth here just means those guessed connections feel solid for now, and meaning comes from the balance between what clicks and what doesn't—kind of like how a puzzle feels complete even with missing pieces.  
-* Or go backward: Start from an expression you think is true, and peel layers off like an onion to spot what has to be presumed just to make it "work" or feel "known."
+## Current State
 
-It's not about proving anything forever; it's humble and changeable. Certainty and uncertainty have to exist together no matter what we think, claim, or know for sure about the world, life, being, existence, or whatever is out there—and it all hangs together because of the expression that makes it possible in the first place.
+The core corpus is now complete and internally consistent:
 
-At the end of the day, it's always okay to re-express in a different way; that just becomes your fresh starting point.
+- Full philosophical Framework (P1–P8)
+- Operational Toolkit with measurable outputs
+- Computational Substrate and Parameter Justification
+- Seven-stage empirical validation of the mathematical model and metrics
+- Complete Glossary
+- Systematic responses to common objections and critiques
 
-## **Key Features**
+All major components have been tested against the framework’s own standards of clarity, consistency, and non-coercive openness.
 
-* Equitable and fallible by design: Self-refutes where needed, elevates marginal perspectives.  
-* Toolkit: Phases, toggles (e.g., Certainty Temper Probe), metrics (e.g., harmony index prioritizing fragility).  
-* Python script: Analyzes inputs for certainties, uncertainties, and yields.  
-* For addressed critiques, see docs/critiques-addressed.docx.
+---
 
-## **Files in This Repository**
+## Project Structure
 
-* **docs/**  
-  * framework.docx: Core framework with 11 presumptions, math, and summaries.  
-  * toolkit.docx: Dialectical Provisional Yield Analyzer with stages, phases, toggles, and mechanics.  
-  * metric-proofs.docx: Proofs, derivations, and results (updated November 22, 2025).  
-  * glossary.docx: Key terms.  
-  * critiques-addressed.docx: Responses to objections.  
-  * copyright-notice.docx: License details.  
-* **scripts/**  
-  * expressionalism\_toolkit.py: Python tool for running analyses (e.g., on "logical law of identity x=x").
+The repository contains the complete Expressionalism corpus organized for both human readers and computational use:
 
-## **Getting Started**
+- `Framework/` — Core philosophical presumptions and distinctions
+- `Toolkit/` — Operational guidelines, workflows, metrics, and ledgers
+- `Computational-Substrate/` — Formal model, parameter derivations, and justification
+- `Validations/` — Full testing reports and simulator results
+- `Glossary/` — Plain-language and technical definitions
+- `Objections/` — Addressed critiques and responses
 
-Clone the Repo:  
-text  
-git clone https://github.com/Expressionalism/Expressionalism.git
+The most polished reading experience is available on the project website.
 
-1. cd Expressionalism  
-2. Install Dependencies: (Requires Python 3.12+)  
-   text  
-   pip install \-r requirements.txt  
-3. Run the Script: Example:  
-   text  
-   python scripts/expressionalism\_toolkit.py \--input "The sky is blue due to Rayleigh scattering" \--toggles Density\_Probe=On  
-   Output: Tables, metrics, and narratives for certainties/uncertainties.  
-4. Explore Docs: Open .docx files in Word or Google Docs.
+---
 
-## **Contributing**
+## Getting Started
 
-This framework is hackable—fork, tweak, and submit pull requests\! Ideas:
+1. Visit **[expressionalism.com](https://expressionalism.com)** for the full, well-formatted corpus and latest updates.
+2. Begin with the Framework to understand the foundational presumptions.
+3. Move to the Toolkit when you want to apply the distinctions in practice.
+4. Explore the Computational Substrate if you are interested in the formal and mathematical foundations.
 
-* New toggles (e.g., domain-specific).  
-* Script enhancements (e.g., API integrations for X/web searches).  
-* Examples or demos.  
-* Bug fixes in proofs or code.
+The framework is meant to be engaged with, not simply consumed. The P8 renewal gate explicitly invites you to accept, refine, modularly incorporate, or discard any part of it.
 
-See CONTRIBUTING.md for guidelines. Respect equity: Boost marginal views.
+---
 
-## **License and Copyright**
+## Resources
 
-* Docs/Materials: Creative Commons Attribution 4.0 (CC BY 4.0)—share/adapt with credit.  
-* Code: MIT License—use/modify freely with notice.
+- **Project Website**: [expressionalism.com](https://expressionalism.com) — Primary home for the full corpus and interactive reading experience.
+- **GitHub Repository**: This repo contains the complete source documents and validation materials.
+- **Glossary**: Available on the website for quick reference.
 
-See docs/copyright-notice.docx for details. © 2025 Witten.
+---
 
-Questions? Open an issue or email funkycannedgoods@gmail.com.
+## Contributing & Feedback
 
-Support this work? [Buy me a coffee here](https://buymeacoffee.com/funkycanney). THANKS AGAIN\!
+Expressionalism is designed as an open, revisable system. Thoughtful engagement, critique, and suggested refinements are welcome, especially when offered in the spirit of provisionality and intellectual honesty.
 
+You can open issues or pull requests here on GitHub. All contributions are themselves expressions and can be examined through the same lens the framework provides.
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions may be applied that legally restrict others from doing anything the license permits.
+
+### Example Attribution
+> Expressionalism by Witten (2025), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+For the full legal code, see the [Creative Commons license page](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+---
+
+**Expressionalism does not offer final answers.**  
+It offers a sharper mirror for when you choose to pause and look carefully at how meaning appears.
