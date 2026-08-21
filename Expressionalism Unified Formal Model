@@ -2,7 +2,7 @@
 
 This appendix supplies a formal mathematical representation of the Expressionalism framework. It is offered as an available technical resource for modeling, metrics, and operational procedures across Presumptions 1–8; it is not a higher authority or foundation than the Framework itself. The framework takes expression — understood as any provisional stabilization of secondary synthesis — as its fundamental primitive. Pointing is the directed, representational, or reflexive aspect of an expression: its capacity to stabilize toward itself (self-pointing) or toward distinct repeatable entities (other-pointing). What resists capture registers as residual openness / the Non-relational Remainder — the horizon or limit of relational obtainability, not a third peer mode. The present formalization models every quantity as a continuous spectrum or gradient valued in the closed unit interval \[0,1\]  \[0,1\]  \[0,1\], reported to a precision of 0.001  0.001  0.001. This choice enacts the framework’s commitment to graded, non-binary distinctions while preserving computational tractability and auditability.
 
-The distinctions articulated in this mathematical model emerge within the activity of analyzing an expression that has already obtained. They do not function as ontological prerequisites that must obtain before any expression can occur. The formal apparatus and all derived procedures are defined only for inputs already presented as primary expressions; they never claim to generate the first expression or the first secondary. First operational act, given a candidate primary E0  E\_0  E0​: abduct a provisional secondary set S0  S\_0  S0​ by applying the hybrid H  H  H under a default uniform prior and maximal σ  \\sigma  σ (widest generative tension). If the resulting traction vector (i.e., the vector of secondary-level hybrid scores Hi  H\_i  Hi​) is entirely ≤τ  \\leq \\tau  ≤τ, the yield is immediately Raw/Regressed with full isolation and the chainhalts (Synthesis Refusal at the system’s own conditions of possibility). Otherwise S0  S\_0  S0​ becomes the initial secondary layer and the ordinary sequence proceeds. Bootstrap/origination asymmetry is thereby registered as a permanent, labeled operational limit of the apparatus itself. No prior field is installed; no ex-nihilo generation is claimed. The Open Field remains the widest synthesis space available once analysis has begun. The framework therefore maintains ontological neutrality with respect to substantive metaphysical commitments. Like every other component of the schema, this mathematical model remains fully provisional and subject to revision, extension, or replacement under Presumption 8\.
+The distinctions articulated in this mathematical model emerge within the activity of analyzing an expression that has already obtained. They do not function as ontological prerequisites that must obtain before any expression can occur. The formal apparatus and all derived procedures are defined only for inputs already presented as primary expressions; they never claim to generate the first expression or the first secondary. First operational act, given a candidate primary E0  E\_0  E0: abduct a provisional secondary set S0  S\_0  S0 by applying the hybrid H  H  H under a default uniform prior and maximal σ  \\sigma  σ (widest generative tension). If the resulting traction vector (i.e., the vector of secondary-level hybrid scores Hi  H\_i  Hi) is entirely ≤τ  \\leq \\tau  ≤τ, the yield is immediately Raw/Regressed with full isolation and the chainhalts (Synthesis Refusal at the system’s own conditions of possibility). Otherwise S0  S\_0  S0 becomes the initial secondary layer and the ordinary sequence proceeds. Bootstrap/origination asymmetry is thereby registered as a permanent, labeled operational limit of the apparatus itself. No prior field is installed; no ex-nihilo generation is claimed. The Open Field remains the widest synthesis space available once analysis has begun. The framework therefore maintains ontological neutrality with respect to substantive metaphysical commitments. Like every other component of the schema, this mathematical model remains fully provisional and subject to revision, extension, or replacement under Presumption 8\.
 
 This formal model supplies the general mathematical machinery — hybrid functions, fuzzy membership families, normalized Bayesian posteriors, dilemma gates, and inheritance rules — from which the concrete metrics, phases, and ledgers of the Expressionalism Toolkit are derived as operational specializations. Every specific implementation choice remains fully consistent with the general principles articulated here and is subject to the same renewal logic under Presumption 8\.
 
@@ -10,12 +10,12 @@ This formal model supplies the general mathematical machinery — hybrid functio
 
 The framework treats all core quantities as continuous spectra or gradients defined on the closed interval \[0,1\]  \[0,1\]  \[0,1\]. Every primary modeling step employs a hybrid function of the general form
 
-H(x)=min⁡(1, μ(x)×Pnorm(x∣V))∈\[0,1\]H(x) \= \\min\\bigl(1,\\ \\mu(x) \\times P\_{\\rm norm}(x \\mid V)\\bigr) \\in \[0,1\]H(x)=min(1, μ(x)×Pnorm​(x∣V))∈\[0,1\]
+H(x)=min⁡(1, μ(x)×Pnorm(x∣V))∈\[0,1\]H(x) \= \\min\\bigl(1,\\ \\mu(x) \\times P\_{\\rm norm}(x \\mid V)\\bigr) \\in \[0,1\]H(x)=min(1, μ(x)×Pnorm(x∣V))∈\[0,1\]
 
 where:
 
 * μ(x) \\mu(x) μ(x) denotes a fuzzy membership function,  
-* Pnorm(x∣V) P\_{\\rm norm}(x \\mid V) Pnorm​(x∣V) denotes a normalized Bayesian posterior,  
+* Pnorm(x∣V) P\_{\\rm norm}(x \\mid V) Pnorm(x∣V) denotes a normalized Bayesian posterior,  
 * V V V stands for input variance, contrast, repeatability, or other conditioning information available within the current analysis,  
 * the minimum operator with upper bound 1 1 1 enforces saturation at full obtainability.
 
@@ -34,19 +34,19 @@ The framework employs two families of membership functions.
 
 For most operational contexts the framework adopts the linear ramp
 
-μ(x)={0if x≤τ,max⁡(0, min⁡(1, x−τ1−τ))if τ\<x\<1,1if x=1.\\mu(x) \= \\begin{cases} 0 & \\text{if } x \\leq \\tau, \\\\ \\max\\bigl(0,\\ \\min\\bigl(1,\\ \\frac{x \- \\tau}{1 \- \\tau}\\bigr)\\bigr) & \\text{if } \\tau \< x \< 1, \\\\ 1 & \\text{if } x \= 1\. \\end{cases}μ(x)=⎩⎨⎧​0max(0, min(1, 1−τx−τ​))1​if x≤τ,if τ\<x\<1,if x=1.​
+μ(x)={0if x≤τ,max⁡(0, min⁡(1, x−τ1−τ))if τ\<x\<1,1if x=1.\\mu(x) \= \\begin{cases} 0 & \\text{if } x \\leq \\tau, \\\\ \\max\\bigl(0,\\ \\min\\bigl(1,\\ \\frac{x \- \\tau}{1 \- \\tau}\\bigr)\\bigr) & \\text{if } \\tau \< x \< 1, \\\\ 1 & \\text{if } x \= 1\. \\end{cases}μ(x)=⎩⎨⎧0max(0, min(1, 1−τx−τ))1if x≤τ,if τ\<x\<1,if x=1.
 
 ### **Clamped sigmoid membership function**
 
 When smoother transitions or stronger mid-range differentiation are required, the framework employs the clamped sigmoid
 
-μ(x)=clamp⁡(11+e−k(x−m), 0, 1)\\mu(x) \= \\operatorname{clamp}\\Bigl(\\frac{1}{1 \+ e^{-k(x \- m)}},\\ 0,\\ 1\\Bigr)μ(x)=clamp(1+e−k(x−m)1​, 0, 1\)
+μ(x)=clamp⁡(11+e−k(x−m), 0, 1)\\mu(x) \= \\operatorname{clamp}\\Bigl(\\frac{1}{1 \+ e^{-k(x \- m)}},\\ 0,\\ 1\\Bigr)μ(x)=clamp(1+e−k(x−m)1, 0, 1\)
 
 with default steepness k=12  k \= 12  k=12 and midpoint m=0.5  m \= 0.5  m=0.5, both fully revisable under Presumption 8\. The clamp ensures strict confinement to \[0,1\]  \[0,1\]  \[0,1\].
 
 ## **3\. Normalized Bayesian Posterior**
 
-Given a set of candidate secondary expressions or feature weights, the normalized posterior is obtained by standard Bayesian updating under a chosen prior (default uniform) followed by L1  L\_1  L1​ renormalization so that the resulting distribution sums to 1  1  1\. The posterior enters the hybrid function as the second multiplicative factor and thereby supplies the graded evidential weight of each candidate relative to the conditioning information V  V  V.
+Given a set of candidate secondary expressions or feature weights, the normalized posterior is obtained by standard Bayesian updating under a chosen prior (default uniform) followed by L1  L\_1  L1 renormalization so that the resulting distribution sums to 1  1  1\. The posterior enters the hybrid function as the second multiplicative factor and thereby supplies the graded evidential weight of each candidate relative to the conditioning information V  V  V.
 
 ## **4\. Dilemma Gate and Decision Logic**
 
@@ -64,7 +64,7 @@ The pointing-aspect of an expression operates in one of two primary modes: self-
 
 ### **6.1 Isolation Residual Trigger**
 
-Isolation Residual is the operational density of components whose traction has fallen to or below the isolation threshold τ  \\tau  τ. When tractioni≤τ  \_i \\leq \\tau  i​≤τ, the component is subject to hard isolation: directedness is undefined (“pointing refused”), the component is excluded from all relational distributions and yields, and Isolation Residual density rises. Isolation Residual is not a mode; it sits strictly outside the two-mode distribution and receives no probability mass. It functions as a residual flag that signals the limit of secondary synthesis and contributes only to residual-side diagnostics and controlled uncertainty measures.
+Isolation Residual is the operational density of components whose traction has fallen to or below the isolation threshold τ  \\tau  τ. When tractioni≤τ  \_i \\leq \\tau  i≤τ, the component is subject to hard isolation: directedness is undefined (“pointing refused”), the component is excluded from all relational distributions and yields, and Isolation Residual density rises. Isolation Residual is not a mode; it sits strictly outside the two-mode distribution and receives no probability mass. It functions as a residual flag that signals the limit of secondary synthesis and contributes only to residual-side diagnostics and controlled uncertainty measures.
 
 ### **6.2 Hard Isolation Rule**
 
@@ -76,11 +76,11 @@ When traction falls to or below the isolation threshold τ  \\tau  τ (default �
 
 **Formal Rule**
 
-If tractioni≤τ  \_i \\leq \\tau  i​≤τ:
+If tractioni≤τ  \_i \\leq \\tau  i≤τ:
 
-tag⁡i=“Synthesis Refusal — isolated limit”\\operatorname{tag}\_i \= \\text{“Synthesis Refusal — isolated limit”}tagi​=“Synthesis Refusal — isolated limit”
+tag⁡i=“Synthesis Refusal — isolated limit”\\operatorname{tag}\_i \= \\text{“Synthesis Refusal — isolated limit”}tagi=“Synthesis Refusal — isolated limit”
 
-* exclude componenti \_i i​ from all aggregation, probability distributions, and yield calculations  
+* exclude componenti \_i i from all aggregation, probability distributions, and yield calculations  
 * report only as pointing refused
 
 This rule is non-negotiable and takes precedence over all other calculations.
@@ -89,7 +89,7 @@ This rule is non-negotiable and takes precedence over all other calculations.
 
 The Inferred Relator Mode Distribution characterizes the functional relator activity enacted by the pointing-aspect of the primary expression. It is derived exclusively from finalized Phase 5–6 metrics after hard isolation has been applied.
 
-The distribution models only the two primary modes. Softmax (or any equivalent normalization) is computed strictly over the non-isolated subset. Isolation Residual (isolation density) is defined as the proportion of components with tractioni≤τ  \_i \\leq \\tau  i​≤τ. It sits strictly outside the two-mode relational distribution, receives no probability mass, and indexes the density of Synthesis Refusal. When tractioni≤τ  \_i \\leq \\tau  i​≤τ, directedness is undefined and is labeled “pointing refused.”
+The distribution models only the two primary modes. Softmax (or any equivalent normalization) is computed strictly over the non-isolated subset. Isolation Residual (isolation density) is defined as the proportion of components with tractioni≤τ  \_i \\leq \\tau  i≤τ. It sits strictly outside the two-mode relational distribution, receives no probability mass, and indexes the density of Synthesis Refusal. When tractioni≤τ  \_i \\leq \\tau  i≤τ, directedness is undefined and is labeled “pointing refused.”
 
 After hard isolation has been applied:
 
@@ -101,14 +101,15 @@ The concrete feature construction that produces the two logits (or any equivalen
 
 **Grouped Presentation**
 
-P(Self-pointing)=P(Self)P(\\text{Self-pointing}) \= P(\\text{Self})P(Self-pointing)=P(Self)  
+P(Self-pointing)=P(Self)P(\\text{Self-pointing}) \= P(\\text{Self})P(Self-pointing)=P(Self)
+
 P(Pointing to something else)=P(Other-pointing)P(\\text{Pointing to something else}) \= P(\\text{Other-pointing})P(Pointing to something else)=P(Other-pointing)
 
 The probabilities are heuristic and interpretive only. Functional roles remain context-dependent under Presumption 8\.
 
 ### **6.4 Uncertainty Probability Handling Under Hard Isolation**
 
-Note: §6.2 excludes the isolated components from all relational calculations. §6.4 then registers the overall density of those exclusions with a single controlled uncertainty boost; the two steps are sequential, not contradictory.
+**Note:** §6.2 excludes the isolated components from all relational calculations. §6.4 then registers the overall density of those exclusions with a single controlled uncertainty boost; the two steps are sequential, not contradictory.
 
 When hard isolation is triggered, isolated components are excluded from all relational aggregation, probability distributions, and direct per-component uncertainty updates (§6.2). The existence of Isolation Residual, however, still contributes to overall uncertainty in a controlled, post-exclusion manner.
 
@@ -120,7 +121,7 @@ where Isolation Residual is the isolation density defined in §6.3. The final re
 
 ### **6.5 Interaction with the General Hybrid Function H(x) H(x) H(x) and Dilemma Gate**
 
-The hard isolation rule operates as a post-processing filter applied after evaluation of the general hybrid function. Any component whose secondary-level hybrid Hi≤τ  H\_i \\leq \\tau  Hi​≤τ is subject to the hard isolation rule. Isolated components are excluded from all downstream calculations that rely on the output of H(x)  H(x)  H(x) for relational aggregation. This structure maintains the general modeling principles of the hybrid function and dilemma gate while extending their logic to enforce the operational protection of non-relational limits.
+The hard isolation rule operates as a post-processing filter applied after evaluation of the general hybrid function. Any component whose secondary-level hybrid Hi≤τ  H\_i \\leq \\tau  Hi≤τ is subject to the hard isolation rule. Isolated components are excluded from all downstream calculations that rely on the output of H(x)  H(x)  H(x) for relational aggregation. This structure maintains the general modeling principles of the hybrid function and dilemma gate while extending their logic to enforce the operational protection of non-relational limits.
 
 ### **6.6 Reporting of Isolation Events in Metrics and Tables**
 
@@ -157,7 +158,7 @@ Claim-Tempered=Tensive×(1−0.1×SCT)\\text{Claim-Tempered} \= \\text{Tensive} 
 
 The Secondary Coherence Score serves as a major diagnostic of secondary synthesis strength among survivors. Residual-side diagnostics (Isolation Residual and related post-isolation uncertainty measures) are commensurate. SCS is not the definition of meaning and is not the single primary or central measure of the system. It is calculated as:
 
-Secondary Coherence Score=0.40×Alignment to Primary‾+0.35×Inter-Secondary Coherence‾+0.25×Traction Provided‾\\text{Secondary Coherence Score} \= 0.40 \\times \\overline{\\text{Alignment to Primary}} \+ 0.35 \\times \\overline{\\text{Inter-Secondary Coherence}} \+ 0.25 \\times \\overline{\\text{Traction Provided}}Secondary Coherence Score=0.40×Alignment to Primary​+0.35×Inter-Secondary Coherence​+0.25×Traction Provided
+Secondary Coherence Score=0.40×Alignment to Primary‾+0.35×Inter-Secondary Coherence‾+0.25×Traction Provided‾\\text{Secondary Coherence Score} \= 0.40 \\times \\overline{\\text{Alignment to Primary}} \+ 0.35 \\times \\overline{\\text{Inter-Secondary Coherence}} \+ 0.25 \\times \\overline{\\text{Traction Provided}}Secondary Coherence Score=0.40×Alignment to Primary+0.35×Inter-Secondary Coherence+0.25×Traction Provided
 
 (clamped to \[0,1\]  \[0,1\]  \[0,1\]), where the averages are taken exclusively over components with traction \>τ  \> \\tau  \>τ.
 
@@ -166,7 +167,7 @@ Secondary Coherence Score=0.40×Alignment to Primary‾+0.35×Inter-Secondary Co
 The three quantities averaged in the Secondary Coherence Score are computed after hard isolation has been applied:
 
 * Alignment to Primary for secondary i i i quantifies the directed relational connectivity of secondary i i i to the primary (treated as related at ∼1 \\sim 1 ∼1 certainty under Presumption 5).  
-* Traction Provided for secondary i i i is defined by the identity specialization tractioni≡Hi \_i \\equiv H\_i i​≡Hi​, where Hi H\_i Hi​ is the secondary-level hybrid evaluated after the dilemma gate and before isolation. Values ≤τ \\leq \\tau ≤τ trigger hard isolation.  
+* Traction Provided for secondary i i i is defined by the identity specialization tractioni≡Hi \_i \\equiv H\_i i≡Hi, where Hi H\_i Hi is the secondary-level hybrid evaluated after the dilemma gate and before isolation. Values ≤τ \\leq \\tau ≤τ trigger hard isolation.  
 * Inter-Secondary Coherence for secondary i i i quantifies the meshing of secondary i i i with the other non-isolated secondaries. Isolated components are excluded from the sum by construction.
 
 These three per-secondary quantities, and only these, are averaged to produce the Secondary Coherence Score. No undocumented post-processing intervenes between the per-secondary values and the final weighted mean.
@@ -175,23 +176,23 @@ These three per-secondary quantities, and only these, are averaged to produce th
 
 Three additional quantities may be computed as supporting diagnostics. They do not participate in the primary hybrid function, isolation decisions, core yields, or the Inferred Relator Mode Distribution under default settings.
 
-**Directedness differential δ  \\delta  δ**
+### **Directedness differential δ \\delta δ**
 
-After hard isolation, for each non-isolated secondary i  i  i the directedness differential δi∈\[0,1\]  \\delta\_i \\in \[0,1\]  δi​∈\[0,1\] is defined as the normalized asymmetric / directed component of the already-defined Alignment-to-Primary score relative to the primary. Preferred realization (licensed minimal default, fully revisable under Presumption 8):
+After hard isolation, for each non-isolated secondary i  i  i the directedness differential δi∈\[0,1\]  \\delta\_i \\in \[0,1\]  δi∈\[0,1\] is defined as the normalized asymmetric / directed component of the already-defined Alignment-to-Primary score relative to the primary. Preferred realization (licensed minimal default, fully revisable under Presumption 8):
 
-δi=clamp⁡(Di→pDi→p+Dp→i+ε, 0, 1)\\delta\_i \= \\operatorname{clamp}\\left( \\frac{D\_{i \\to p}}{D\_{i \\to p} \+ D\_{p \\to i} \+ \\varepsilon},\\ 0,\\ 1 \\right)δi​=clamp(Di→p​+Dp→i​+εDi→p​​, 0, 1\)
+δi=clamp⁡(Di→pDi→p+Dp→i+ε, 0, 1)\\delta\_i \= \\operatorname{clamp}\\left( \\frac{D\_{i \\to p}}{D\_{i \\to p} \+ D\_{p \\to i} \+ \\varepsilon},\\ 0,\\ 1 \\right)δi=clamp(Di→p+Dp→i+εDi→p, 0, 1\)
 
 with ε≥10−12  \\varepsilon \\geq 10^{-12}  ε≥10−12. δ  \\delta  δ is a pure reading instrument. Optional weight of mean δ  \\delta  δ into the Alignment term of SCS defaults to 0  0  0; any positive weight is an explicit Presumption 8 specialization and must be declared as such.
 
-When tractioni≤τ  \_i \\leq \\tau  i​≤τ, directedness is undefined and is labeled “pointing refused” under the Synthesis Refusal tag. No positive directedness is attributed to Isolation Residual.
+When tractioni≤τ  \_i \\leq \\tau  i≤τ, directedness is undefined and is labeled “pointing refused” under the Synthesis Refusal tag. No positive directedness is attributed to Isolation Residual.
 
 These quantities remain fully provisional under Presumption 8\.
 
-**Tension of Certainty**
+### **Tension of Certainty**
 
 Tension of Certainty is the Formal Model’s name for this particular realization of the Framework’s tensive ratio. It is defined identically to the Tensive yield:
 
-Tension of Certainty≡SCS×(1−ρ)\\text{Tension of Certainty} \\equiv \\sqrt{\\text{SCS} \\times (1 \- \\rho)}Tension of Certainty≡SCS×(1−ρ)​
+Tension of Certainty≡SCS×(1−ρ)\\text{Tension of Certainty} \\equiv \\sqrt{\\text{SCS} \\times (1 \- \\rho)}Tension of Certainty≡SCS×(1−ρ)
 
 where ρ  \\rho  ρ is Isolation Residual. It is two-sided by construction: it rises only when secondary synthesis strength among survivors is high and Isolation Residual remains low (or residual limits remain present). It is provisional under Presumption 8\.
 
