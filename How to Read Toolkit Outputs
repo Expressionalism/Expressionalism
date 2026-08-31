@@ -1,49 +1,97 @@
-**How to Read a Toolkit Output**
+# **How to read toolkit outputs**
 
-When you run something through the Expressionalism Toolkit, you receive a structured report. You don’t need to understand every section or number. Most people can get a clear picture by focusing on just a few key parts.
+## **Read these first**
 
-The toolkit is designed to show both what connects reliably and what remains uncertain or out of reach. Both are treated as meaningful.
+### **The Four Takes**
 
-### **The Most Useful Sections for Most People**
+These four short sections are written in everyday language. For most people they are the most useful part of the report.
 
-**Executive Yield \+ Secondary Coherence Score**
+* **Certainty Take** — which supports still point back, and whether they sit together  
+* **Uncertainty Take** — what was isolated, what stayed open, and where two supports clash without falling out  
+* **Reflexive Take** — pressure inside the supports that still held  
+* **Recap Take** — the shape of this run: what held, what did not, and the yield type
 
-This appears near the top and gives a quick overall summary of the result.
+Many people stop here.
 
-The **Secondary Coherence Score** is the most helpful single number. It reflects how coherently the supporting references align with your input:
+### **Executive Yield**
 
-* **Above 0.70** — Strong, reliable connections  
-* **0.50 – 0.70** — Solid, with noticeable tension or gaps  
-* **Below 0.50** — Significant limits or refusals were found
+This block sits near the top. It is a snapshot of the run, not a verdict on the world.
 
-**The Four Plain-Language Takes**
+**Yield Type** is the overall shape of this run — Balanced, Tensive, Tempered, Raw/Regressed, or a close cousin.
 
-These four short sections (usually found toward the bottom) are written in everyday language and are often the most valuable part of the output:
+**Secondary Coherence Score** measures how coherently the surviving supports point back at your input. It is computed only on the ones that were not isolated. It is a major diagnostic of that mesh. It is not the meaning of the cup, the event, or the claim.
 
-* **Certainty Take** — What connects clearly and consistently  
-* **Uncertainty Take** — What remains open, uncertain, or resistant to connection  
-* **Reflexive Take** — Hidden tensions or assumptions within even the stronger parts  
-* **Recap Take** — The overall picture: what the expression reveals and where the main tension lies
+Among the supports that still held, these bands are typical:
 
-Many people find that reading these four sections is enough to understand the result.
+* **Above 0.78** — very strong mesh  
+* **0.52 – 0.78** — balanced or strong  
+* **0.25 – 0.50** — tempered or low-traction  
+* **Below 0.25, or N/A** — almost nothing held, or everything was isolated
 
-**Traction Flow Diagram**
+A high score among survivors does not erase the leftover pile. A lower score does not mean the thing is empty.
 
-This visual shows how strongly different references connect (or fail to connect) to your input. Low-traction items are clearly marked. It offers a quick way to see the overall shape of the relationships.
+**Isolation Residual** is the share of listed supports that did not hold this time (the isolation density). It sits next to the Secondary Coherence Score. The two numbers are two facts. Do not mash them into one score and call that the meaning.
 
-### **Other Sections (Useful When You Want More Detail)**
+**Tensive**, when it appears, is one formal way of holding those two facts together: how strong the surviving mesh is, given how much was refused. It is not a second meaning-number.
 
-* **Uncertainty Ledger** — Lists the specific gaps, questions, and points where secondary synthesis is refused. This section often contains some of the most honest and insightful information in the output.  
-* **Certainty Table & Uncertainty Table** — Show the strongest connections and clearest limitations, along with the references that support them.  
-* **Inferred Relator Mode Distribution** — Indicates whether the expression is primarily pointing at itself, outward to other things, or gesturing toward what cannot be fully captured.  
-* **Secondary Expression Table \+ Alignment Ledger** — Show which outside references were used and how well each one aligned with your input.  
-* **Metric Evolution Table & Final Metrics** — Provide a technical view of how the analysis developed. Most readers can skip these unless they want deeper detail.
+The same block also prints the three pieces that made the Secondary Coherence Score — mean alignment, mean inter-coherence, and mean traction — so you can see the arithmetic.
 
-### **A Few Practical Notes**
+---
 
-* The toolkit’s results are **provisional**. Every output includes a reminder that you can accept the current result, refine it, or start over.  
-* Running the same input more than once can be helpful. While some numbers may shift slightly between runs, the overall picture (main strengths and main gaps) tends to remain consistent.  
-* If anything in the output feels unclear, you can ask the AI for a simpler explanation or to expand on any section.
+## **Then look at the picture**
 
-The goal of the toolkit is not to deliver a final judgment, but to help you see more clearly what holds together and what stays open in whatever you choose to examine.
+### **Secondary Synthesis Ledger and Traction Flow Diagram**
+
+The ledger is the cast of this run. Each row is something that came forward.
+
+* Rows marked **Retained** still point back. Those are the holders.  
+* Rows marked **Synthesis Refusal** came forward and do not hold this up. Traction is treated as zero. They are excluded from the scores above.
+
+The Traction Flow Diagram is the same cast as a tree: holders on one branch, refusals on the other. Low-traction holders stay on the holder branch. They are weak. They are not leftover. You do not have to read every note.
+
+### **Uncertainty Table**
+
+This is the leftover of this run, plus two other kinds of openness that are not leftover.
+
+* **Synthesis Refusal** — listed supports that do not point back. Same rows as the isolated lines in the ledger.  
+* **Retained Openness** — something that stayed under-specified among the holders. It did not fall out. It also did not close.  
+* **Inter-Secondary Clash** — two holders that still hold and do not sit easily together. A clash is not leftover. The row should name the pair.
+
+What never came forward is not on this table. Do not hunt it.
+
+---
+
+## **If you want more detail**
+
+**Run Metadata** — how many supports were listed, how many were isolated, input variance, and the isolation density again in short form.
+
+**Hard Isolation Summary** — a compact restatement of the refusal pile. If nothing was isolated, this section says so.
+
+**Contrast & Non-Relational Gap Summary** and **Audit Summary** — two short paragraphs on what this look was contrasting, and whether the retained mesh hangs together.
+
+**Inferred Relator Mode Distribution** — whether the retained supports are mostly pointing at the input itself or outward at other things. Only those two modes are in the distribution. Isolation Residual is parked outside that pair. It is not a third mode.
+
+**Tempered Certainty Ledger** — the holders again, with a note about where each one is still under pressure.
+
+**Required Claims for Secondary Truth Ledger** — the claims the retained supports needed in order to hold. **Secondary Claim Temper** is the stability of that list. A shaky row is a weak required claim. It is not leftover.
+
+**Metric Evolution Table** and **Supporting Diagnostics** — a technical view of how the numbers moved. Most readers can skip these. Resonance, Stability, Meaning Tension, Reflexive Tension, and the rest are supporting instruments. Meaning Tension is a named metric. It is not the definition of meaning.
+
+If **Light Output** was on, the tables collapse into one narrative. The same facts are still in it: yield type, the survivor score, the isolation density, and the two piles.
+
+---
+
+## **A few practical notes**
+
+The result is provisional. Every report ends at a P8 gate: the current yield may stand, or you may change the input, change the supports, look again, or stop.
+
+Running the same input more than once can help. Some numbers shift. The overall picture — what held, what did not — tends to stay recognizable. Three runs usually give a picture of the variation and of which supports keep being used.
+
+You pick the input. You can pick the toggles. Two honest runs can disagree. The report is not a judge.
+
+If you want the same look without the numbers, Volume 1 has a one-page version that uses a pen.
+
+---
+
+The toolkit does not deliver a final judgment. It shows what held together in this run, and what stayed open. The ordinary thing continues.
 
