@@ -1,101 +1,90 @@
 # Expressionalism
 
-> A provisional, ontologically neutral framework for understanding how meaning arises through expression and pointing — while honestly protecting what resists full relational construction.
+*A short account of what shows up when you look*
 
-Expressionalism provides a minimal yet rigorous schema for analyzing any expression (thought, language, experience, art, or computation). It centers on the **pointing-aspect** of expression and treats meaning as a **tensive ratio** between what can be relationally synthesized and what necessarily remains as non-relational remainder or gap.
+*If anything “is” — whatever it is — what else (beyond its own inclusion) must be certain?*
 
-The framework is deliberately open and self-renewing. It does not claim to be a final ontology or a prescriptive method. Instead, it offers clear distinctions, operational tools, and a formal computational substrate that can be examined, used, refined, or set aside.
+*This is not the answer.*
 
----
-
-## What Expressionalism Offers
-
-- A set of eight foundational presumptions (P1–P8) that prioritize ontological neutrality, relational construction, and the protection of non-relational remainders.
-- An operational **Toolkit** with concrete workflows, metrics (including the Secondary Coherence Score), spectra, and toggles for practical analysis.
-- A **Computational Substrate** with a formal mathematical model (hybrid function H(x), dilemma gate, relational density spectrum) and full parameter justification.
-- Rigorous, multi-stage **validation** of the model and metrics, including edge cases and isolation behavior.
-- A comprehensive **Glossary** that bridges plain-language accessibility with technical precision.
-
-Together these elements form a coherent system for reflective inquiry into meaning, while remaining provisional by design.
+Witten
 
 ---
 
-## Current State
+Most of the time nothing extra is required. The cup is for drinking. The car is for going.
 
-The core corpus is now complete and internally consistent:
+Sometimes a look starts. You are no longer only living with the thing. This project is about what seems to hold once that look has started: what points back, what comes forward and does not, and the fact that the look is not the world.
 
-- Full philosophical Framework (P1–P8)
-- Operational Toolkit with measurable outputs
-- Computational Substrate and Parameter Justification
-- Seven-stage empirical validation of the mathematical model and metrics
-- Complete Glossary
-- Systematic responses to common objections and critiques
+It does not decide whether living is always looking. It does not decide what a person is. It does not offer a final ontology.
 
-All major components have been tested against the framework’s own standards of clarity, consistency, and non-coercive openness.
+A thicker machinery exists if you want it. You do not have to go there.
 
----
+## Two volumes
 
-## Project Structure
+**Volume 1** is the short book. Everyday language. A page you can fill in with a pen. No metrics.
 
-The repository contains the complete Expressionalism corpus organized for both human readers and computational use:
+**Volume 2** is the rest of this repository: the Framework, the Toolkit, the glossary, the formal model, the validations, and the objections.
 
-- `Framework/` — Core philosophical presumptions and distinctions
-- `Toolkit/` — Operational guidelines, workflows, metrics, and ledgers
-- `Computational-Substrate/` — Formal model, parameter derivations, and justification
-- `Validations/` — Full testing reports and simulator results
-- `Glossary/` — Plain-language and technical definitions
-- `Objections/` — Addressed critiques and responses
+Start with Volume 1 if you want the door. Open the Framework if you want the if-then chain behind it. Open the Toolkit only if you want a numbered run.
 
-The most polished reading experience is available on the project website.
+## In this repository
 
----
+The files sit at the root. There are no `Framework/` or `Toolkit/` folders.
 
-## Getting Started
+| File | What it is |
+| --- | --- |
+| [Volume 1](Volume%201) | The short book |
+| [Expressionalism Framework.md](Expressionalism%20Framework.md) | What seems to be the case once a look has started |
+| [Expressionalism Toolkit.md](Expressionalism%20Toolkit.md) | The numbered analyzer |
+| [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs) | A decoder for a Toolkit report |
+| [Expressionalism Glossary.md](Expressionalism%20Glossary.md) | Words used in the corpus |
+| [Expressionalism Unified Formal Model](Expressionalism%20Unified%20Formal%20Model) | The formal model |
+| [Expressionalism Unified Mathematical Model](Expressionalism%20Unified%20Mathematical%20Model) | The mathematical companion |
+| [Computational Substrate and Justification.md](Computational%20Substrate%20and%20Justification.md) | Parameters and justification |
+| [Expressionalism Toolkit Metric Tests and Results.md](Expressionalism%20Toolkit%20Metric%20Tests%20and%20Results.md) | Validation of the metrics |
+| [Expressionalism Critiques Addressed.md](Expressionalism%20Critiques%20Addressed.md) | Objections, answered |
+| [Expressionalism Acknowledgements.md](Expressionalism%20Acknowledgements.md) | Thinkers, traditions, formal resources |
+| `docs/` | Formatted `.docx` copies of several of the same documents |
+| `scripts/expressionalism_toolkit.py` | The Python script that produces a Toolkit report |
 
-1. Visit **[expressionalism.com](https://expressionalism.com)** for the full, well-formatted corpus and latest updates.
-2. Begin with the Framework to understand the foundational presumptions.
-3. Move to the Toolkit when you want to apply the distinctions in practice.
-4. Explore the Computational Substrate if you are interested in the formal and mathematical foundations.
+## Reading order
 
-The framework is meant to be engaged with, not simply consumed. The P8 renewal gate explicitly invites you to accept, refine, modularly incorporate, or discard any part of it.
+1. [Volume 1](Volume%201)
+2. [Expressionalism Framework.md](Expressionalism%20Framework.md)
+3. [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs), then the Toolkit, if you want a numbered run
+4. Formal model and substrate, if you want the math
+5. [expressionalism.com](https://expressionalism.com) for a formatted reading copy of the corpus
 
----
+The Framework is the core. The Toolkit was built later to measure the relational. It is not the cornerstone.
 
-## Resources
+## Running the script
 
-- **Project Website**: [expressionalism.com](https://expressionalism.com) — Primary home for the full corpus and interactive reading experience.
-- **GitHub Repository**: This repo contains the complete source documents and validation materials.
-- **Glossary**: Available on the website for quick reference.
+```bash
+pip install -r requirements.txt
+python scripts/expressionalism_toolkit.py --input "There is a cup on the table."
+```
 
----
+Read the report with [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs). Three runs of the same input usually give a picture of the variation and of which supports keep being used.
 
-## Contributing & Feedback
+A pen is enough if you do not want the script. That page lives in Volume 1.
 
-Expressionalism is designed as an open, revisable system. Thoughtful engagement, critique, and suggested refinements are welcome, especially when offered in the spirit of provisionality and intellectual honesty.
+## Contributing
 
-You can open issues or pull requests here on GitHub. All contributions are themselves expressions and can be examined through the same lens the framework provides.
+The work is provisional. You can accept it, refine it, take a piece, or set it down.
 
----
+Open an issue or a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md). A sentence in the Framework is as real a contribution as a toggle in the script.
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Writing in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code is licensed under MIT. See [LICENSE](LICENSE) and [Expressionalism License and Copyright Notice.md](Expressionalism%20License%20and%20Copyright%20Notice.md).
 
-**You are free to:**
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+**You are free to share and adapt the writing**, including commercially, if you give credit and say whether you changed it.
 
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+Example attribution:
 
-No additional restrictions may be applied that legally restrict others from doing anything the license permits.
-
-### Example Attribution
 > Expressionalism by Witten (2025), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-For the full legal code, see the [Creative Commons license page](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ---
 
-**Expressionalism does not offer final answers.**  
-It offers a sharper mirror for when you choose to pause and look carefully at how meaning appears.
+The drawing can get as dense as it wants. The ordinary thing continues.
+
+**Expressionalism does not offer final answers.** It offers a sharper look at what holds, and what does not, when you choose to pause.
