@@ -1,4 +1,6 @@
 numpy
 scipy
 pandas
-argparse
+pydantic
+# optional — better embeddings if installed; the script runs without it
+# sentence-transformers
