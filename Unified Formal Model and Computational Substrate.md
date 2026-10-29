@@ -48,7 +48,7 @@ $`\mu(x) = 1`$, if $`x = 1`$
 When smoother transitions or stronger mid-range differentiation are required, the framework employs the clamped sigmoid
 
 ```math
-\mu(x) = \operatorname{clamp}\left( \frac{1}{1 + e^{- k(x - m)}},\ 0,\ 1 \right)
+\mu(x) = \mathrm{clamp}\left( \frac{1}{1 + e^{- k(x - m)}},\ 0,\ 1 \right)
 ```
 
 with default steepness k = 12 and midpoint m = 0.5, both fully revisable under Presumption 8. The clamp ensures strict confinement to [0,1].
@@ -102,7 +102,7 @@ The distribution models only the two primary modes. Softmax (or any equivalent n
 After hard isolation has been applied:
 
 ```math
-P(Self\text{‑}pointing) + P(Other\text{‑}pointing) = 1
+P(Self{-}pointing) + P(Other{-}pointing) = 1
 ```
 
 on the non-isolated survivors only. Isolation Residual remains outside that normalized distribution.
@@ -112,11 +112,11 @@ The concrete feature construction that produces the two logits (or any equivalen
 **Grouped Presentation:**
 
 ```math
-P(Self\text{‑}pointing) = P(Self)
+P(Self{-}pointing) = P(Self)
 ```
 
 ```math
-P(Pointing\ something\ else) = P(Other\text{‑}pointing)
+P(Pointing\ something\ else) = P(Other{-}pointing)
 ```
 
 The probabilities are heuristic and interpretive only. Functional roles remain context-dependent under Presumption 8.
@@ -167,7 +167,7 @@ where ρ is Isolation Residual (isolation density) and SCS (the Secondary Cohere
 The Claim-Tempered variant incorporates an adjustment by Secondary Claim Temper (SCT):
 
 ```math
-Claim\text{‑}Tempered = Tensive \times (1 - 0.1 \times SCT)
+Claim{-}Tempered = Tensive \times (1 - 0.1 \times SCT)
 ```
 
 The Toolkit clamps SCT to [0.3, 0.7], a working default revisable under Presumption 8.
@@ -185,7 +185,7 @@ The three quantities averaged in the Secondary Coherence Score are computed afte
 Alignment to Primary for secondary i quantifies the relational connectivity of secondary i to the primary (treated as related at ∼1 certainty under Presumption 5). Its licensed default, revisable under Presumption 8, is
 
 ```math
-{Alignment}_{i} = 1 - \operatorname{JSD}\left( P_{i} \parallel P_{primary} \right)
+{Alignment}_{i} = 1 - \mathrm{JSD}\left( P_{i} \parallel P_{primary} \right)
 ```
 
 where JSD is the base-2 Jensen-Shannon divergence, $`P_{i}`$ is the soft distribution of survivor i (Computational Substrate §4.1.1), and $`P_{primary}`$ is the primary’s distribution on the same feature space.
@@ -296,9 +296,9 @@ The weight 0.35 assigned to Inter-Secondary Coherence is justified by the role o
 
 After hard isolation, each non-isolated secondary i is represented by a soft distribution $`P_{i}`$ over the identical feature space used for Alignment. By default, with N here denoting the number of non-isolated survivors (not the full count used for ρ), the per-secondary Inter-Secondary Coherence is defined as:
 
-$`{Inter\text{‑}Secondary\ Coherence}_{i} = 1`$, if $`N = 1`$
+$`{Inter{-}Secondary\ Coherence}_{i} = 1`$, if $`N = 1`$
 
-$`{Inter\text{‑}Secondary\ Coherence}_{i} = \frac{1}{N - 1}\sum_{j \neq i}\left( 1 - \operatorname{JSD}\left( P_{i} \parallel P_{j} \right) \right)`$, if N ≥ 2
+$`{Inter{-}Secondary\ Coherence}_{i} = \frac{1}{N - 1}\sum_{j \neq i}\left( 1 - \mathrm{JSD}\left( P_{i} \parallel P_{j} \right) \right)`$, if N ≥ 2
 
 This construction satisfies the seven design criteria:
 
@@ -344,7 +344,9 @@ After Hard Isolation, each non-isolated secondary is treated as a soft vector. T
 
 On the identical Phase-1 normalized membership or chunk-weight distribution already used for classical Avg Density (see the Toolkit, Phase 1: Determine Foundations), Tsallis entropy is evaluated:
 
-$`S_{q} = \frac{1 - \sum_{i}p_{i}^{q}}{q - 1}`$, $`q \neq 1`$
+```math
+S_{q} = \frac{1 - \sum_{i}p_{i}^{q}}{q - 1}, \quad q \neq 1
+```
 
 ```math
 \phi\left( S_{q} \right) = \frac{S_{q}}{S_{q}^{\max}(k,q)}
@@ -369,7 +371,7 @@ After hard isolation has been applied, for each non-isolated secondary i the dir
 
 Preferred realization (licensed default, revisable under Presumption 8): let $`D_{i \rightarrow p}`$ = KL($`P_{i}`$ ‖ $`P_{primary}`$) and $`D_{p \rightarrow i}`$ = KL($`P_{primary}`$ ‖ $`P_{i}`$), where both distributions receive additive smoothing if necessary. Then
 
-$`\delta_{i} = \operatorname{clamp}\left( \frac{D_{i \rightarrow p}}{D_{i \rightarrow p} + D_{p \rightarrow i} + \varepsilon},\ 0,\ 1 \right)`$, $`\varepsilon \geq 10^{- 12}`$
+$`\delta_{i} = \mathrm{clamp}\left( \frac{D_{i \rightarrow p}}{D_{i \rightarrow p} + D_{p \rightarrow i} + \varepsilon},\ 0,\ 1 \right)`$, $`\varepsilon \geq 10^{- 12}`$
 
 This construction satisfies the seven design criteria:
 
