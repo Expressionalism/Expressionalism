@@ -49,8 +49,9 @@ The files sit at the root, listed here in book order.
 | [Expressionalism Toolkit.md](Expressionalism%20Toolkit.md) | Volume Two, Part Two | The method for running the account on an expression |
 | [Expressionalism Critiques Addressed.md](Expressionalism%20Critiques%20Addressed.md) | Volume Two, Part Three | Critiques and Objections, each with a response |
 | [Expressionalism Acknowledgements.md](Expressionalism%20Acknowledgements.md) | Volume Three, Part One | Thinkers, traditions, and formal resources |
-| [Expressionalism Metric Checks.md](Expressionalism%20Metric%20Checks.md) | Volume Three, Part Two | Metrics Checks: what the checks show and do not show |
+| [Expressionalism Metrics Checks.md](Expressionalism%20Metrics%20Checks.md) | Volume Three, Part Two | Metrics Checks: what the checks show and do not show |
 | [Expressionalism Sample Runs.md](Expressionalism%20Sample%20Runs.md) | Volume Three, Part Three | Sample Toolkit Runs, eight in all |
+| [How to Read Toolkit Outputs.md](How%20to%20Read%20Toolkit%20Outputs.md) | Guide | How to read a Toolkit report |
 | [Expressionalism Glossary.md](Expressionalism%20Glossary.md) | Glossary | The terms of Volumes Two and Three |
 
 Also here: [Expressionalism License and Copyright Notice.md](Expressionalism%20License%20and%20Copyright%20Notice.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
