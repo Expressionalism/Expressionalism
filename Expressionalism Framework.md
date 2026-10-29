@@ -1,8 +1,8 @@
-### **The Expressionalism Framework**
+# **The Expressionalism Framework**
 
 *A Schema of Relational Obtainability and Pointing*
 
-#### **Author’s Note**
+## **Author’s Note**
 
 Most of the time we simply live.
 
@@ -18,7 +18,7 @@ In short, this is not a system that tells you what to believe or how to live. It
 
 Consider this note your friendly heads-up before the more detailed sections begin. Everything is provisional. The framework is here if or when you want a clearer way to examine something you are already thinking or feeling. You can set the whole set of distinctions aside.
 
-#### **Preface**
+## **Preface**
 
 The eight presumptions that follow offer one coherent, minimal, and fully revisable descriptive account of how any expression obtains and how its pointing-aspect can be analyzed. In the sense used here, an expression is any provisional stabilization of secondary synthesis — whether a thought, a claim, a work of art, a scientific assertion, a personal memory, a perceptual scene, a political document, or a moment of silence. Pointing is the directed, representational, or reflexive aspect of an expression: its capacity to stabilize toward itself (self-pointing) or toward distinct repeatable entities (other-pointing). The eight presumptions articulate the functional distinctions through which the pointing-aspect of any expression can be analyzed: how it is supported, or fails to be supported, by secondary expressions; how those expressions align or refuse alignment; and how meaning appears as the tensive ratio between what holds with relative certainty and what remains uncertain or unconnectable.
 
@@ -32,9 +32,9 @@ Users may, if they prefer, begin analysis directly at the functional decompositi
 
 The entire schema — including the present statement of its own status — remains provisional. Every engagement with it, including the decision to adopt, revise, extend, or set it aside, can itself be treated as an expression subject to the same analysis the presumptions describe. The framework therefore carries its own renewal mechanism from the outset. Nothing in what follows is offered as fixed or canonical. The presumptions constitute one coherent articulation of how expression obtains through secondary synthesis and how its pointing-aspect can be examined; other articulations remain admissible.
 
-#### **Introduction**
+## **Introduction**
 
-##### ***Framework Overview***
+### ***Framework Overview***
 
 Expressionalism supplies a conditional, dialectical framework that offers one coherent and revisable descriptive account of how any expression obtains as a provisional stabilization of secondary synthesis and how its pointing-aspect can be analyzed.
 
@@ -80,11 +80,11 @@ The Toolkit, later in this volume, converts the presumptions into computable met
 
 Any engagement with the framework — rearrangement of its presumptions, selective adoption, outright rejection, or even the act of setting the text aside — can itself be treated as an expression subject to the same schema. The renewal loop remains open, and the next expression may form within the conditional space that the framework provisionally illuminates.
 
-##### ***A Note on Primitives***
+### ***A Note on Primitives***
 
 The framework adopts expression as its fundamental primitive: the stabilized unit that obtains through secondary synthesis. Pointing is not the primitive; it is the directed, representational, or reflexive aspect of an expression — its capacity to point toward itself (self-pointing) or toward other expressions (other-pointing). During analysis the current primary expression is treated primarily as a related whose pointing-aspect is being examined. Secondary expressions function as relators. The pointing-aspect of the primary may itself enact relator activity toward something further. When the pointing-aspect directs toward something that may not itself be an expression (or may resist being treated as one), the framework does not address the ultimate status of that referent. Analysis focuses on what can be relationally examined. The two primary modes (self-pointing and other-pointing) describe the internal structure of the pointing-aspect of an expression; the Non-relational Remainder remains the limit, not a third measurable mode. Protection of non-relational gaps is enacted operationally because any such registration occurs from within the relational field of analysis. Any reference to what resists connection is itself a relational gesture performed from within analysis; the framework registers only the limit, not the content of the gap.
 
-##### ***A Note on Words***
+### ***A Note on Words***
 
 A few ordinary words keep narrower senses here.
 
@@ -93,11 +93,11 @@ A few ordinary words keep narrower senses here.
 * *A gap* is anything a run can name, including a non-connection; the Non-relational Remainder names only the limit and is never produced by a run.  
 * *User*, *reader*, and *you* name whatever takes up the next expression; each is itself an expression, not a performer standing outside the analysis.
 
-##### ***On Formalization***
+### ***On Formalization***
 
 The eight presumptions articulate the functional distinctions through which any expression may be analyzed and through which its pointing-aspect may be examined. These distinctions stand as a coherent philosophical account and may be engaged directly without reference to formalization. Readers who wish to examine the complete operational model — including the hybrid function, the spectra of obtainability, contrast, repeatability, layering, multiplicity, alignment, and yield, together with the associated fuzzy memberships, normalized Bayesian procedures, dilemma gates, and metrics — will find that model developed in full in Unified Formal Model, later in this volume. That chapter supplies a formal mathematical representation of the framework’s distinctions. It is offered as an available resource and representation rather than as a foundation, prerequisite, or higher authority for the philosophical analysis the presumptions themselves conduct.
 
-##### ***How This Chapter Is Organized***
+### ***How This Chapter Is Organized***
 
 For clarity and natural pacing, the presumptions are grouped thematically across five sections:
 
@@ -109,91 +109,91 @@ For clarity and natural pacing, the presumptions are grouped thematically across
 
 Common objections and critiques are addressed in Critiques and Objections, later in this volume. Together, these sections deliver a testable account for analyzing the pointing-aspect of an expression in any domain — text, art, science, personal experience, or even silence itself — while remaining rigorously honest about what cannot be captured.
 
-##### ***In This Volume***
+### ***In This Volume***
 
 Unified Formal Model, Computational Substrate, Toolkit, and Critiques and Objections follow in this volume. Metrics Checks and the Acknowledgements are in Volume Three. When the framework is applied through the Toolkit, it produces yields, spectra, and metrics; every output returns to the tension between what holds with relative certainty and what stays uncertain. The framework may be used, tested, and made one’s own.
 
-#### **Section 1: Functional Distinctions in Analysis (P1–P3)**
+## **Section 1: Functional Distinctions in Analysis (P1–P3)**
 
-##### ***Presumption 1: The Open Field***
+### ***Presumption 1: The Open Field***
 
-###### *If-Then*
+#### *If-Then*
 
 If analysis begins on an expression that has already obtained as a provisional stabilization of secondary synthesis, the widest available synthesis space within that analysis is the Open Field. Within this space, secondary expressions may be abducted and aligned, or the analysis may register the absence or refusal of such alignment. If no expression obtains that can be brought under analysis, the chain halts at unobtainable silence.
 
 The framework begins from expression as its fundamental primitive and therefore registers that any claim about what may lie beyond the field of expressions and their pointing-aspect — including claims that mind-independent reality, pure non-relation, or any other state would obtain without relational activity — is itself an act that requires expression and relational activity to be articulated or analyzed. The framework claims only that traction on any such claim is obtained solely through expressions and the directed aspect of their pointing. Non-relational gaps are therefore registered operationally as points at which secondary synthesis loses traction, rather than as positive entities that the framework attempts to characterize.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Once an expression is given for analysis, the question immediately arises of the broadest space in which its supporting secondary expressions can be identified, compared, and evaluated, and in which its pointing-aspect can be examined. The Open Field supplies this space as the widest synthesis space indexed to the analysis at hand. It does not function as a prior ontological field that must already exist before any expression can occur. Rather, it is the widest synthesis space that becomes available the moment analysis begins on how a given expression is (or fails to be) constituted through secondary synthesis and how its pointing-aspect operates. The dilemma gate (proceed or halt) is therefore not a feature of existence itself but an operational threshold within the analysis: Door 1 proceeds with relational contrasts available for further distinctions; Door 2 registers generative uncertainty or silence when obtainability falls below the threshold.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Binary distinctions may emerge sharply within the analysis when secondary expressions support clear contrasts. Tetralemma mappings (affirm, negate, both, neither) or the optional pentalemma variant may be employed as analytical tools when the expression under examination exhibits paradox, fluidity, or mid-spectrum tension. Persistent unmappables or high-variance inputs may register as generative pauses that widen the synthesis space without forcing resolution.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Unmappable variants, persistent negations, or inputs whose obtainability remains below threshold register as uncertainties within the analysis. These are not treated as features of a pre-existing field but as observed limits of the current secondary synthesis. Persistent non-relational gaps are protected operationally and register only as remainders of expressions.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 The Open Field enables non-dogmatic analysis of any expression while remaining falsifiable through performative self-refutation or through yields dominated by high uncertainty. It supplies the broadest available synthesis space without claiming to describe existence prior to analysis.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, once an expression is given, the Open Field is the widest synthesis space available for identifying and aligning its supporting secondary expressions and for examining its pointing-aspect. It is not a prior ontological condition but the widest synthesis space that opens when analysis begins. If obtainability falls below threshold, the analysis registers uncertainty or silence. The Open Field supplies the broadest workable space for the distinctions that follow.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 When applying these distinctions in concrete analysis, the Open Field functions as the broadest practical synthesis space for the specific expression under examination. Users may enter at any point in the chain; the earlier distinctions are offered as one systematic path, not as necessary prerequisites.
 
-##### ***Presumption 2: Contrasting Parts in the Field***
+### ***Presumption 2: Contrasting Parts in the Field***
 
-###### *If-Then*
+#### *If-Then*
 
 If analysis of an expression proceeds, contrasting parts may emerge as the differentiations that appear when secondary expressions are brought into relation with one another. These contrasts provision distinctions for further analysis of the expression’s pointing-aspect. If secondary expressions remain undifferentiated or uniform within the analysis, the pointing-aspect stays minimally differentiated and the expression registers as minimally usable for further analysis.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Once secondary expressions are abducted in relation to a given expression, variances or degrees of difference among them become visible. These contrasting parts are not features that must already exist in a pre-analytic field; they are the differentiations that arise through the work of bringing secondary expressions into relation within the analysis itself. Contrasts therefore emerge immanently as part of the analytical process rather than as background ontological requirements. The pointing-aspect of the expression becomes visible through these contrasts.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Sharp binary contrasts may appear when secondary expressions support clear presence/absence distinctions. Fluid gradients or intensities may emerge when secondary expressions exhibit mid-spectrum or paradoxical relations. Persistent uniformities or isolates that will not cohere register as uncertainties within the analysis.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Isolates that will not cohere or persistent uniformities that resist differentiation register as observed non-coherences within the analysis. These are treated as limits of the current secondary synthesis rather than as intrinsic features of a prior field.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Contrasting parts ground differentiations necessary for further relational construction while remaining falsifiable through paradoxes of undistinguished inputs or through yields dominated by high uncertainty.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, once secondary expressions are brought into relation with an expression, contrasting parts appear as the differentiations among them. These contrasts are not prior ontological requirements but functional distinctions that emerge when secondary expressions differ. Persistent uniformities or isolates register as uncertainties within the current synthesis. The pointing-aspect of the expression becomes legible through these contrasts.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 Contrasting parts are identified and measured in operational analysis as the observed differences among abducted secondary expressions. The spectrum remains available whether the analysis begins at P1 or enters directly at functional decomposition.
 
-##### ***Presumption 3: Relational Construction of Contrasting Entities***
+### ***Presumption 3: Relational Construction of Contrasting Entities***
 
-###### *If-Then*
+#### *If-Then*
 
 If contrasting parts emerge within the analysis of an expression, they undergo relational construction: bifurcation into connectable paths (available for further synthesis) or unconnectable gaps (registering as limits of synthesis), co-emergence with repeatability, and decomposition into relateds (passive anchors) and relators (active connectors operating in self-pointing or other-pointing mode). The Non-relational Remainder marks the limit of obtainability; Isolation Residual (isolation density) rises when pointing is refused. Neither is a third peer mode. If construction fails or remains incoherent, the expression registers as minimally usable for further analysis of its pointing-aspect.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Once contrasting parts appear in analysis, the question of which differences can be carried forward relationally and which cannot becomes active. Relational construction supplies the operational distinctions — connectability, repeatability, and relational mode — through which an expression discloses usable structure in its pointing-aspect. These distinctions are revealed in the work of analysis rather than installed as prior ontological features. Decomposition into relateds and relators is the direct result of these three dimensions operating together within the analysis. Roles are functional and context-dependent; they are subject to perceptual shifts under re-expression (P8).
 
 During analysis the current primary expression is treated primarily as a related. Secondary expressions function as relators. The pointing-aspect of the primary may itself be enacting relator activity toward something further.
 
-###### *Bifurcation, Repeatability, and Decomposition*
+#### *Bifurcation, Repeatability, and Decomposition*
 
 Contrasting parts bifurcate into connectable relational paths or unconnectable gaps. The connectable paths co-emerge with repeatability (high invariants, mid sequences, low uniques). These repeatable paths then decompose into relateds and relators operating in one of two primary modes (self-pointing or other-pointing). The Non-relational Remainder names the limit of obtainability. Non-relational gaps register in analysis as the points at which secondary synthesis loses traction or is refused.
 
-###### *The Non-relational Remainder*
+#### *The Non-relational Remainder*
 
 The Non-relational Remainder marks the limit of obtainability within any given analysis. It is that which remains unregistered or unobtained once secondary expressions have done what they can. Non-relational gaps register strictly as the observable points at which secondary synthesis fails to cohere or point back to the primary expression. They are never installed as positive entities, symmetric counterparts to relateds or relators, or additional nodes inside the relational field.
 
@@ -203,171 +203,171 @@ The framework acknowledges that naming or gesturing toward what lies beyond rela
 
 Any gesture toward the non-relational, including the present analysis, remains itself a relational act.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Connectable paths yielding usable relateds and relators; non-relational gaps registering as Synthesis Refusal; high-repeatability invariants, mid-density sequences, or low-density uniques; relateds functioning as passive anchors and relators operating in self-pointing or other-pointing mode, with the Non-relational Remainder as the limit of obtainability and Isolation Residual rising when pointing is refused, rather than as a third peer mode.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Persistent non-relational gaps, true non-repeats, or undecomposable elements register as major uncertainties within the analysis. Isolation Residual (isolation density) receives no probability mass inside the two-mode distribution: when traction ≤ τ (the isolation threshold), pointing is refused. The Non-relational Remainder remains the limit of obtainability.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Relational construction supplies precise operational structure for analysis while remaining honest about its outer boundary. It is falsifiable through self-refutation, coherence failure, or yields dominated by high uncertainty. Functional Role Shift remains available under P8.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, once contrasting parts appear, relational construction decomposes them into connectable paths and unconnectable gaps, introduces repeatability, and yields relateds and relators operating in one of two primary modes (self-pointing or other-pointing). The current primary expression is treated primarily as a related whose pointing-aspect is under examination. Non-relational gaps register as the points where secondary synthesis loses traction. These are functional distinctions revealed in the work of analysis, not prior ontological installations. The framework protects against over-extension through hard isolation and Synthesis Refusal labeling (Isolation Residual when traction is refused) and through the default interpretive restraint articulated in P6. The Non-relational Remainder remains the limit of obtainability.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 In concrete analysis, related/relator decomposition and mode assignment are performed on the abducted secondary expressions. The relational density spectrum (two primary modes \+ Isolation Residual outside the distribution) remains the primary operational tool. Users may begin here directly if they prefer a stricter expression-first entry point; the earlier presumptions supply one systematic route to this decomposition.
 
-#### **Section 2: Primary Expressions and Their Parts**
+## **Section 2: Primary Expressions and Their Parts**
 
-##### ***Presumption 4: Layering in Expressions (Hierarchy Gate)***
+### ***Presumption 4: Layering in Expressions (Hierarchy Gate)***
 
-###### *If-Then*
+#### *If-Then*
 
 If relators and relateds — revealed through the spectrum of relational density in the analysis of an expression — obtain on repeatable relational entities, they organize into layered expressions: subatomic (singles), atomic (sequences), or complex (nests). Those layers provision primary expressions as self-contained units that analysis can treat as standing on their own at \~1 certainty. Otherwise, unorganizable elements regress to undecomposable uncertainties or unrepeatable uniques.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Relators and relateds revealed through the spectrum of relational density, without layering, would remain as unorganized parts within analysis. Hierarchical organization is therefore required to provision primary expressions as standalone units within analysis, while non-relational or incoherent paths stay tempered. Layering is not a prior ontological structure but a functional organization that becomes visible when repeatable relational paths are examined at different scales of expression. Layering organizes expressions so that their pointing-aspects can be examined at different scales.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Subatomic expressions consist of a lone related functioning strictly as a passive anchor. Atomic expressions consist of a sequence of relateds that functions as a relator while standing as a related when measured alone. Complex expressions consist of nests containing multiple relateds and at least one relator, with unlimited nesting depth permitted. The same entity may function as a related at one scale and a relator at another; these roles are revealed relationally and are subject to perceptual flips under P8.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Uncategorizable or persistently unlayerable elements register as uncertainties within the analysis. These register as observed limits of the current secondary synthesis rather than as features of a prior structure. Classification depends on perceptual interpretation in P8.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Layering organizes relational structure into usable wholes within analysis so their pointing-aspects can be examined. It is falsifiable via organizational incoherence or yields dominated by high uncertainty. Wholes as standalone relateds provision P5 co-existence.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, relators and relateds stack into layers — subatomic singles, atomic sequences (totals as relators), complex nests. Wholes stand as relateds. Uncategorizable elements register as uncertainties within the current synthesis. Layering is a functional organization revealed when repeatable relational paths are examined at different scales. It allows the pointing-aspect of expressions to be examined at multiple resolutions.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 In concrete analysis, layering is identified and measured on the abducted secondary expressions. Users may begin at this level of decomposition if preferred; earlier presumptions supply one systematic path but are not required.
 
-#### **Section 3: On Secondary Expressions**
+## **Section 3: On Secondary Expressions**
 
-##### ***Presumption 5: Plurality of Expressions (Scale Gate)***
+### ***Presumption 5: Plurality of Expressions (Scale Gate)***
 
-###### *If-Then*
+#### *If-Then*
 
 If layered expressions (revealed through the relational density spectrum in analysis) obtain, they appear as a current primary expression — the immediate totality, treated during analysis primarily as a related at \~1 certainty — co-existing with provisional others. Those others are secondary expressions as transduced multiples: solitary, finite (default pragmatic yields), or infinite. That co-existence enables relational calibration. Otherwise, singular or undifferentiated expressions regress to unlayered uncertainties.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Layered expressions without plurality would regress to a single closed totality within analysis. A multiplicity spectrum is therefore required to provision secondary expressions as transduced expressions — the dialectical ground for further relations — without forcing every variance into secondary form. Plurality is not a prior ontological feature but emerges when layered expressions are examined together in analysis. The current primary expression is treated as a related whose pointing-aspect is under analysis, while secondary expressions function as relators.
 
-###### *Possibilities*
+#### *Possibilities*
 
 The current primary expression serves as the immediate anchor. Secondary expressions appear as solitary (minimal certainties), finite (default pragmatic yields), or infinite (optional extension where P2 contrasts suggest unbounded variance). Non-relational uncertainties from P3 do not qualify as secondary expressions.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Undifferentiated or persistently solitary elements register as uncertainties within the analysis. Plurality co-emerges dialectically, but scalability depends on perceptual interpretation in P8.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Plurality grounds contexts within analysis and is falsifiable via contextual incoherence or high uncertainties.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, layered expressions come in multiples — solitary isolates, finite sets (default), infinite spreads (optional). The current primary totality is the immediate anchor (treated primarily as a related). The others are secondary expressions (functioning as relators). That setup provisions truth relations and meaning as certainty-uncertainty ratios while the pointing-aspect of the primary is examined.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 In concrete analysis, plurality and secondary expression sourcing are performed on the current primary expression and its abducted supports. Users may enter at this level if preferred.
 
-#### **Section 4: Measurement and Yield**
+## **Section 4: Measurement and Yield**
 
-##### ***Presumption 6: Comparability and Measurement of Expressions (Secondary Transduction Gate)***
+### ***Presumption 6: Comparability and Measurement of Expressions (Secondary Transduction Gate)***
 
-###### *If-Then*
+#### *If-Then*
 
 If plurality obtains in analysis as a current primary expression with secondary expressions, comparability arises as a spectrum of alignability and transduction — sparse, partial, or dense. That spectrum provisions distances and divergences as utilities. Otherwise, unalignable or non-secondary elements regress to uncertainties with reciprocal boosts.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 Plural primary expressions without comparability would regress to uncoordinated multiples within analysis. A transduction spectrum is therefore required to provision measurement as the dialectical yield — applying the chain fallibly to secondary expressions without assuming commensurability. Comparability is not a prior ontological relation but emerges when secondary expressions are brought into measurable relation within analysis.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Sparse comparisons involve low-solidity gestures with non-relational gaps. Partial comparisons involve mid-solidity transduced phenomena. Dense comparisons involve high-solidity native expressions as secondary expressions.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Persistent untransducible or non-alignable elements register as uncertainties within the analysis.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Comparability enables nuanced yields and is falsifiable via alignment failures or high uncertainties.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, secondary expressions enable comparisons on a spectrum — sparse voids, partial asymmetries, dense continua — provisioning distances. Unalignables register as uncertainties, with reciprocal boosts when the analysis requires them. The pointing-aspect of the primary expression is measured through these comparisons.
 
-###### *Default Interpretive Restraint*
+#### *Default Interpretive Restraint*
 
 When traction is low or Synthesis Refusal appears in a run, the framework defaults to keeping further interpretive gestures relatively weak unless the specific secondary expressions under consideration provide strong grounds to override that default. This default interpretive restraint is justified on operational grounds: it supports consistent measurement and resists the tendency of relational analysis to fill in what it cannot capture. The restraint remains fully overridable. Any decision to strengthen, weaken, or bypass it can itself be treated as a new expression and is therefore subject to the renewal logic in P8. This restraint is an operational heuristic that acknowledges the relational character of all analysis. This restraint forms part of the operational protection of non-relational gaps by limiting further interpretive extension when traction is low.
 
-###### *On the Measurement of Relational Connectivity*
+#### *On the Measurement of Relational Connectivity*
 
 The framework assesses the standing of any primary expression by measuring the degree of relational connectivity its pointing-aspect establishes with abducted secondary expressions — how coherently those secondary expressions align with one another and point back to the primary expression. This is quantified through the Secondary Coherence Score (a major diagnostic of secondary synthesis strength among survivors, the secondary expressions left after hard isolation) and related residual-side metrics. The per-secondary values behind it are listed in the Secondary Synthesis Ledger, a table giving each secondary expression’s alignment, coherence, and traction. High relational connectivity indicates strong synthesis; low connectivity or explicit Synthesis Refusal labeling indicates weak or refused synthesis.
 
 This measurement approach does not constitute a privileging of relational connectivity as a higher value or more fundamental reality. It claims only that, within the domain of expressions, relational connectivity is the dimension that can be measured under the stated, revisable defaults and that indicates the strength of secondary synthesis. The justification is domain-appropriate and diagnostic rather than normative. If the secondary expressions abducted for a given primary expression are biased or flawed, this often surfaces in the yield as low Alignment, high uncertainty probability, or explicit Synthesis Refusal labeling; a bias shared by all the abducted secondary expressions can still align and will not surface this way.
 
-###### *On the Epistemic Status and Limits of Transduction*
+#### *On the Epistemic Status and Limits of Transduction*
 
 Every input to the framework — whether a linguistic claim, a visual scene, an emotional state, a personal memory, or a moment of silence — arrives as raw activation patterns. The framework and the Toolkit necessarily subject these patterns to transduction: the conversion of raw data into relational secondary expressions that can be abducted, aligned, and measured through the P1–P8 schema, with attention to the pointing-aspect of the primary expression. This transduction is fallible, selective, and inevitably reductive. What is gained is operational equity and analytical traction: non-linguistic and phenomenal inputs can be brought into the same relational field as linguistic claims and evaluated for the strength of their secondary synthesis and the character of their pointing-aspects.
 
 What is necessarily lost or distorted is the full intensity, context, ineffability, and qualitative specificity of the original phenomenon. The framework makes no claim that the transduced representation is the experience itself. It claims only that the transduced representation is a provisional expression about the experience — one that can be assessed for relational standing and pointing-aspect while the original phenomenon is not claimed by it; what no transduction carries is marked only by the Non-relational Remainder, the limit of obtainability. The system maintains honesty about these limits in three concrete ways: it widens sigma and boosts reciprocal uncertainty for porous or high-tension inputs; it explicitly labels low-traction or refused synthesis in the Toolkit’s Uncertainty Table and Traction Flow Diagram, with a short form of the Toolkit’s refusal label, “Synthesis Refusal active — no pointing back”; and it treats the entire transduction as itself a provisional secondary expression subject to correction by further secondary expressions. If the initial chunking proves biased or distorted, the abducted secondary expressions may conflict, Alignment may drop, and the yield may surface as tempered or raw. The framework’s response to potential transduction error is therefore multiplication of secondary expressions rather than denial.
 
-##### ***Presumption 7: Evaluation and Yield (Adjudication Gate)***
+### ***Presumption 7: Evaluation and Yield (Adjudication Gate)***
 
-###### *If-Then*
+#### *If-Then*
 
 If comparability and measurement obtain in analysis as calibrated secondary expressions relative to the current primary expression, the analysis aggregates persistent unmappables as uncertainties, maximizes relational secondary expressions, and adjudicates the dialectical sum. That adjudication provisionally yields a processed output as the re-expressed totality from P1–P7. Otherwise, unadjudicable or mismatched elements directly regress to raw yields, silences, or non-relational gaps, with reciprocal boosts.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 After expanding relational secondary expressions and measurements (P5–P6), the chain requires reflexive adjudication. This presumption dialectically evaluates the entire buildup as a provisional reading while immediately synthesizing it into a provisional yield. The yield spectrum itself encodes the self-check and defers any revision to P8. Evaluation is not a separate ontological operation but the dialectical aggregation of what has already emerged in analysis.
 
-###### *Possibilities*
+#### *Possibilities*
 
 Balanced Yield (high certainty dominance), Tensive Yield (mid certainty-uncertainty mix), Tempered Yield (low certainty dominance), and Raw/Regressed Yield (open pause or inevaluable state).
 
 Tensive Yield here is a type: a mid-mix band on this four-type spectrum. In the Formal Model and the Toolkit, Tensive is also a number. Those are not the same object.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Persistent negations, partials, passes, or unadjudicable elements remain as non-relational gaps within the analysis, with reciprocal boosts.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 Evaluation enables self-reflexive progression and is falsifiable via performative mismatches or yield incoherence.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 In analysis, compare and measure the secondary expressions against the primary expression (P6), then directly aggregate certainties versus uncertainties into a single provisional yield — balanced, tensive, tempered, or raw. The yield spectrum itself encodes the self-reflexive evaluation of the expression’s pointing-aspect.
 
-#### **Section 5: The Renewal Loop**
+## **Section 5: The Renewal Loop**
 
-##### ***Presumption 8: Perception and Orientation (Return of Responsibility)***
+### ***Presumption 8: Perception and Orientation (Return of Responsibility)***
 
-###### *If-Then*
+#### *If-Then*
 
 If yields obtain in analysis as adjudicated outputs from P1–P7, perception registers the completion of the current analysis and returns responsibility for the next orientation to the user. This orientation may take any form, including continued refinement within the present distinctions, modular incorporation of the framework (in whole or in part) into a larger expression or worldview, suspension of active analysis while retaining the distinctions as one available lens, or setting the distinctions aside entirely. Any such orientation remains possible within the same Open Field first described in P1. The framework does not require that the next orientation itself be subjected to further analysis under these distinctions, nor does it claim ongoing jurisdiction over thought or life once the distinctions are not being actively employed. At P8 the two outcomes are named P8 Door 1 (provisional acceptance) and P8 Door 2 (open re-expression, including discard), to tell them from the two Doors of P1.
 
-###### *Why It Follows*
+#### *Why It Follows*
 
 The chain of distinctions from P1 through P7 supplies one coherent and provisional way of examining how any expression obtains through secondary synthesis and how its pointing-aspect may be understood. Once that examination has been carried through to a yield, the framework has no further internal requirement to continue, justify, or extend the analysis. P8 therefore functions as the acknowledgment that the work of the present distinctions is complete for now and that the question of what comes next belongs to the user.
 
@@ -375,7 +375,7 @@ This return of responsibility is consistent with the framework’s starting poin
 
 The framework is self-referential by design. Every engagement with it — including the decision to continue using it, to incorporate it selectively, to suspend its use, or to set it aside — can itself be treated as an expression. This circularity is not a flaw to be escaped but a consequence of remaining consistently non-dogmatic about its own status. P8 articulates this honestly rather than attempting to create an artificial outside from which one could exit cleanly. At the same time, the framework does not require that every stance be actively analyzed under its terms. Living, thinking, or acting without currently employing these distinctions is a coherent possibility that the framework registers without interference.
 
-###### *Possibilities*
+#### *Possibilities*
 
 After any analysis, the user may orient in any direction that feels coherent for them. This includes, but is not limited to:
 
@@ -386,23 +386,23 @@ After any analysis, the user may orient in any direction that feels coherent for
 
 All of these orientations stand within the Open Field first described in P1. None is presented as more advanced, more complete, or more consistent with the framework than the others.
 
-###### *Uncertainties*
+#### *Uncertainties*
 
 Any orientation carries its own limits and remainders. These may be examined in a subsequent analysis if the user chooses to do so, or they may be left unexamined. The framework registers this as a standing feature of its own provisional character rather than as a problem to be resolved at P8.
 
-###### *Utility / Fallibility*
+#### *Utility / Fallibility*
 
 P8 preserves the framework’s non-dogmatic character by refusing to install any requirement that analysis must continue or that every stance must be brought back inside the distinctions. It can fail in use: the return of responsibility may prove insufficient or unnecessary for the purpose at hand. The next expression, whatever form it takes, may form within the conditional space the framework provisionally illuminates.
 
-###### *Plain Language Summary*
+#### *Plain Language Summary*
 
 Once an analysis has reached a yield, P8 marks the point at which the current work of these distinctions is finished and responsibility for what comes next returns to the user. The user may continue refining the distinctions, incorporate them selectively into a larger view, set them aside for a time, or leave them aside altogether. All of these possibilities stand within the same Open Field described at the beginning in P1. The framework does not require that any particular next step be analyzed under its own terms, nor does it claim to follow or oversee thought once its distinctions are no longer being actively used. Self-referentiality is acknowledged honestly: any stance can be examined if one later chooses to examine it. At the same time, the framework does not demand that examination.
 
-###### *Note on Operational Use*
+#### *Note on Operational Use*
 
 In the Toolkit, P8 appears as the final gate after a yield has been produced. It presents the current analysis as complete and leaves the question of further engagement entirely to the user. No additional technical constraints or required pathways are imposed at this stage. Any decision to re-enter the distinctions, to combine them with other commitments, or to set them aside is recorded only as metadata if the user chooses to continue working with the system. The framework treats all such decisions as legitimate orientations within its own open field.
 
-#### **Relation to Operational Analysis**
+## **Relation to Operational Analysis**
 
 The framework supplies a descriptive philosophical account of how expression obtains through secondary synthesis and how meaning appears as the tensive ratio between certainties and uncertainties, with attention to the pointing-aspect of expressions. It articulates one set of functional distinctions through which any expression can be analyzed.
 
@@ -414,7 +414,7 @@ Users may enter the chain of distinctions at any point. Analysis may begin with 
 
 In this sense, the distinction between the philosophical account and its operational application is itself provisional. Operational analysis does not merely apply the framework; it participates in the very activity the framework describes. The renewal logic of P8 remains open at every stage. The framework does not require that any subsequent orientation be brought back under analysis.
 
-#### **Conclusion**
+## **Conclusion**
 
 The framework presented in these pages offers one coherent, minimal, and fully revisable descriptive account of how any expression obtains and how its pointing-aspect can be analyzed. It begins from the activity of analyzing an expression that has already occurred and articulates the functional distinctions through which that expression can be examined: how it is constituted through secondary synthesis, where its supporting secondary expressions align or refuse alignment, and how meaning appears as the tensive ratio between connectable certainties and the uncertainties, generative pauses, and non-relational gaps that necessarily remain — with explicit attention to the directed aspect of the expression.
 
