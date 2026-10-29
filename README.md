@@ -1,10 +1,11 @@
 # Expressionalism
 
-*A short account of what shows up when you look*
+*A Schema of Relational Obtainability and Pointing*
 
-*If anything “is” — whatever it is — what else (beyond its own inclusion) must be certain?*
+*If anything “is” — whatever it is —*\
+*what else (beyond its own inclusion) must be certain?*
 
-*This is not the answer.*
+*Another answer you can question.*
 
 Witten
 
@@ -18,70 +19,76 @@ It does not decide whether living is always looking. It does not decide what a p
 
 A thicker machinery exists if you want it. You do not have to go there.
 
-## Two volumes
+## How the book is laid out
 
-**Volume 1** is the short book. Everyday language. A page you can fill in with a pen. No metrics.
+The book is in three volumes, followed by a Glossary. The printed edition also has an Index.
 
-**Volume 2** is the rest of this repository: the Framework, the Toolkit, the glossary, the formal model, the validations, and the objections.
+**Volume One** is the plain-language account. It defines its own words as it goes and needs nothing else in the book. It names what seems to be the case once a look has started, then lets you run that look on one thing you write at the top of a page, with a pen. A reader can stop at the end of it.
 
-Start with Volume 1 if you want the door. Open the Framework if you want the if-then chain behind it. Open the Toolkit only if you want a numbered run.
+**Volume Two** is the same account in full detail: the machinery. It has three parts.
+
+- **Part One:** the Framework, and the Unified Formal Model and Computational Substrate
+- **Part Two:** the Toolkit, the method for running the account on an expression
+- **Part Three:** the Critiques and Objections
+
+Specialists may begin with Volume Two, though it is open to any reader.
+
+**Volume Three** holds the materials that support Volume Two, in three parts: the Acknowledgements, the Metrics Checks, and the Sample Toolkit Runs.
+
+**The Glossary** covers the terms of Volumes Two and Three.
 
 ## In this repository
 
-The files sit at the root. There are no `Framework/` or `Toolkit/` folders.
+The files sit at the root, listed here in book order.
 
-| File | What it is |
-| --- | --- |
-| [Volume 1](Volume%201) | The short book |
-| [Expressionalism Framework.md](Expressionalism%20Framework.md) | What seems to be the case once a look has started |
-| [Expressionalism Toolkit.md](Expressionalism%20Toolkit.md) | The numbered analyzer |
-| [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs) | A decoder for a Toolkit report |
-| [Expressionalism Glossary.md](Expressionalism%20Glossary.md) | Words used in the corpus |
-| [Expressionalism Unified Formal Model](Expressionalism%20Unified%20Formal%20Model) | The formal model |
-| [Expressionalism Unified Mathematical Model](Expressionalism%20Unified%20Mathematical%20Model) | The mathematical companion |
-| [Computational Substrate and Justification.md](Computational%20Substrate%20and%20Justification.md) | Parameters and justification |
-| [Expressionalism Toolkit Metric Tests and Results.md](Expressionalism%20Toolkit%20Metric%20Tests%20and%20Results.md) | Validation of the metrics |
-| [Expressionalism Critiques Addressed.md](Expressionalism%20Critiques%20Addressed.md) | Objections, answered |
-| [Expressionalism Acknowledgements.md](Expressionalism%20Acknowledgements.md) | Thinkers, traditions, formal resources |
-| `docs/` | Formatted `.docx` copies of several of the same documents |
-| `scripts/expressionalism_toolkit.py` | The Python script that produces a Toolkit report |
+| File | Where it sits in the book | What it is |
+| --- | --- | --- |
+| [Expressionalism Volume One.md](Expressionalism%20Volume%20One.md) | Volume One | The plain-language account, with a page you can use |
+| [Expressionalism Framework.md](Expressionalism%20Framework.md) | Volume Two, Part One | The eight presumptions in full |
+| [Expressionalism Unified Formal Model and Computational Substrate.md](Expressionalism%20Unified%20Formal%20Model%20and%20Computational%20Substrate.md) | Volume Two, Part One | The formal model, and the reasons for its parameters |
+| [Expressionalism Toolkit.md](Expressionalism%20Toolkit.md) | Volume Two, Part Two | The method for running the account on an expression |
+| [Expressionalism Critiques Addressed.md](Expressionalism%20Critiques%20Addressed.md) | Volume Two, Part Three | Critiques and Objections, each with a response |
+| [Expressionalism Acknowledgements.md](Expressionalism%20Acknowledgements.md) | Volume Three, Part One | Thinkers, traditions, and formal resources |
+| [Expressionalism Metric Checks.md](Expressionalism%20Metric%20Checks.md) | Volume Three, Part Two | Metrics Checks: what the checks show and do not show |
+| [Expressionalism Sample Runs.md](Expressionalism%20Sample%20Runs.md) | Volume Three, Part Three | Sample Toolkit Runs, eight in all |
+| [Expressionalism Glossary.md](Expressionalism%20Glossary.md) | Glossary | The terms of Volumes Two and Three |
+
+Also here: [Expressionalism License and Copyright Notice.md](Expressionalism%20License%20and%20Copyright%20Notice.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+
+For a formatted reading copy, see [expressionalism.com](https://expressionalism.com).
 
 ## Reading order
 
-1. [Volume 1](Volume%201)
-2. [Expressionalism Framework.md](Expressionalism%20Framework.md)
-3. [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs), then the Toolkit, if you want a numbered run
-4. Formal model and substrate, if you want the math
-5. [expressionalism.com](https://expressionalism.com) for a formatted reading copy of the corpus
+Start with Volume One. After that, pick whichever fits what you want; the rest are choices, not steps.
 
-The Framework is the core. The Toolkit was built later to measure the relational. It is not the cornerstone.
+1. [Volume One](Expressionalism%20Volume%20One.md), if you want the short version: everyday language, no metrics, and a page you fill in with a pen about one line you choose. It is a complete account on its own, and you can stop at the end of it.
+2. [The Framework](Expressionalism%20Framework.md), if you want the full account behind it: eight presumptions, each stated as “if this, then that,” with why it follows, what stays uncertain, and a plain-language summary.
+3. [The Toolkit](Expressionalism%20Toolkit.md), if you want to run the account on something yourself: a step-by-step method that ends in a report with a fixed layout. It applies the Framework step by step; the Framework does not depend on it. The [Sample Toolkit Runs](Expressionalism%20Sample%20Runs.md) show finished runs.
+4. [The Critiques and Objections](Expressionalism%20Critiques%20Addressed.md), if you want the objections first: 21 common critiques, each followed by a response.
+5. [The Unified Formal Model and Computational Substrate](Expressionalism%20Unified%20Formal%20Model%20and%20Computational%20Substrate.md), if you want the math.
+6. [The Acknowledgements](Expressionalism%20Acknowledgements.md) and [the Metrics Checks](Expressionalism%20Metric%20Checks.md), if you want the sources and the tests behind Volume Two.
 
-## Running the script
+Keep the [Glossary](Expressionalism%20Glossary.md) open for anything after Volume One.
 
-```bash
-pip install -r requirements.txt
-python scripts/expressionalism_toolkit.py --input "There is a cup on the table."
-```
-
-Read the report with [How to Read Toolkit Outputs](How%20to%20Read%20Toolkit%20Outputs). Three runs of the same input usually give a picture of the variation and of which supports keep being used.
-
-A pen is enough if you do not want the script. That page lives in Volume 1.
+A pen is enough if you only want to try it. That page is in Volume One, Part 2, “A page you can use.”
 
 ## Contributing
 
 The work is provisional. You can accept it, refine it, take a piece, or set it down.
 
-Open an issue or a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md). A sentence in the Framework is as real a contribution as a toggle in the script.
+Open an issue or a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md). A sentence in Volume One is as real a contribution as a sentence in the Framework.
 
 ## License
 
-Writing in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code is licensed under MIT. See [LICENSE](LICENSE) and [Expressionalism License and Copyright Notice.md](Expressionalism%20License%20and%20Copyright%20Notice.md).
+Copyright © 2025–2026 Witten.
 
-**You are free to share and adapt the writing**, including commercially, if you give credit and say whether you changed it.
+The writing in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [Expressionalism License and Copyright Notice.md](Expressionalism%20License%20and%20Copyright%20Notice.md).
+
+**You are free to share and adapt the writing**, including commercially, if you give credit, link to the license, and say whether you changed it.
 
 Example attribution:
 
-> Expressionalism by Witten (2025), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Expressionalism by Witten, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
